@@ -1,0 +1,616 @@
+- segment_id: 0
+  segment_text: Dashlane Privacy Policy
+  sentence_annotations: []
+- segment_id: 1
+  segment_text: Our Privacy Policy is below. You will have to accept it if you want
+    to use our software, but we know it can be hard to follow. To help you understand
+    what you are agreeing to, each section starts with a short non-legal summary.
+    The summaries are not part of the Policy but are provided as an aid to understanding
+    it.
+  sentence_annotations: []
+- segment_id: 2
+  segment_text: 'LAST UPDATED:'
+  sentence_annotations: []
+- segment_id: 3
+  segment_text: 1. INTRODUCTION
+  sentence_annotations: []
+- segment_id: 4
+  segment_text: 'Summary:'
+  sentence_annotations: []
+- segment_id: 5
+  segment_text: This Policy describes how we obtain and use personal data (which can
+    be used to identify a specific individual) and anonymous data (which cant) about
+    our users. Certain parts of the Policy, which are clearly labeled, apply only
+    to some users (e.g., those in the EU or California, those who are accessing the
+    Services under a plan paid for by their employer). We may change this Policy at
+    any time by posting the revised Policy here. We will notify current users of major
+    changes through email, in-app notifications, or otherwise. While we need certain
+    Personal Data to provide the Services, we try to collect only what we need. We
+    will remove personal data about children who are not authorized users (e.g., part
+    of a Family Plan) when requested.
+  sentence_annotations: []
+- segment_id: 6
+  segment_text: a. General. This Privacy Policy (the Policy) describes how Dashlane,
+    Inc. and its affiliates (Dashlane or we) collects, uses and shares information
+    about visitors to our website at www.dashlane.com (together with its subdomains,
+    such as the Dashlane blog, the Site) and users of our web extensions and mobile
+    desktop and web applications (each an App and, collectively, the Apps). The Apps
+    and the Site together are the Services. You or user refers to any user of the
+    Services or visitor to the Site. Capitalized words used but not defined in this
+    Policy have the meanings provided in our Terms of Service (the Terms).
+  sentence_annotations: []
+- segment_id: 7
+  segment_text: b. User Specific Provisions. Parts of the Policy apply only to people
+    subject to geographically defined privacy laws like the California Consumer Privacy
+    Act (CCPA), the European Unions General Data Protection Legislation (GDPR) and
+    Brazils LGPD. Other sections of the policy only apply to users who are accessing
+    the Services under a plan provided by their employer or similar entity (each,
+    a Business User). These provisions are clearly labeled. Otherwise, the Policy
+    applies equally to all users of our Services.
+  sentence_annotations: []
+- segment_id: 8
+  segment_text: c. Changes. We may change this Policy at any time. When we do so,
+    we will post the updated Policy on this page and, if the changes are material,
+    inform existing users through email or the Services.
+  sentence_annotations: []
+- segment_id: 9
+  segment_text: d. Children. The Services are not directed to children. However, children
+    who are invited to use the Services as members of a Family Plan may do so. If
+    you become aware that a child (based on the jurisdiction where the child lives,
+    which in the United States means someone under 13) has provided us with Personal
+    Data without parental consent, contact user support through our help center. We
+    will promptly remove such information from our systems.
+  sentence_annotations: []
+- segment_id: 10
+  segment_text: e. Personal and Anonymous Data. As used in this Policy, Personal Data
+    means information that, either alone or when combined with other information we
+    hold, identifies an individual, such as name, mailing address, email address,
+    IP address, or telephone number. Anonymous Data means data that, alone or combined
+    with other information available to us or a third party with whom the data is
+    shared, does not permit identification of an individual. We collect and use both
+    Personal Data and Anonymous Data as described below.
+  sentence_annotations: []
+- segment_id: 11
+  segment_text: f. Why Do We Need Your Personal Data? We need certain Personal Data
+    to provide the Services. You will be asked to provide this information  and must
+    agree to this Policy and the Terms to download and use the Apps. This consent,
+    which you may withdraw at any time, provides the legal basis we need to process
+    your Personal Data. You are not required to provide the Personal Data that we
+    request, but we may not be able to provide you with the Services or respond to
+    your inquiries if you dont.
+  sentence_annotations: []
+- segment_id: 12
+  segment_text: 2. Particularly Important Information (CertaIn jurisdictions)
+  sentence_annotations: []
+- segment_id: 13
+  segment_text: a. (EUROPEAN, BRITISH, AND BRAZILIAN USERS).
+  sentence_annotations: []
+- segment_id: 14
+  segment_text: i. Who We Are. For the purpose of the GDPR, LGPD, and other legislation
+    that requires the identification of a data controller of your Personal Data, the
+    controller is Dashlane SAS of 21 Rue Pierre Picard, 75018 Paris, France. You may
+    contact our data protection officer at dpo@dashlane.com.
+  sentence_annotations: []
+- segment_id: 15
+  segment_text: 'ii. Must Read Sections: Please carefully review the sections entitled
+    Data Security and International Transfer and Your Rights Regarding Personal Data.'
+  sentence_annotations: []
+- segment_id: 16
+  segment_text: b. (CALIFORNIA AND NEVADA USERS).
+  sentence_annotations: []
+- segment_id: 17
+  segment_text: i. Sale of Personal Data. You may opt out of all sales of your Personal
+    Data on the Do Not Sell my Personal Information page. We never exchange Personal
+    Data for money or any other consideration (e.g., trade it for free services).
+    However, the CCPAs broad definition of sale may include situations where conversion
+    data is sent to referral advertisers (when you click on an ad that sends you to
+    Dashlane, we send a unique identifier to the referring site so they can receive
+    credit for the referral). While the information we send does not include any Personal
+    Data, the fact that you clicked on a link and visited Dashlane may be added to
+    your profile by the ad publisher. This is all done on the Site with Publisher
+    Cookies (as defined in our Cookie Policy) and opting out of the sale of your Personal
+    Data will turn these cookies off.
+  sentence_annotations: []
+- segment_id: 18
+  segment_text: 3. How Does Dashlane Obtain Data?
+  sentence_annotations: []
+- segment_id: 19
+  segment_text: 'Summary:'
+  sentence_annotations: []
+- segment_id: 20
+  segment_text: We get data that you provide (such as when you create an Account or
+    pay for a Subscription), that others provide (such as when you are invited to
+    use Dashlane by your employer), that we obtain automatically from the Apps or
+    through cookies (such as the region you are accessing the Apps from), and from
+    third parties (such as tools that analyze performance of the Services). Personal
+    Data we collect includes your email and (for Subscriptions) billing information,
+    although complete payment information is only stored by our payment processors.
+    Because of our zero-knowledge architecture, we do not and cannot know what information
+    you store on the Services (Secured Data). We use technology, including cookies,
+    to collect usage data that we use to provide and improve the Services. Additional
+    information is available in our Cookie Policy.
+  sentence_annotations: []
+- segment_id: 21
+  segment_text: 'We collect information in the following ways:'
+  sentence_annotations: []
+- segment_id: 22
+  segment_text: a. Information You Provide.
+  sentence_annotations: []
+- segment_id: 23
+  segment_text: Registration Data. You must create an Account to use an App, and to
+    do so you must provide a valid email address that will be used as your login to
+    the Services. You may also choose to provide a phone number (to set up two-factor
+    authentication) and / or an additional email (for example, if you lose access
+    to the email used to login to your Account). The only Personal Data required to
+    open a Dashlane Free account is your email. We store registration data until seven
+    (7) days after you delete your Account. For paid Accounts, users must provide
+    billing data as specified below. For Dashlane Business or Dashlane Teams Accounts,
+    registration data includes the business name, mailing address (if paying by invoice),
+    and administrator contact information. It is critical to keep registration data
+    current. We must be able to verify that you are the Account owner to respond to
+    certain customer service requests. If you lose access to the contact email or
+    phone number associated with your Account (if applicable), you may be locked out
+    of your Account, and we may be unable to help you.
+  sentence_annotations: []
+- segment_id: 24
+  segment_text: Billing Data. We use third-party service providers to process payments
+    made through the Site. We may store partial payment information (such as the expiration
+    date and last four digits of your credit card) for tax compliance and customer
+    support purposes. We may be able to access the name, address, and phone number
+    associated with a payment method on a payment processors service, but this information
+    is only stored by the processor. We never have your complete payment information,
+    nor do we receive or store any billing data if you pay for a Subscription through
+    the Google Play or Apple App Stores (App Stores). Billing data is retained for
+    seven (7) days after you delete your Account.
+  sentence_annotations: []
+- segment_id: 25
+  segment_text: Master Password. Except for members of Dashlane Business Accounts
+    that use single sign-on (SSO) to access the Services, each user must create a
+    Master Password, which is used to access their Account and generate the encryption
+    keys that secure the information they store in the Apps (Secured Data as further
+    defined below). The more secure a Master Password is, the safer Secured Data will
+    be. Dashlanes zero-knowledge architecture ensures that we do not and cannot know
+    our users Master Passwords or the data used to generate SSO encryption keys, so
+    we cannot access Secured Data. There is no backdoor or master key; even if a hacker
+    somehow obtained all the Secured Data on our servers, they would have to hack
+    each user separately. Apps do not store Master Passwords locally unless specifically
+    directed by the user. If you direct an App to retain your Master Password and
+    your device is stolen or compromised, your Secured Data may be exposed.
+  sentence_annotations: []
+- segment_id: 26
+  segment_text: Secured Data. Our Apps let you manage digital identity data, including
+    sensitive information such as credit card numbers and site or application credentials.
+    This, and everything else you store on the Apps, is Secured Data. Secured Data
+    is always encrypted when transmitted and stored and may only be decrypted locally
+    on an authorized device. Secured Data on Dashlane servers cannot be accessed by
+    Dashlane because we do not have access to the encryption keys as noted above.
+    See our Security Whitepaper for detailed information about how Dashlane protects
+    Secured Data.
+  sentence_annotations: []
+- segment_id: 27
+  segment_text: Support and Correspondence. You may provide Personal Data in connection
+    with customer support requests and inquiries from our Site. Customer support histories
+    are maintained for seven (7) days after the associated Account is deleted.
+  sentence_annotations: []
+- segment_id: 28
+  segment_text: Feedback. If you provide us with Feedback, including reviews posted
+    on social channels, App Stores or sites like Trustpilot, or suggestions made in
+    connection with market research, we may use Personal Data provided with the Feedback
+    to respond to you. We may use Feedback without limitation as described in the
+    Terms.
+  sentence_annotations: []
+- segment_id: 29
+  segment_text: Requests for Product Information. Certain information intended to
+    inform potential customers of Dashlanes commercial offerings (Business Prospects)
+    is available from our Site only after providing a verified email.
+  sentence_annotations: []
+- segment_id: 30
+  segment_text: Other Data. We may also collect other types of information in the
+    manner disclosed by us when the information is collected.
+  sentence_annotations: []
+- segment_id: 31
+  segment_text: b. Data You Provide About Others. The Services let you invite others
+    to try the Apps. If you do this (or are invited this way), Dashlane will store
+    the invitees email address and the message sent to them to follow up (and, if
+    applicable, credit the referrer with any referral bonus or equivalent). We will
+    let the invitee know who referred them to Dashlane, and let them request that
+    their information be deleted from our systems. The referrer or invitee may contact
+    customer support via the Help Center to request removal of this information.
+  sentence_annotations: []
+- segment_id: 32
+  segment_text: c. Data Collected by Technology.
+  sentence_annotations: []
+- segment_id: 33
+  segment_text: 'Device and Browser Data. We automatically log the following information
+    (as applicable) when you access the Services: operating system name and version,
+    device identifier, browser type, browser language, and IP address. Some of this
+    data is collected using cookies, as explained in the Cookie Policy. This data
+    is used to secure your Account, ensure the Services are presented in the correct
+    language and optimized for your device, facilitate customer support, and for tax
+    and compliance purposes (e.g., using the region associated with your IP address
+    to display local regulatory notices). This data is kept in our system for seven
+    (7) days after you delete your Account.'
+  sentence_annotations: []
+- segment_id: 34
+  segment_text: 'Usage Data. We use logs to collect data about the use of the Services
+    (Usage Data). We maintain two types of Usage Data: Event Data, which is linked
+    to Registration Data, and Behavioral Data, which is fully anonymous.'
+  sentence_annotations: []
+- segment_id: 35
+  segment_text: o Event Data refers to the use of the Apps internal functions (e.g.,
+    what features are enabled, how many credentials are stored in Secured Data), and
+    is used to provide relevant information and support to the user and to deliver,
+    analyze, and improve the Services. Event Data does not include information about
+    how the Services interact with third parties (e.g., while we know how many passwords
+    a user has, we do not know which sites or services those passwords are for). After
+    an Account is deleted, Event Data is retained, but is fully anonymized (even if
+    the same user created a new Account, Event Data from the old Account could not
+    be associated with the new one). Retention of anonymized Event Data is necessary
+    to maintain accurate historical records of the use of the Services.
+  sentence_annotations: []
+- segment_id: 36
+  segment_text: o Behavioral Data is information about what users do outside of the
+    Services (e.g., sites where autofill is used to sign in; what sites or apps a
+    user has stored logins for in their Secured Data). Behavioral Data is critical
+    to the Services proper operation  Apps must recognize the site a user is logging
+    into to populate the credentials, for example  but it is reported and logged anonymously
+    and cannot be associated with individuals to maintain their privacy.
+  sentence_annotations: []
+- segment_id: 37
+  segment_text: Certain Dashlane personnel can access Event Data to analyze the use
+    of the Services and provide user and technical support. Both Event Data and Behavioral
+    Data are used by the Services to automatically generate context-appropriate alerts
+    (e.g., account set-up notices), and to generate Aggregated Data.
+  sentence_annotations: []
+- segment_id: 38
+  segment_text: Aggregated Data. We derive additional information about the use of
+    our Services by aggregating Usage Data (e.g., number of users within a particular
+    jurisdiction, most popular features). This Aggregated Data is Anonymous Data,
+    is owned by Dashlane, and is primarily used to help analyze and improve the Services.
+  sentence_annotations: []
+- segment_id: 39
+  segment_text: Cookies. As described in ourCookie Policy, we use cookies and similar
+    technologies to recognize you and/or your device(s) and provide a more personal
+    and seamless experience when interacting with the Services. Cookies that are not
+    essential to the operation of the Servies can be disabled at any time.
+  sentence_annotations: []
+- segment_id: 40
+  segment_text: d. Data obtained from Third Parties.
+  sentence_annotations: []
+- segment_id: 41
+  segment_text: Business Users. If you are a Business User, your Account admin may
+    provide your email information or SSO information as part of Account creation.
+  sentence_annotations: []
+- segment_id: 42
+  segment_text: Service Providers. We receive information about users from our service
+    providers (such as when validating an Account with a payment processor or when
+    monitoring App performance with analytics services). We also obtain user information
+    from publicly available sources like social media accounts, review sites, and
+    forums. We obtain information about Business Prospects from data enrichment services.
+    We carefully review the legal terms and business and security practices of all
+    service providers from which we receive this information. .
+  sentence_annotations: []
+- segment_id: 43
+  segment_text: 4. How Does Dashlane Use Your Personal Data?
+  sentence_annotations: []
+- segment_id: 44
+  segment_text: 'Summary:'
+  sentence_annotations: []
+- segment_id: 45
+  segment_text: We use Personal Data to validate your Account, provide the Services
+    and support, communicate with you, and coordinate marketing efforts. We do not
+    perform any automated decision making or profiling with your Personal Data.
+  sentence_annotations: []
+- segment_id: 46
+  segment_text: 'a. General. Dashlane uses Personal Data to provide and promote the
+    Services and respond to your requests, including to:'
+  sentence_annotations: []
+- segment_id: 47
+  segment_text: Establish, maintain, and secure your Account.
+  sentence_annotations: []
+- segment_id: 48
+  segment_text: Identify you as a user and provide the Services you request.
+  sentence_annotations: []
+- segment_id: 49
+  segment_text: Perform fraud detection and authentication.
+  sentence_annotations: []
+- segment_id: 50
+  segment_text: Measure Usage Data to improve the Services and your interactions with
+    them.
+  sentence_annotations: []
+- segment_id: 51
+  segment_text: Send you administrative notifications, such as payment reminders or
+    support and maintenance advisories. You will receive these notices even if you
+    choose not to receive marketing communications.
+  sentence_annotations: []
+- segment_id: 52
+  segment_text: Provide you with interfaces and options you request or as required
+    by the jurisdiction from which you access the Services.
+  sentence_annotations: []
+- segment_id: 53
+  segment_text: Provide personalized information by identifying whether you have used
+    specific features within the Services, visited pages on our Site, or seen one
+    of our advertisements.
+  sentence_annotations: []
+- segment_id: 54
+  segment_text: Respond to support inquiries and other requests.
+  sentence_annotations: []
+- segment_id: 55
+  segment_text: Promote the Services or send you other Dashlane marketing information,
+    including announcements about offerings from selected Dashlane partners. Certain
+    users, including those in Europe and Britain, must opt-in to receive marketing
+    communications when creating an Account or afterwards. Users elsewhere (and those
+    in Europe and Britain who have previously opted in) may always elect to stop receiving
+    such communications.
+  sentence_annotations: []
+- segment_id: 56
+  segment_text: Manage advertising efforts on third-party sites and platforms as further
+    described below.
+  sentence_annotations: []
+- segment_id: 57
+  segment_text: b. Automated Decision Making and Profiling. We do not use Personal
+    Data for automated decision-making.
+  sentence_annotations: []
+- segment_id: 58
+  segment_text: 5. How Does Dashlane Share PERSONAL DATA?
+  sentence_annotations: []
+- segment_id: 59
+  segment_text: 'Summary:'
+  sentence_annotations: []
+- segment_id: 60
+  segment_text: We never sell our users Personal Data. We share Personal Data with
+    service providers who are contractually obliged to comply with all applicable
+    laws (e.g., GDPR) and who only have access to the data they need to provide the
+    relevant Services. The Services allow you to share Secured Data (which may include
+    Personal Data) with others as you direct. We share hashed user emails and device
+    ids with advertisers to refine advertising efforts (so active users are not shown
+    Dashlane ads). We may share Personal Data with our affiliates, all of whom are
+    bound by this Policy, or with an acquirer if Dashlane is sold or merged. Dashlane
+    Business and Teams Account Administrators have access to Usage Data about the
+    business spaces of users of that Account. Finally, we may disclose Personal Data
+    where required by law or where we believe it is necessary to protect our rights
+    or the Services.
+  sentence_annotations: []
+- segment_id: 61
+  segment_text: 'Dashlane will never sell your Personal Data (as sell is normally
+    defined  see Sections 2(b) and 8 for information about sales as defined in California)
+    or use it except as stated in this Policy. We share your Personal Data in the
+    following circumstances:'
+  sentence_annotations: []
+- segment_id: 62
+  segment_text: Third Parties You Designate. You may use the Services sharing feature
+    to make certain Secured Data available to other. While this data is transferred
+    through our servers, we do not have access to it, as noted elsewhere in this Policy.
+  sentence_annotations: []
+- segment_id: 63
+  segment_text: Service Providers. We share Personal Data with service providers solely
+    as required to provide the Services, including to create Accounts, provide support,
+    process payments, or enable communication between you and Dashlane (for example,
+    Personal Data related to customer support requests is available to our agents
+    on Zendesk). We review the security and data privacy practices of all service
+    providers to ensure that they comply with applicable laws and this Policy. Secured
+    Data stored by our data hosting provider (AWS) is always encrypted as described
+    above. The Subprocessors List discloses what service providers have access to
+    Personal Data in connection with our delivery of the Services.
+  sentence_annotations: []
+- segment_id: 64
+  segment_text: Marketing. We provide hashed emails and/or device IDs to service providers
+    to optimize our advertising efforts (e.g., ensuring that current users are not
+    shown Dashlane ads on other sites). These providers are prohibited from using
+    this information for any other purpose, including augmenting profiles they maintain.
+    We provide hashed emails of Business Prospects to data enrichment providers to
+    improve marketing efforts.
+  sentence_annotations: []
+- segment_id: 65
+  segment_text: Affiliates. This Policy applies to all entities that are owned by,
+    or under common control with, Dashlane, Inc. (Affiliates). We share Personal Data
+    among Affiliates as required to provide the Services and respond to requests.
+    Certain Affiliates are in the United States, where privacy and related laws are
+    not deemed adequate by European regulators to hold and protect Personal Data subject
+    to the GDPR. To offer the levels of protection required by European law, we have
+    GDPR-compliant Data Processing Addenda or equivalent documents in place among
+    our EU and US Affiliates, in addition to the other measures indicated below.
+  sentence_annotations: []
+- segment_id: 66
+  segment_text: 'Dashlane Business and Team Account Administrators. Business Users
+    have access to two spaces in their Apps: a business space to store Secured Data
+    related to their work, and a personal space for anything else they want to store
+    on the Services. The Services allow Administrators of Dashlane Business and Team
+    Accounts (Business Admins) to view information about the use Services by the Business
+    Users associated with their Account, including detailed information about the
+    use of the business space. This information includes Event Data, as well as certain
+    Behavioral Data on an individual basis. For example, a Business Admin can see
+    the Password Health scores of all Business Users associated with their Account,
+    which sites or services an individual Business User has stored credentials for
+    in their business space, and whether those credentials have been compromised.'
+  sentence_annotations: []
+- segment_id: 67
+  segment_text: Corporate Restructuring. If Dashlane or its business or assets are
+    acquired by, or merged into, another company, that company will possess any Personal
+    Data we hold at such time, and will assume our rights and obligations under this
+    Policy. Accordingly, we may share Personal Data in connection with any such transaction.
+    Personal Data and other information may also be transferred as a business asset
+    in the event of Dashlanes insolvency, bankruptcy, or receivership.
+  sentence_annotations: []
+- segment_id: 68
+  segment_text: Other Disclosures. We will inform you of any other disclosures of
+    your Personal Data and obtain your consent prior to such disclosure. However,
+    regardless of your choices regarding Personal Data, Dashlane may disclose your
+    Personal Data (a) where required to comply with law enforcement directives, applicable
+    laws or governmental orders; or (b) if we believe in good faith that doing so
+    is necessary to protect our rights, those of other users, or the Services. However,
+    because of our zero-knowledge architecture, we are unable to provide any information
+    about users beyond Registration Data and Event Data even if we are subject to
+    a valid order. To the extent permitted by law, we will inform affected users of
+    legally-mandated disclosures of Personal Data.
+  sentence_annotations: []
+- segment_id: 69
+  segment_text: 6. Data Security and International Transfer
+  sentence_annotations: []
+- segment_id: 70
+  segment_text: 'Summary:'
+  sentence_annotations: []
+- segment_id: 71
+  segment_text: We strive to protect all data in our possession, including Personal
+    Data, through a variety of means, and we continually work to improve and update
+    these practices. However, we cannot and do not guarantee the security of Personal
+    Data we process. Personal Data may be transferred to jurisdictions with less strict
+    privacy laws than those in your home country, including the U.S., but we use technical
+    and other measures that comply with European, British, and other relevant regulations
+    to protect Personal Data when processed in the U.S.
+  sentence_annotations: []
+- segment_id: 72
+  segment_text: a. We use robust physical, organizational, technical, and administrative
+    measures to safeguard all data we hold or process, and we regularly reassess and
+    revise our policies and practices to improve security. While we go to great lengths
+    to protect your data, no method of data transmission or storage is totally secure;
+    therefore, we cannot guarantee the security of data in our control. If you believe
+    your data may have been compromised by us or the use of the Services, please contact
+    our help center immediately.
+  sentence_annotations: []
+- segment_id: 73
+  segment_text: b. Your information, including Personal Data that we collect from
+    you, may be transferred to, stored at, and processed by us, our Affiliates, and
+    service providers outside your home country, including in the United States, where
+    data protection and privacy regulations may not offer the same protections as
+    in other parts of the world. When we do so, we will take the steps described in
+    this Policy, including Section 5, which are designed to ensure that all Personal
+    Data we or our service providers process (regardless of where it originates) is
+    secured as required by applicable laws. By using the Services, you agree to the
+    transfer, storing, or processing of your data in accordance with this Policy.
+  sentence_annotations: []
+- segment_id: 74
+  segment_text: 7. How Can You Control Your Data?
+  sentence_annotations: []
+- segment_id: 75
+  segment_text: 'Summary:'
+  sentence_annotations: []
+- segment_id: 76
+  segment_text: You can edit your Personal Data and adjust your privacy and data preferences
+    via the Account or Settings sections of the Apps. If you currently receive marketing
+    emails but no longer want to, you may unsubscribe in any such email. Even if you
+    do so, we will still send you operational and transactional emails (e.g., renewal
+    notices). Uninstalling Apps from your devices will remove all data associated
+    with the Apps. Removing your Apps does not delete your Account. To do that, see
+    the instructions here.
+  sentence_annotations: []
+- segment_id: 77
+  segment_text: a. Changing Your Information and Privacy Settings. You can access
+    and modify Personal Data associated with your Account, and modify your privacy
+    and data preferences, through the My Account or Settings sections of the Apps.
+    Contact our help center if you need assistance.
+  sentence_annotations: []
+- segment_id: 78
+  segment_text: b. Email Communications. With your consent, we will periodically send
+    you emails promoting the use of the Services, including tips on using the Apps,
+    or highlighting offerings from select Dashlane partners. You can opt out of these
+    emails by following the unsubscribe instructions included in each email, or by
+    changing your privacy and data settings in the Services. You may also request
+    removal through our help center. Note that unsubscribing from marketing communications
+    will not affect operational and transactional communications, including breach
+    notices and other alerts in the Apps, renewal emails, etc.
+  sentence_annotations: []
+- segment_id: 79
+  segment_text: c. Applications. You can stop all collection of information by an
+    App by uninstalling that App. You may use the standard uninstall process for the
+    relevant device or platform. Uninstalling an App does not delete your Account.
+    To do that, see the instructions here.
+  sentence_annotations: []
+- segment_id: 80
+  segment_text: 8. Your Rights Regarding Personal Data (Users in the EU, UK, BRAZIL,
+    california, nevada, and virginia)
+  sentence_annotations: []
+- segment_id: 81
+  segment_text: 'Summary:'
+  sentence_annotations: []
+- segment_id: 82
+  segment_text: Users subject to the laws of the EU, Britain, Brazil, California,
+    and Nevada have certain rights regarding their Personal Data, including the right
+    to access and modify Personal Data held by providers (like us), and to have providers
+    forget Personal Data that is no longer relevant. Most of these rights must be
+    accessed from the privacy and data preferences in the Services, but you may always
+    contact us for assistance. We will never provide worse services to, or in any
+    way punish anyone who chooses to exercise these rights. We strongly support the
+    intent behind these laws and will do our best to honor requests to exercise these
+    rights even if they do not technically apply to you.
+  sentence_annotations: []
+- segment_id: 83
+  segment_text: 'a. You have the following rights with respect to your Personal Data
+    that we process. Except where indicated, these rights apply equally to users subject
+    to the GDPR (and related laws), CCPA, and LGPD:'
+  sentence_annotations: []
+- segment_id: 84
+  segment_text: 'Withdraw Consent: You may withdraw your consent to our processing
+    of your Personal Data, in whole or in part (i.e., for marketing purposes). Certain
+    Services may be ineffective upon opt out.'
+  sentence_annotations: []
+- segment_id: 85
+  segment_text: 'Access / Request Information: You may access the Personal Data we
+    hold about you at any time via your Account or by contacting us directly.'
+  sentence_annotations: []
+- segment_id: 86
+  segment_text: 'Modification: You may modify incorrect or outdated Personal Data
+    we hold about you at any time via your Account or by contacting us directly.'
+  sentence_annotations: []
+- segment_id: 87
+  segment_text: Erase and Forget. In certain situations, for example when Registration
+    Data we hold about you is no longer relevant or accurate, you can request that
+    we erase it. If you delete your account, all Personal Data will automatically
+    be erased within a week of the date of deletion.
+  sentence_annotations: []
+- segment_id: 88
+  segment_text: 'Portability: You may request a copy of your Personal Data and may
+    always move it to other entities as you choose.'
+  sentence_annotations: []
+- segment_id: 89
+  segment_text: 'No Sale of Personal Data (California and Nevada Users): Go to the
+    Do Not Sell My Personal Information page to stop all sale of your Personal Data.
+    See Section 2(b) above for more information about how this works. Of course, any
+    user can do this, regardless of jurisdiction.'
+  sentence_annotations: []
+- segment_id: 90
+  segment_text: 'b. If you want to exercise any of these rights, please submit the
+    request via the Privacy and Data Settings page accessible from the Account or
+    Settings sections of the Apps. If you need assistance, contact the help center,
+    email support@dashlane.com, or write us at the address below. In your request,
+    please make clear: (i) what Personal Data is concerned; and (ii) which of the
+    above rights you want to enforce. For your protection, we may only fulfill requests
+    with respect to the Personal Data associated with the email address you send your
+    request from, and we may need to verify your identity before doing so. We will
+    comply with your request promptly, but in any event within the legally mandated
+    timeframes (thirty (30) days for the GDPR and forty-five (45) days for the CCPA).
+    We may need to retain certain information for recordkeeping purposes or to complete
+    transactions that you began prior to requesting certain requests.'
+  sentence_annotations: []
+- segment_id: 91
+  segment_text: c. We do not and will not discriminate against any user (such as by
+    providing worse service or charging more for them) who exercises any of the above
+    rights.
+  sentence_annotations: []
+- segment_id: 92
+  segment_text: 9. Contact Information; Complaints
+  sentence_annotations: []
+- segment_id: 93
+  segment_text: 'If you have questions, concerns, or complaints about this Policy
+    or our data collection or processing practices, or if you want to report any security
+    violations, please contact our help center, email support@dashlane.com, or write
+    the address below:'
+  sentence_annotations: []
+- segment_id: 94
+  segment_text: Dashlane, Inc.
+  sentence_annotations: []
+- segment_id: 95
+  segment_text: 'Attn: Legal'
+  sentence_annotations: []
+- segment_id: 96
+  segment_text: 44 West 18th Street., 4th Fl.
+  sentence_annotations: []
+- segment_id: 97
+  segment_text: New York, NY 10011
+  sentence_annotations: []
+- segment_id: 98
+  segment_text: Swiss, EU and UK Users Only. We hope to promptly resolve any complaint
+    brought to our attention, however if you feel that your complaint has not been
+    adequately resolved, you may always contact your local data protection supervisory
+    authority, a list of which is available here.
+  sentence_annotations: []

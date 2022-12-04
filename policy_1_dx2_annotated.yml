@@ -1,0 +1,774 @@
+- segment_id: 0
+  segment_text: SEGA CORPORATION (with certain affiliates under our control We, Our
+    or Us) understands that you care about how your information is collected, used
+    and shared. Our Privacy Policy will describe how We collect and process your personal
+    information through our websites, products and services (collectively, Sega Services).
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 1
+  segment_text: By using Sega Services, you acknowledge that you have read and also
+    understand the terms of this Privacy Policy, including how We use your personal
+    information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 2
+  segment_text: This Privacy Policy may be revised from time to time and any such
+    revisions will be reflected by the Last updated date above.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Rectification:
+      - update
+- segment_id: 3
+  segment_text: Personal Information Controller
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 4
+  segment_text: SEGA CORPORATION, located at Sumitomo Fudosan Osaki Garden Tower 1-1-1
+    Nishi-Shinagawa, Shinagawa-ku, Tokyo 140-0033, is the data controller of personal
+    information collected and processed through Sega Services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 5
+  segment_text: Collecting Personal Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 6
+  segment_text: We collect your personal information in order to continually improve
+    Our products and services and to provide you with the best version of Sega Services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 7
+  segment_text: 'We collect:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 8
+  segment_text: Information that you provide to Us. Any information you provide to
+    Us in relation to Sega Services will be stored carefully by Us. You may choose
+    not to provide Us with your personal information, but that might mean you will
+    not be able to use certain aspects of Sega Services to the fullest. Such information
+    includes registration information, billing information and feedback from you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 9
+  segment_text: Information automatically collected by Us. When you use Sega Services,
+    certain types of information will be automatically collected and stored by Us.
+    We use cookies and other unique identifiers to help Us provide you with the best
+    experience. Other collected information may be technical and device information
+    from your device or computer that you use to access Sega Services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 10
+  segment_text: Third-Party Information. From time to time, information about your
+    use of Sega Services may be shared with third-party platforms and services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 11
+  segment_text: Examples of Information Collected
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 12
+  segment_text: You provide your personal information to Us when you use, access or
+    interact with Sega Services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 13
+  segment_text: 'Some examples of personal information that might be supplied by you:
+    Your name, address and phone number, billing information, age, location, email
+    address, personal description and any other possible identifying information.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 14
+  segment_text: 'Information We may automatically collect and analyze:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 15
+  segment_text: Internet protocol (IP) address used to connect your computer to the
+    Internet;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 16
+  segment_text: Login, email address, password;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 17
+  segment_text: Location of your device or computer;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 18
+  segment_text: Interaction information, such as usage, network details, including
+    information about your internet service provider;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 19
+  segment_text: Device metrics such as when a device is in use, application usage,
+    connectivity data and any errors or bugs;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 20
+  segment_text: Sega Services metrics, such as occurrences of technical errors, your
+    interactions with service features and content, your setting preferences.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 21
+  segment_text: How Personal Information is Used
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 22
+  segment_text: We will use the collected personal information to ensure We can provide
+    you with the best experience when you use and access Sega Services. By analyzing
+    the way you use and access Sega Services, including any feedback or troubleshooting
+    information, this all helps Us understand how we can improve our services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 23
+  segment_text: Purchases and Billing. Your personal information will be used to fulfil
+    orders, deliver products and services as well as process payments, including communicating
+    and confirming purchases, payments and refunds.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 24
+  segment_text: Registration and Personal Identification. Your personal information
+    will be used to identify you when you sign-in to access certain services, when
+    you create a personal profile and also helps Us identify you for billing and purchases
+    purposes.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 25
+  segment_text: Troubleshooting and Improving Sega Services. Information collected
+    will be used to help Us identify and fix errors, improve performance and the overall
+    effectiveness of Sega Services all with the aim to provide you with the best experience
+    possible.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 26
+  segment_text: Personalization. Your personal information will be used by Us to recommend
+    products and services to you and to personalize your experience whenever you log
+    in, access or use Sega Services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 27
+  segment_text: Compliance. We may also have to comply with certain legal and/or regulatory
+    obligations that require Us to collect, process and store your personal information
+    for certain functions, such as when processing payments.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 28
+  segment_text: Communication. Your personal information will be used by Us to communicate
+    with you regarding Sega Services, including updates, changes, feedback and even
+    special events.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Rectification:
+      - update
+- segment_id: 29
+  segment_text: Advertising and Third-party Information. We may use your personal
+    information to show tailored offers to you, to facilitate sharing on social networks
+    and to facilitate your gameplay.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 30
+  segment_text: Fraud and Credit Risks. Your personal information will be used to
+    prevent, detect and identify fraud and abuse. Collected information will be used
+    to ensure your security and the security of others.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 31
+  segment_text: Consent. We may ask for your consent to process your personal information
+    for specific purposes. Whenever you give Us your consent, you may withdraw your
+    consent at any time and We will stop processing your personal information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - consent
+      Right_Restriction:
+      - stop
+- segment_id: 32
+  segment_text: Sharing Your Personal Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 33
+  segment_text: We respect your privacy. We will protect your privacy. We are not
+    in the business of selling your personal information to others. Most importantly,
+    we want you to know that you have the ability to choose what information you would
+    like to share with Us and what information you would like for Us to share with
+    third parties.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 34
+  segment_text: Affiliates within the wider SEGA group. In order to provide you with
+    the best services, We may share collected information with Our affiliates and/or
+    subsidiaries and/or ultimate parent company to ensure you receive a seamless user
+    experience between Our different products and services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 35
+  segment_text: New owners or reorganization. In the event of a business restructure,
+    sale, purchase or joint venture We may have to provide information regarding Our
+    business and operations to the new owners and this may include your personal information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 36
+  segment_text: Third-Party Service Providers. We are able to provide Sega Services
+    to you through the help and collaboration of other companies or professionals
+    to perform necessary functions on Our behalf (collectively, Third-Party Service
+    Providers). Third-Party Service Providers must adhere to this Privacy Policy and
+    also maintain a privacy policy of their own.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 37
+  segment_text: Legal obligation. We may share your personal information where We
+    are under a duty to, are authorized to or required to do so, by law.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - legal obligation
+- segment_id: 38
+  segment_text: Notwithstanding the above, Legal obligation, you will receive notice
+    when your personal information might be shared with third parties and you will
+    have the opportunity to choose not to share your personal information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - legal obligation
+- segment_id: 39
+  segment_text: Outside of the European Union. When sharing your personal information
+    to countries outside of the European Union, We will ensure that your personal
+    information is shared and transferred in accordance with this Privacy Policy as
+    well as any relevant data protection and privacy laws.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 40
+  segment_text: Security
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 41
+  segment_text: We prioritize protecting your privacy and have internal procedures
+    and safeguards in place to maintain security during the collection, storage and
+    disposal of your personal information. These security measures are aimed to protect
+    you and to ensure that your personal information remains private and protected.
+    Because of these security measures, it may mean that on occasion We may request
+    from you proof of identity before We can disclose personal information to you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 42
+  segment_text: Your Choices and Rights
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 43
+  segment_text: You have options and choices over how We use your information. We
+    provide you with tools to access and update specific information relating to your
+    use of the Sega Services at any time. If you need to sign in to access certain
+    Sega Services, you can update and amend your key contact information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Rectification:
+      - update
+      - amend
+- segment_id: 44
+  segment_text: We respect the rights you may have under applicable law to request
+    access to your personal information and where applicable, to request to receive
+    that information in a commonly used electronic format (or ask for this information
+    to be provided in that format to a third-party where feasible). You may also have
+    the right under applicable law to request the correction or deletion of your personal
+    information, to seek to object to the further processing under certain circumstances
+    of your information or to request that the processing of specific information
+    about you is restricted while We verify or investigate your concerns about this
+    information. We do not verify the correctness of your personal information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Deletion:
+      - deletion
+      Right_Objection:
+      - object
+      Right_Portability:
+      - request to receive
+      Right_Rectification:
+      - correct
+      - correction
+      Right_Restriction:
+      - restrict
+- segment_id: 45
+  segment_text: 'Deleting Your personal information: If at anytime while using Sega
+    Services You wish to have Your Personal Information deleted, you can do so by
+    contacting dataprivacy@sega.com or via fax at +81-50-3152-7908 (a toll-free number
+    is currently being established and will be updated as soon as possible). If you
+    are no longer using Sega Services and You want to delete and/or confirm Your Personal
+    Information has been deleted, you can do so by contacting dataprivacy@sega.com
+    or via fax at +81-50-3152-7908.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - delete
+      - deleted
+      Right_Rectification:
+      - update
+- segment_id: 46
+  segment_text: Your browser settings may allow you to automatically transmit a Do
+    Not Track signal to online services you visit. Note, however, there is no industry
+    consensus as to what site and app operators should do with regard to these signals.
+    Accordingly, We do not monitor or take action with respect to Do Not Track signals
+    or other mechanisms. For more information on Do Not Track, visit http://www.allaboutdnt.com
+    .
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 47
+  segment_text: If you remain unhappy with a response you receive, and are in the
+    European Union, you may also refer the matter to your data protection supervisory
+    authority.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 48
+  segment_text: (see https://ec.europa.eu/newsroom/article29/items/612080 ).
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 49
+  segment_text: Use of Cookies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 50
+  segment_text: A cookie is a small file that can be placed on your device that allows
+    Us to recognize and remember you. When you visit Our site, We may collect information
+    automatically through cookies.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 51
+  segment_text: Cookies are essential to provide you with the best services possible
+    and are used to improve those services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 52
+  segment_text: Cookies are used to remember and recognize your preferences, so that
+    We can provide a better personalized experience for you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 53
+  segment_text: Cookies also help with preventing fraudulent activity, improving security
+    and delivering content.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 54
+  segment_text: We may use Google Analytics Demographics and Interest Reporting feature
+    to collect certain information, including, without limitation, age, gender, and
+    interests. You can manage the use of cookies, including advertising cookies and
+    disable the sharing of data with partners for advertising purposes by changing
+    your personal settings on your Ad Settings page and/or download and install Googles
+    Opt-out Browser Add-on for your web browser. You can also customize advertisements
+    displayed through Google Display Network by changing your personal settings in
+    your Ad Settings page. Your Ad Settings page can be accessed through your personal
+    Google account. In some cases you can turn off advertising cookies on a cookie-by-cookie
+    basis.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 55
+  segment_text: Third-Party Advertisers
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 56
+  segment_text: Sega Services may, from time to time, collaborate with third-party
+    advertisers. These third-party advertising partners may collect information about
+    you when you interact with their content, advertising and other services they
+    may provide.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 57
+  segment_text: Opt-out for Interest Based Advertising
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 58
+  segment_text: Your mobile device may allow you to opt out of certain Interest Based
+    Advertising.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 59
+  segment_text: iOS  on your iOS device, open Settings > Privacy > Apple Advertising
+    and turn on Personalized Ads to opt-out of interest based ads.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 60
+  segment_text: Android  Open the Settings app on your Android phone, tap Ads and
+    enable Opt out of interest based ads.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 61
+  segment_text: Please note that if you opt out of certain interest based advertising,
+    you may continue to receive contextual ads based on other non-personal information,
+    such as ads related to the content of the Sega Services you are using.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 62
+  segment_text: Opt-out for Location Data
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 63
+  segment_text: Certain third-party advertisers in Sega Services may collect precise
+    location data, or street-level location information, about you (Precise Location
+    Data). Your device may allow you to opt out of the collection of Precise Location
+    Data by the third-party advertiser in the Sega Services, as further described
+    below.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 64
+  segment_text: iOS (iOS 8 or later)  In order to disable the collection of Precise
+    Location Data on iOS, you may turn Location Services off for the applicable Sega
+    Services via the menu Setting > Privacy > Location Services. Then select the applicable
+    Sega Services and set the Share My Location status to Never.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 65
+  segment_text: Android (6.0/Marshmallow and higher)  In order to disable the collection
+    of Precise Location Data on Android, you may turn Location off for the applicable
+    Sega Services via the menu Settings > Apps > [applicable Sega Services] > Permissions
+    > Location. Then turn off the Location button.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 66
+  segment_text: Childrens Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 67
+  segment_text: It is important to Us to protect the privacy of young children. Therefore,
+    We do not knowingly or intentionally collect or maintain personal information
+    or non-personally identifiable information from users under 13 years of age in
+    the United States and the applicable age of consent in the European Union, other
+    than as permitted by law in support of Our internal operations (inside Japan)
+    and for legitimate interests (outside Japan).
+  sentence_annotations:
+    CCPA: {}
+    GDPR:
+      LawfulProcessing:
+      - consent
+      - legitimate interest
+    Unspecified: {}
+- segment_id: 68
+  segment_text: If We learn that we have collected personal information of users under
+    the age of 13 (or other applicable age of consent) other than personal identifiers
+    for supporting the internal operations of Sega Services (inside Japan) and/or
+    for legitimate interest (outside Japan), then We will take reasonable steps to
+    remove such information. We may collect non-personally identifiable information
+    from children, such as country settings and language settings to ensure compliance
+    with the applicable law for the specified country. If you believe that We may
+    have unintentionally collected personal information about your child, you may
+    contact Us at dataprivacy@sega.com.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - consent
+      - legitimate interest
+      Right_Deletion:
+      - remove
+- segment_id: 69
+  segment_text: For California Residents
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 70
+  segment_text: The California Consumer Privacy Act (CCPA) is a data privacy law that
+    applies to certain businesses when collecting personal information from California
+    residents. The CCPA went into effect on January 1, 2020.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 71
+  segment_text: 'California consumers have the following rights under CCPA:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 72
+  segment_text: The right to know, access and delete their personal information under
+    the CCPA;
+  sentence_annotations:
+    CCPA:
+      Right_Access:
+      - access
+      Right_Deletion:
+      - delete
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 73
+  segment_text: 'With respect to the collection of personal information, the right
+    to request, not more than twice in any twelve (12) month period, the following:
+    (i) categories of personal information We have collected about that consumer,
+    (ii) categories of sources from which the personal information is collected, (iii)
+    business or commercial purpose for collecting or selling personal information,
+    (iv) categories of third parties with whom We share personal information and (v)
+    specific pieces of personal information We have collected about you;'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Portability:
+      - right to request
+- segment_id: 74
+  segment_text: 'With respect to the sale and/or disclosure of personal information,
+    the right to request, not more than twice in any twelve (12) month period, the
+    following: (i) categories of personal information that We have collected about
+    the consumer, (ii) categories of personal information that We have sold about
+    the consumer and the categories of third parties to whom the personal information
+    was sold, by category or categories of personal information for each third-party
+    to whom the personal information was sold and (iii) categories of personal information
+    that We have disclosed about the consumer for a business purpose;'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Portability:
+      - right to request
+- segment_id: 75
+  segment_text: The right to opt out of the sale of your personal information; and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 76
+  segment_text: The right not to be discriminated against for exercising your privacy
+    rights.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Nondiscrimination:
+      - discriminate
+- segment_id: 77
+  segment_text: We do not discriminate or penalize you for exercising your privacy
+    rights. To exercise any of your rights under the CCPA, please contact Us at dataprivacy@sega.com
+    or via fax at +81-50-3153-7908 (a toll free number is currently being established
+    and will be updated as soon as possible). Please be ready to provide Us with your
+    name, address and email address and please be aware that We may ask for other
+    information in order to confirm your identity. Any information we receive from
+    you in order to confirm your identity will solely be used for such verification
+    purposes.
+  sentence_annotations:
+    CCPA:
+      Right_Nondiscrimination:
+      - discriminate
+      Right_Rectification:
+      - update
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 78
+  segment_text: For Nevada Residents
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 79
+  segment_text: 'For consumers residing in Nevada, Senate Bill 220 went into effect
+    on October 1, 2019. If you are a Nevada resident, you have the right to opt-out
+    of the sale of the following personal information:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 80
+  segment_text: First and last name;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 81
+  segment_text: Physical address, including the name of the city or town;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 82
+  segment_text: Email address;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 83
+  segment_text: Telephone number;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 84
+  segment_text: Social security number;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 85
+  segment_text: Identifier that allows a specific person to be contacted; or
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 86
+  segment_text: Any other information collected through Sega Services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 87
+  segment_text: To exercise any of your rights, please contact Us at dataprivacy@sega.com.
+    Please be ready to provide Us with your name, address and email address and please
+    be aware that We may ask for other information in order to confirm your identity.
+    Any information We receive from you in order to confirm your identity will solely
+    be used for such verification purposes.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 88
+  segment_text: We do not sell your personal information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}

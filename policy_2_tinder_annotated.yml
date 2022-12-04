@@ -1,0 +1,1529 @@
+- segment_id: 0
+  segment_text: Privacy Policy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 1
+  segment_text: Welcome to Tinders Privacy Policy. Thank you for taking the time to
+    read it.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 2
+  segment_text: We appreciate that you trust us with your information and we intend
+    to always keep that trust. This starts with making sure you understand the information
+    we collect, why we collect it, how it is used and your choices regarding your
+    information. This Policy describes our privacy practices in plain language, keeping
+    legal and technical jargon to a minimum.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 3
+  segment_text: This Privacy Policy applies from April 28, 2022. The previous version
+    of this Privacy Policy, available here, will apply until then.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 4
+  segment_text: Who We Are
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 5
+  segment_text: Where This Privacy Policy Applies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 6
+  segment_text: Information We Collect
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 7
+  segment_text: Cookies And Other Similar Data Collection Technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 8
+  segment_text: How We Use Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 9
+  segment_text: How We Share Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 10
+  segment_text: Cross-Border Data Transfers
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 11
+  segment_text: Your Rights
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 12
+  segment_text: How Long We Retain Your Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 13
+  segment_text: Children's Privacy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 14
+  segment_text: Job Candidates, Contractors and Vendor Representatives
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - contract
+- segment_id: 15
+  segment_text: Privacy Policy Changes
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 16
+  segment_text: How To Contact Us
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 17
+  segment_text: For California Consumers
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 18
+  segment_text: Please see our California Privacy Statement to learn about California
+    privacy rights.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 19
+  segment_text: 1. Who We Are
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 20
+  segment_text: 'If you live in the European Economic Area (EEA), the United Kingdom
+    or Switzerland, the company responsible for your information under this Privacy
+    Policy (the data controller) is:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 21
+  segment_text: MTCH Technology Services Limited
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 22
+  segment_text: Tinder
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 23
+  segment_text: WeWork Charlemont Exchange
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 24
+  segment_text: 42 Charlemont Street
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 25
+  segment_text: Dublin 2, D02 R593
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 26
+  segment_text: Ireland
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 27
+  segment_text: 'If you live in Japan, the company responsible for your information
+    is:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 28
+  segment_text: MG Japan Services GK
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 29
+  segment_text: 4F Sumitomo Fudosan Azabu Bldg
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 30
+  segment_text: 1-4-1 Mita
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 31
+  segment_text: Minato-ku,Tokyo 108-0073
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 32
+  segment_text: Japan
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 33
+  segment_text: 'If you live outside the EEA, the United Kingdom, Switzerland and
+    Japan, the company responsible for your information is:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 34
+  segment_text: Match Group, LLC
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 35
+  segment_text: 8750 North Central Expressway
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 36
+  segment_text: Suite 1400
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 37
+  segment_text: Dallas, TX 75231
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 38
+  segment_text: United States
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 39
+  segment_text: 2. Where This Privacy Policy Applies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 40
+  segment_text: This Privacy Policy applies to websites, apps, events and other services
+    we operate under the Tinder brand. For simplicity, we refer to all of these as
+    our services in this Privacy Policy. To make it extra clear, weve added links
+    to this Privacy Policy on all applicable services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 41
+  segment_text: Some services may require their own unique privacy policy. If a service
+    has its own privacy policy, then that policy -- not this Privacy Policy -- applies.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 42
+  segment_text: 3. Information We Collect
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 43
+  segment_text: It goes without saying, we cant help you develop meaningful connections
+    without some information about you, such as basic profile details and the types
+    of people youd like to meet. We also collect information about your use of our
+    services such as access logs, as well as information from third parties, like
+    when you access our services through your social media account or when you upload
+    information from your social media account to complete your profile. If you want
+    additional info, we go into more detail below.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 44
+  segment_text: Information you give us
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 45
+  segment_text: 'You choose to give us certain information when using our services.
+    This includes:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 46
+  segment_text: When you create an account, you provide us with at least your phone
+    number and email address, as well as some basic details necessary for the service
+    to work, such as your gender and date of birth.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 47
+  segment_text: When you complete your profile, you can share with us additional information,
+    such as details on your bio, interests and other details about you, as well as
+    content such as photos and videos. To add certain content, like pictures or videos,
+    you may allow us to access your camera or photo album.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 48
+  segment_text: When you subscribe to a paid service or make a purchase directly from
+    us (rather than through a platform such as iOS or Android), you provide us or
+    our payment service provider with information, such as your debit or credit card
+    number or other financial information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 49
+  segment_text: When you participate in surveys, focus groups or market studies, you
+    give us your insights into our products and services, responses to our questions
+    and testimonials.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 50
+  segment_text: When you choose to participate in our promotions, events or contests,
+    we collect the information that you use to register or enter.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 51
+  segment_text: If you contact our customer care team, we collect the information
+    you give us during the interaction.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 52
+  segment_text: If you share with us information about other people (for example,
+    if you use contact details of a friend for a given feature), we process this information
+    on your behalf in order to complete your request.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 53
+  segment_text: Of course, we also process your chats with other members as well as
+    the content you publish, as necessary for the operation of the services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 54
+  segment_text: Information we receive from others
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 55
+  segment_text: 'In addition to the information you may provide us directly, we receive
+    information about you from others, including:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 56
+  segment_text: Members Members may provide information about you as they use our
+    services, for instance as they interact with you or if they submit a report involving
+    you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 57
+  segment_text: Social Media You may decide to share information with us through your
+    social media account, for instance if you decide to create and log into your Tinder
+    account via your social media or other account (e.g., Facebook, Google or Apple)
+    or to upload onto our services information such as photos from one of your social
+    media accounts (e.g., Instagram or Spotify).
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 58
+  segment_text: Affiliates Tinder is part of the Match Group family of businesses.
+    Match Group considers the safety and security of members a top priority. If you
+    were banned from another Match Group service, your information can be shared with
+    us to allow us to take necessary actions, including closing your account or preventing
+    you from creating an account on our services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 59
+  segment_text: Other Partners We may receive information about you from our partners
+    where Tinder ads are published on a partners service (in which case they may pass
+    along details on a campaigns success). Where legally allowed, we can also receive
+    information about suspected or convicted bad actors from third parties as part
+    of our efforts to ensure our members safety and security.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 60
+  segment_text: Information generated when you use our services
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 61
+  segment_text: 'When you use our services, this generates technical data about which
+    features youve used, how youve used them and the devices you use to access our
+    services. See below for more details:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 62
+  segment_text: Usage Information Using the services generates data about your activity
+    on our services, for instance how you use them (e.g., when you logged in, features
+    youve been using, actions taken, information shown to you, referring webpages
+    address and ads that you interacted with) and your interactions with other members
+    (e.g., members you connect and interact with, when you exchanged with them, number
+    of messages you send and receive).
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 63
+  segment_text: Device information We collect information from and about the device(s)
+    you use to access our services, including hardware and software information such
+    as IP address, device ID and type, apps settings and characteristics, app crashes,
+    advertising IDs (which are randomly generated numbers that you can reset by going
+    into your device settings), identifiers associated with cookies or other technologies
+    that may uniquely identify a device or browser.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+- segment_id: 64
+  segment_text: Other information with your consent If you give us permission, we
+    can collect your precise geolocation (latitude and longitude). The collection
+    of your geolocation may occur in the background even when you arent using the
+    services if the permission you gave us expressly permits such collection. If you
+    decline permission for us to collect your precise geolocation, we will not collect
+    it. Similarly, if you consent, we may collect photos and videos (for instance,
+    if you want to publish a photo or video or participate in streaming features on
+    our services).
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - consent
+- segment_id: 65
+  segment_text: 4. Cookies and Other Similar Data Collection Technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 66
+  segment_text: We use and may allow others to use cookies and similar technologies
+    (e.g., web beacons, pixels, SDKs) to recognize you and/or your device(s). You
+    may read our Cookie Policy for more information on why we use them and how you
+    can better control their use.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 67
+  segment_text: Some web browsers (including Safari, Internet Explorer, Firefox and
+    Chrome) have a Do Not Track (DNT) feature that tells a website that a user does
+    not want to have his or her online activity tracked. If a website that responds
+    to a DNT signal receives a DNT signal, the browser can block that website from
+    collecting certain information about the browsers user. Not all browsers offer
+    a DNT option and DNT signals are not yet uniform. For this reason, many businesses,
+    including Tinder, do not currently respond to DNT signals.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 68
+  segment_text: 5. How We Use Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 69
+  segment_text: The main reason we use your information is to deliver and improve
+    our services. Additionally, we use your info to help keep you safe, and to provide
+    you with advertising that may be of interest to you. Read on for a more detailed
+    explanation of the various reasons for which we use your information, together
+    with practical examples.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 70
+  segment_text: A. To administer your account and provide our services to you
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 71
+  segment_text: Create and manage your account
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 72
+  segment_text: Provide you with customer support and respond to your requests
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 73
+  segment_text: Complete your transactions
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 74
+  segment_text: Communicate with you about our services
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 75
+  segment_text: B. To help you connect with other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 76
+  segment_text: Recommend you other members to meet
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 77
+  segment_text: Show members profiles to one another
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 78
+  segment_text: C. To provide new Tinder services to you
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 79
+  segment_text: Register you and display your profile on new Tinder features and apps
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 80
+  segment_text: Administer your account on these new features and apps
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 81
+  segment_text: D. To operate advertising and marketing campaigns
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 82
+  segment_text: Administer sweepstakes, contests, discounts or other offers
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 83
+  segment_text: Perform and measure the effectiveness of advertising campaigns on
+    our services and marketing campaigns promoting Tinder off our services
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 84
+  segment_text: Communicate with you about products or services that we believe may
+    interest you
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 85
+  segment_text: E. To improve our services and develop new ones
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 86
+  segment_text: Administer focus groups, market studies and surveys
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 87
+  segment_text: Review interactions with customer care teams to improve our quality
+    of service
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+      Right_Portability:
+      - review
+- segment_id: 88
+  segment_text: Understand how members typically use the services to improve them
+    (for instance, we may decide to change the look and feel or even substantially
+    modify a given feature based on how members react to it)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 89
+  segment_text: Develop new features and services (for example, we may decide to build
+    a new interests-based feature further to requests received from members).
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 90
+  segment_text: F. To prevent, detect and fight fraud and other illegal or unauthorized
+    activities
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 91
+  segment_text: Find and address ongoing, suspected or alleged violations of our Terms
+    of Use, notably through the review of reports and interactions between members
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+      Right_Portability:
+      - review
+- segment_id: 92
+  segment_text: Better understand and design countermeasures against violations of
+    our Terms of Use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 93
+  segment_text: Retain data related to violations of our Terms of Use to prevent against
+    recurrences
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 94
+  segment_text: Enforce or exercise our rights, for example our Terms of Use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 95
+  segment_text: Communicate to individuals who submit a report, what weve done as
+    a result of their submission
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 96
+  segment_text: G. To ensure legal compliance
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 97
+  segment_text: Comply with legal requirements
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 98
+  segment_text: Assist law enforcement
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 99
+  segment_text: For information on how we process personal information through profiling
+    and automated decision-making, please see our FAQ.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 100
+  segment_text: 'To process your information as described in this Privacy Policy,
+    we rely on the following legal bases:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 101
+  segment_text: 'Provide our service to you: The reason we process your information
+    for purposes A, B and C above is to perform the contract that you have with us.
+    For instance, as you go about using our service to build meaningful connections,
+    we use your information to maintain your account and your profile, make it viewable
+    to other members and recommend other members to you and to otherwise provide our
+    free and paid features to you and other members.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - contract
+- segment_id: 102
+  segment_text: 'Legitimate interests: We process your information for purposes D,
+    E and F above, based on our legitimate interest. For instance, we analyze users
+    behavior on our services to continuously improve our offerings, we suggest offers
+    we think might interest you and promote our own services, we process information
+    to help keep our members safe and we process data where necessary to enforce our
+    rights, assist law enforcement and enable us to defend ourselves in the event
+    of a legal action.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - legitimate interest
+- segment_id: 103
+  segment_text: 'Comply with applicable laws and regulations: We process your information
+    for purpose G above where it is necessary for us to comply with applicable laws
+    and regulations and evidence our compliance with applicable laws and regulations.
+    For example, we retain traffic data and data about transactions in line with our
+    accounting, tax and other statutory data retention obligations and to be able
+    to respond to valid access requests from law enforcement. We also keep data evidencing
+    consents members give us and decisions they may have taken to opt-out of a given
+    feature or processing.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - consent
+      Right_Access:
+      - access
+- segment_id: 104
+  segment_text: 'Consent: If you choose to provide us with information that may be
+    considered special or sensitive in certain jurisdictions, such as your sexual
+    orientation, youre consenting to our processing of that information in accordance
+    with this Privacy Policy. From time to time, we may ask for your consent to collect
+    specific information such as your precise geolocation or use your information
+    for certain specific reasons. In some cases, you may withdraw your consent by
+    adapting your settings (for instance in relation to the collection of our precise
+    geolocation) or by deleting your content (for instance where you entered information
+    in your profile that may be considered special or sensitive). In any case, you
+    may withdraw your consent at any time by contacting us at the address provided
+    at the end of this Privacy Policy.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - consent
+- segment_id: 105
+  segment_text: 6. How We Share Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 106
+  segment_text: Since our goal is to help you make meaningful connections, the main
+    sharing of members information is, of course, with other members. We also share
+    some members information with service providers and partners who assist us in
+    operating the services, with other Match Group companies for specified reasons
+    as laid out below and, in some cases, legal authorities. Read on for more details
+    about how your information is shared with others.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 107
+  segment_text: With other members
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 108
+  segment_text: You share information with other members when you voluntarily disclose
+    information on the service (including your public profile). Please be careful
+    with your information and make sure that the content you share is stuff that youre
+    comfortable being visible.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 109
+  segment_text: If you choose to limit the audience for all or part of your profile
+    or for certain content or information about you, then it will be visible according
+    to your settings.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 110
+  segment_text: If someone submits a report involving you (such as a claim you violated
+    our Terms of Use), We may communicate to the reporter actions, if any, we took
+    as a result of their report.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 111
+  segment_text: With our service providers and partners
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 112
+  segment_text: We use third parties to help us operate and improve our services.
+    These third parties assist us with various tasks, including data hosting and maintenance,
+    analytics, customer care, marketing, advertising, payment processing and security
+    operations. We also share information with partners who distribute and assist
+    us in advertising our services. For instance, we may share limited information
+    on you in hashed, non-human readable form to advertising partners.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 113
+  segment_text: We follow a strict vetting process prior to engaging any service provider
+    or working with any partner. Our service providers and partners must agree to
+    strict confidentiality obligations.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 114
+  segment_text: With our affiliates
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 115
+  segment_text: Tinder is part of the Match Group family of businesses.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 116
+  segment_text: 'We share your information with affiliates for limited legitimate
+    purposes as laid out below:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 117
+  segment_text: to make all Match Group platforms safer and enable us to address (e.g.,
+    ban) bad actors found on one platform also on the others;
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 118
+  segment_text: for them to assist us in data processing operations, as service providers,
+    upon our instructions and on our behalf. Their assistance may include technical
+    processing operations, such as data hosting and maintenance, customer care, marketing
+    and targeted advertising, analytics, finance and accounting assistance, improving
+    our service, securing our data and systems and fighting against spam, abuse, fraud,
+    infringement and other wrongdoings.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 119
+  segment_text: We may also share information with other Match Group companies for
+    other legitimate business purposes including corporate audit, analysis and consolidated
+    reporting, where and as allowed under applicable law.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 120
+  segment_text: Sharing functionality
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 121
+  segment_text: You may share other members profiles and they may share yours with
+    people outside of our services, using the sharing functionality.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 122
+  segment_text: For corporate transactions
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 123
+  segment_text: We may transfer your information if we are involved, whether in whole
+    or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganization,
+    dissolution, bankruptcy or other change of ownership or control.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 124
+  segment_text: With law enforcement / when required by law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 125
+  segment_text: 'We may disclose your information if reasonably necessary: (i) to
+    comply with a legal process, such as a court order, subpoena or search warrant,
+    government / law enforcement investigation or other legal requirements; (ii) to
+    assist in the prevention or detection of crime (subject in each case to applicable
+    law); or (iii) to protect the safety of any person.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 126
+  segment_text: To enforce legal rights
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 127
+  segment_text: 'We may also share information: (i) if disclosure would mitigate our
+    liability in an actual or threatened lawsuit; (ii) as necessary to protect our
+    legal rights and legal rights of our members, business partners or other interested
+    parties; (iii) to enforce our agreements with you; and (iv) to investigate, prevent,
+    or take other action regarding illegal activity, suspected fraud or other wrongdoing.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 128
+  segment_text: With your consent or at your request
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - consent
+- segment_id: 129
+  segment_text: We may ask for your consent to share your information with third parties.
+    In any such case, we will make it clear why we want to share the information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - consent
+- segment_id: 130
+  segment_text: We may use and share non-personal information (meaning information
+    that, by itself, does not identify who you are such as device information, general
+    demographics, general behavioral data, geolocation in de-identified form), as
+    well as personal information in hashed, non-human readable form, under any of
+    the above circumstances. We may also share this information with other Match Group
+    companies and third parties (notably advertisers) to develop and deliver targeted
+    advertising on our services and on websites or applications of third parties,
+    and to analyze and report on advertising you see. We may combine this information
+    with additional non-personal information or personal information in hashed, non-human
+    readable form collected from other sources. More information on our use of cookies
+    and similar technologies can be found in our Cookie Policy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 131
+  segment_text: 7. Cross-Border Data Transfers
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 132
+  segment_text: Sharing of information laid out in Section 6 involves cross-border
+    data transfers to the United States of America and other jurisdictions that may
+    have different laws about data processing. When we transfer personal information
+    outside of the EEA, the United Kingdom, Switzerland or other countries which data
+    protection laws have been deemed adequate by the European Commission or other
+    competent governmental body, we use standard contract clauses (standard contractual
+    clauses are commitments between companies transferring personal data, binding
+    them to protect the privacy and security of your data) or other appropriate transfer
+    mechanism. We are currently in the process of reviewing transfers to our vendors
+    and associated legal basis further to the recent Court of Justice for the European
+    Unions ruling on transfers of personal data to the USA.
+  sentence_annotations:
+    CCPA: {}
+    GDPR:
+      LawfulProcessing:
+      - contract
+      Right_Access:
+      - review
+      Right_Portability:
+      - review
+    Unspecified: {}
+- segment_id: 133
+  segment_text: 8. Your Rights
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 134
+  segment_text: 'We want you to be in control of your information, so we want to remind
+    you of the following options and tools available to you:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 135
+  segment_text: Access / Update tools in the service. Tools and account settings can
+    help you access, rectify or remove information that you provided to us and thats
+    associated with your account directly within the service. If you have any question
+    on those tools and settings, please contact our customer care team for help here.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Deletion:
+      - remove
+      Right_Rectification:
+      - rectify
+      - update
+- segment_id: 136
+  segment_text: Device permissions. Mobile platforms can have permission systems for
+    specific types of device data and notifications, such as phone contacts, pictures,
+    location services, push notifications and advertising identifiers. You can change
+    your settings on your device to either consent or oppose the collection or processing
+    of the corresponding information or the display of the corresponding notifications.
+    Of course, if you do that, certain services may lose functionality.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - consent
+- segment_id: 137
+  segment_text: Uninstall. You can stop all information collection by an app by uninstalling
+    it using the standard uninstall process for your device. Remember that uninstalling
+    an app does NOT close your account. To close your account, please use the corresponding
+    functionality on the service.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Restriction:
+      - stop
+- segment_id: 138
+  segment_text: Account closure. You can close your account by using the corresponding
+    functionality directly on the service.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 139
+  segment_text: 'We also want you to be aware of your privacy rights. Here are a few
+    key points to remember:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 140
+  segment_text: Reviewing your information. Applicable privacy laws may give you the
+    right to review the personal information we keep about you (depending on the jurisdiction,
+    this may be called right of access, right of portability, right to know or variations
+    of those terms). You can exercise this right by putting in such a request here.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      - review
+      Right_Portability:
+      - review
+- segment_id: 141
+  segment_text: Updating your information. If you believe that the information we
+    hold about you is inaccurate or that we are no longer entitled to use it and want
+    to request its rectification, deletion, object to or restrict its processing,
+    please contact us here.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - deletion
+      Right_Objection:
+      - object
+      Right_Rectification:
+      - rectification
+      Right_Restriction:
+      - restrict
+- segment_id: 142
+  segment_text: For your protection and the protection of all of our members, we may
+    ask you to provide proof of identity before we can answer the above requests.
+    Keep in mind, we may reject requests, including if we are unable to authenticate
+    you, if the request is unlawful or invalid, or if it may infringe on trade secrets
+    or intellectual property or the privacy or other rights of someone else. If you
+    wish to receive information relating to another member, such as a copy of any
+    messages you received from them through our service, the other member will have
+    to contact us to provide their written consent before the information is released.
+    We may also ask them to provide proof of identity before we can answer the request.
+    Also, we may not be able to accommodate certain requests to object to or restrict
+    the processing of personal information, notably where such requests would not
+    allow us to provide our service to you anymore. For instance, we cannot provide
+    our service if we do not have your date of birth and thus cannot ensure that you
+    are 18 years of age or older. In certain countries, including in the European
+    Economic Area and the United Kingdom, you have a right to lodge a complaint with
+    the appropriate data protection authority if you have concerns about how we process
+    your personal information. You can find information about your data protection
+    regulator in the European Economic Area here, and in the United Kingdom here.
+    The data protection authority you can lodge a complaint with may be that of your
+    habitual residence, where you work or where an alleged infringement took place.
+  sentence_annotations:
+    CCPA: {}
+    GDPR:
+      LawfulProcessing:
+      - consent
+      Right_Objection:
+      - object
+      Right_Restriction:
+      - restrict
+    Unspecified: {}
+- segment_id: 143
+  segment_text: 9. How Long We Retain Your Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 144
+  segment_text: 'We keep your personal information only as long as we need it for
+    legitimate business purposes (as laid out in Section 5) and as permitted by applicable
+    law. If you decide to stop using our services, you can close your account and
+    your profile will stop being visible to other members. Note that we will close
+    your account automatically if you are inactive for a period of two years. After
+    your account is closed, we will delete your personal information, as laid out
+    below:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - delete
+      Right_Restriction:
+      - stop
+- segment_id: 145
+  segment_text: To protect the safety and security of our members, we implement a
+    safety retention window of three months following account closure, or one year
+    following an account ban. During this period, we keep your information in the
+    event that it might be necessary to investigate unlawful or harmful conducts.
+    The retention of information during this safety retention window is based on our
+    legitimate interest as well as that of potential third-party victims.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - legitimate interest
+- segment_id: 146
+  segment_text: 'Once the safety retention window elapses, we delete your data and
+    only keep limited information for specified purposes, as laid out below:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - delete
+- segment_id: 147
+  segment_text: 'a) We maintain limited data to comply with legal data retention obligations:
+    in particular, we keep transaction data for 10 years to comply with tax and accounting
+    legal requirements, credit card information for the duration the user may challenge
+    the transaction and traffic data / logs for one year to comply with legal data
+    retention obligations. We also keep records of consents members give us for five
+    years to evidence our compliance with applicable law.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - consent
+- segment_id: 148
+  segment_text: 'b) We maintain limited information on the basis of our legitimate
+    interest: we keep customer care records and supporting data as well as imprecise
+    location of download/purchase for five years to support our customer care decisions,
+    enforce our rights and enable us to defend ourselves in the event of a claim,
+    information on the existence of past accounts and subscriptions, which we delete
+    three years after the closure of your last account to ensure proper and accurate
+    financial forecasting and reporting, profile data for one year in anticipation
+    of potential litigation, for the establishment, exercise or defence of legal claims,
+    and data necessary to prevent members who were banned from opening a new account,
+    for as long as necessary to ensure the safety and vital interests of our members.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - legitimate interest
+      - vital interest
+      Right_Deletion:
+      - delete
+- segment_id: 149
+  segment_text: c) Finally, we maintain information on the basis of our legitimate
+    interest where there is an outstanding or potential issue, claim or dispute requiring
+    us to keep information (in particular if we receive a valid legal subpoena or
+    request asking us to preserve data (in which case we would need to keep the data
+    to comply with our legal obligations) or if data would otherwise be necessary
+    as part of legal proceedings).
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - legal obligation
+      - legitimate interest
+- segment_id: 150
+  segment_text: 10. Children's Privacy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 151
+  segment_text: Our services are restricted to individuals who are 18 years of age
+    or older. We do not permit individuals under the age of 18 on our platform. If
+    you suspect that a member is under the age of 18, please use the reporting mechanism
+    available on the service.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Restriction:
+      - restrict
+- segment_id: 152
+  segment_text: 11. Job Candidates, Contractors and Vendor Representatives
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - contract
+- segment_id: 153
+  segment_text: We process the personal information of our job candidates, contractors
+    and vendor representatives, as part of our recruitment and talent management operations
+    and our management of the services that contractors and vendors provide to us.
+    If you are a job candidate, contractor or vendor representative of Tinder, certain
+    relevant terms of this Privacy Policy apply to our processing of your personal
+    information, including the sections of this Privacy Policy that discuss the entity
+    that is responsible for the processing of your personal information, transfers
+    of personal information, rights you may have under applicable law, how to contact
+    us and California-specific information.
+  sentence_annotations:
+    CCPA:
+      LawfulProcessing:
+      - contract
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 154
+  segment_text: If you are a job applicant, the personal information we process about
+    you may vary depending on the job you seek but typically includes what you provide
+    to us as part of your job application as well as professional qualifications,
+    background and reference information that recruiters or other third parties share
+    with us. We use this information to support the recruitment process, which may
+    lead to an employment contract. For contractors and vendor representatives, we
+    may process identification information and work-related information, as necessary
+    to manage our relationship with you and your employer, which is necessary for
+    the performance of the services agreement, and to establish, exercise or defend
+    potential legal claims. We may share personal information with service providers
+    that assist us with recruitment and technical data processing operations as well
+    as with Match Group companies (for instance if you have a business relationship
+    with employees of an affiliate). We keep your personal information only as long
+    as necessary for those purposes.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      LawfulProcessing:
+      - contract
+- segment_id: 155
+  segment_text: 12. Privacy Policy Changes
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 156
+  segment_text: Because were always looking for new and innovative ways to help you
+    build meaningful connections and strive on making sure explanations about our
+    data practices remain up-to-date, this policy may change over time. We will notify
+    you before any material changes take effect so that you have time to review the
+    changes.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+      Right_Portability:
+      - review
+- segment_id: 157
+  segment_text: 13. How to Contact Us
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 158
+  segment_text: 'If you have questions about this Privacy Policy, you have different
+    options below:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 159
+  segment_text: 'If you live in the European Economic Area, the United Kingdom or
+    Switzerland:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 160
+  segment_text: 'Online: here'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 161
+  segment_text: 'By post:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 162
+  segment_text: Data Protection Officer
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      DPO_Mentioned:
+      - data protection officer
+- segment_id: 163
+  segment_text: MTCH Technology Services Limited
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 164
+  segment_text: Tinder
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 165
+  segment_text: WeWork Charlemont Exchange
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 166
+  segment_text: 42 Charlemont Street
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 167
+  segment_text: Dublin 2, D02 R593
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 168
+  segment_text: Ireland
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 169
+  segment_text: For more information on how to contact the data protection officer,
+    please click here.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      DPO_Mentioned:
+      - data protection officer
+- segment_id: 170
+  segment_text: 'If you live in Japan:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 171
+  segment_text: 'Online: here'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 172
+  segment_text: 'By post:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 173
+  segment_text: Data Protection Officer
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      DPO_Mentioned:
+      - data protection officer
+- segment_id: 174
+  segment_text: MG Japan Services GK
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 175
+  segment_text: c/o Match Group, LLC
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 176
+  segment_text: 8750 North Central Expressway
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 177
+  segment_text: Suite 1400
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 178
+  segment_text: Dallas, TX 75231
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 179
+  segment_text: United States
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 180
+  segment_text: 'If you live outside the European Economic Area, the United Kingdom,
+    Switzerland and Japan:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 181
+  segment_text: 'Online: here'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 182
+  segment_text: 'By post:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 183
+  segment_text: Data Protection Officer
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      DPO_Mentioned:
+      - data protection officer
+- segment_id: 184
+  segment_text: Match Group, LLC
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 185
+  segment_text: 8750 North Central Expressway
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 186
+  segment_text: Suite 1400
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 187
+  segment_text: Dallas, TX 75231
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 188
+  segment_text: United States
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
