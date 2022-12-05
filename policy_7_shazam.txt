@@ -1,0 +1,27 @@
+Shazam & Privacy
+Shazam is designed to protect your information and enable you to choose what you share.
+We built this page to answer the questions you may have regarding your Shazam data—and show you how to easily manage your data.
+What data do we collect and how do we use it?
+Shazam collects information about you when you interact with our sites or apps. Whether your Shazam data is associated with you depends on whether you use Shazam with an account. If you use Shazam with an account, your Shazam data will be associated with your account credentials (for example, your email address or Apple ID). If you use Shazam without an account, your Shazam data will only be associated with a Shazam ID which is non-personally identifying.
+Shazam collects the following:
+Information you provide us when you register for an account, including your email address.
+If you create a Shazam account using a third-party service, we may receive some information about you from that network (for example, your Google ID).
+Information about the songs you identify using Shazam, to display the list of your discoveries and to provide you with recommended music in various pages within the Shazam app.
+Information about your activity in Shazam to improve the app, such as the pages you view and buttons you select, device information such as make and model, operating system version, and IP address. We may also use this information to detect fraud or misuse of the service and may approximate your location to offer Shazam charts of trending songs.
+You may choose to provide Shazam with permission to collect your location while you are using the app. We use location data to show you where your songs are Shazamed and improve the quality of the service.
+If you turn on Notifications for Shazam, we may send you push notifications that are personalized based on your Shazam activity.
+For more detailed information on what information we collect and how it is collected, please visit Shazam Terms and Conditions.
+Who do we share your data with?
+We share de-identified, aggregate information with our partners, including the songs identified using Shazam and the city and country of each Shazam.
+We may also share your information:
+With service providers who perform services and functions on our behalf to help deliver the services and communicate with you.
+In order to comply with laws or valid legal requests for information such as a subpoena or search warrant.
+For more detailed information on when and how we share your information, please visit Shazam Terms and Conditions.
+Managing your data
+If you have a Shazam account, you can request to download your Shazam data, or request that your account and associated data are deleted.
+Learn about your data categories
+DOWNLOAD YOUR DATA CATEGORIES
+How do you download your data?
+DOWNLOAD YOUR DATA
+How do you delete your data?
+DELETE YOUR ACCOUNT
