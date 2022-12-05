@@ -11,7 +11,7 @@ def main():
     ["Right_Restriction", ["restrict", "restriction", "stop"]],
     ["Right_Portability", ["request a copy", "receive a copy", "request to receive", "right to request", "right to receive", "review", "a copy"]],
     ["Right_Objection", ["object", "objection"]],
-    ["Right_Know", ["know"]]
+    ["Right_Know", ["know"]],
     ["Right_Nondiscrimination", ["discriminate", "discrimination"]],
     ["Lawful_Processing", ["consent", "contract", "legal obligation", "legitimate interest", "vital interest", "public interest"]],
     ["DPO_Mentioned", ["data protection officer", "dpo"]]
