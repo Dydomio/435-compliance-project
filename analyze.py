@@ -9,8 +9,9 @@ def main():
     ["Right_Access", ["access", "review"]],
     ["Right_Rectification", ["rectify", "correct", "corrected", "correction", "rectification", "rectified", "update", "amend"]],
     ["Right_Restriction", ["restrict", "restriction", "stop"]],
-    ["Right_Portability", ["request a copy", "receive a copy", "request to receive", "right to request", "right to receive", "review"]],
+    ["Right_Portability", ["request a copy", "receive a copy", "request to receive", "right to request", "right to receive", "review", "a copy"]],
     ["Right_Objection", ["object", "objection"]],
+    ["Right_Know", ["know"]]
     ["Right_Nondiscrimination", ["discriminate", "discrimination"]],
     ["Lawful_Processing", ["consent", "contract", "legal obligation", "legitimate interest", "vital interest", "public interest"]],
     ["DPO_Mentioned", ["data protection officer", "dpo"]]
@@ -18,7 +19,7 @@ def main():
 
     GDPR_rights = ["Right_Deletion", "Right_Access", "Right_Rectification", "Right_Restriction", "Right_Portability", "Right_Objection",
     "Lawful_Processing", "DPO_Mentioned"]
-    CCPA_rights = ["Right_Nondiscrimination", "Right_Deletion", "Sale_OptOut"]
+    CCPA_rights = ["Right_Nondiscrimination", "Right_Deletion", "Right_Know", "Sale_OptOut"]
 
     # A list of lists that should probably be a list of dictionaries
     annotationList = []
