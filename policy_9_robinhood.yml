@@ -1,0 +1,438 @@
+- segment_id: 0
+  segment_text: Robinhood Privacy Policy
+  sentence_annotations: []
+- segment_id: 1
+  segment_text: 'Effective Date: March 22, 2022'
+  sentence_annotations: []
+- segment_id: 2
+  segment_text: At Robinhood, we take privacy and security seriously. This Privacy
+    Policy outlines how Robinhood Financial LLC and its affiliates (collectively,
+    Robinhood, we, our, or us) process the information we collect about you through
+    our websites, mobile apps, and other online services (collectively, the Services)
+    and when you otherwise interact with us, such as through our customer service
+    channels.
+  sentence_annotations: []
+- segment_id: 3
+  segment_text: 'If you are a California resident, please also see the Notice to California
+    Residents section below. If you have a Robinhood account, or have taken steps
+    to register for an account, you can also review our: Robinhood Financial and Robinhood
+    Securities RHF and RHS Financial Privacy Notice; Robinhood Crypto RHC Financial
+    Privacy Notice; and our Robinhood Money RHY Financial Privacy Notice, for a summary
+    of our practices regarding the personally identifiable financial information we
+    collect about you.'
+  sentence_annotations: []
+- segment_id: 4
+  segment_text: 'Click on the links below to jump to specific sections:'
+  sentence_annotations: []
+- segment_id: 5
+  segment_text: INFORMATION WE COLLECT AND HOW WE COLLECT IT
+  sentence_annotations: []
+- segment_id: 6
+  segment_text: HOW WE USE YOUR INFORMATION
+  sentence_annotations: []
+- segment_id: 7
+  segment_text: DISCLOSURES OF INFORMATION
+  sentence_annotations: []
+- segment_id: 8
+  segment_text: THIRD-PARTY TRACKING AND ONLINE ADVERTISING
+  sentence_annotations: []
+- segment_id: 9
+  segment_text: DO NOT TRACK
+  sentence_annotations: []
+- segment_id: 10
+  segment_text: YOUR CONTROLS
+  sentence_annotations: []
+- segment_id: 11
+  segment_text: NOTICE TO CALIFORNIA RESIDENTS
+  sentence_annotations: []
+- segment_id: 12
+  segment_text: CHILDREN
+  sentence_annotations: []
+- segment_id: 13
+  segment_text: TRANSFER OF INFORMATION
+  sentence_annotations: []
+- segment_id: 14
+  segment_text: CHANGES TO THIS POLICY
+  sentence_annotations: []
+- segment_id: 15
+  segment_text: HOW TO CONTACT US
+  sentence_annotations: []
+- segment_id: 16
+  segment_text: 1. INFORMATION WE COLLECT AND HOW WE COLLECT IT.
+  sentence_annotations: []
+- segment_id: 17
+  segment_text: Information You Provide
+  sentence_annotations: []
+- segment_id: 18
+  segment_text: We collect information you provide when you use our Services or otherwise
+    engage or communicate with us as described below.
+  sentence_annotations: []
+- segment_id: 19
+  segment_text: Identity Data, such as your name, date of birth, marital status, social
+    security number, biometric identifiers, and other data on government-issued identification
+    documents;
+  sentence_annotations: []
+- segment_id: 20
+  segment_text: Contact Data, such as your email address, mailing address, and telephone
+    number;
+  sentence_annotations: []
+- segment_id: 21
+  segment_text: Financial Data, such as your bank account and payment card details,
+    and information about your income, account balances, financial transaction history,
+    credit history, tax information, and credit scores;
+  sentence_annotations: []
+- segment_id: 22
+  segment_text: Profile Data, such as your username and password, your knowledge assessment
+    results, your interests, preferences, feedback, and survey responses;
+  sentence_annotations: []
+- segment_id: 23
+  segment_text: Stored Content, such as photos from your mobile phone gallery or contacts
+    stored in your mobile device or email accounts. We only collect this information
+    with your permission; and
+  sentence_annotations: []
+- segment_id: 24
+  segment_text: Additional Data You Provide, such as via focus groups, survey responses,
+    contests/sweepstakes, customer support, or other means.
+  sentence_annotations: []
+- segment_id: 25
+  segment_text: Information We Collect Automatically
+  sentence_annotations: []
+- segment_id: 26
+  segment_text: As is true of many digital platforms, we also collect certain information
+    about you automatically when you use our Services, as described below.
+  sentence_annotations: []
+- segment_id: 27
+  segment_text: Usage Information. We collect information about your activity on our
+    Services, which includes device identifiers (like IP address or mobile device
+    identifiers), pages or features you use, time and date of access, and other similar
+    usage information.
+  sentence_annotations: []
+- segment_id: 28
+  segment_text: Transactional Information. When you receive, submit, or complete a
+    transaction via the Services, we collect information about the transaction, such
+    as transaction amount, type and nature of the transaction, and time and date of
+    the transaction.
+  sentence_annotations: []
+- segment_id: 29
+  segment_text: Location Data. We may collect the GPS location of your mobile device
+    in accordance with your device permissions. You can stop the collection of this
+    precise location information at any time (see the Your Control section below for
+    details). Google uses technologies to approximate your location, including IP
+    address (see Googles Privacy Policy located at https://policies.google.com/privacy
+    to learn more about how they process this information). We also approximate your
+    location by your IP address.
+  sentence_annotations: []
+- segment_id: 30
+  segment_text: Information Collected Through Tracking Technologies. We and our service
+    providers also use technologies, including cookies and web beacons, to automatically
+    collect certain types of usage and device information when you use our Services
+    or interact with our emails. The information collected through these technologies
+    includes your IP address, browser type, Internet service provider, platform type,
+    device type, operating system, date and time stamp, a unique device or account
+    ID, usage information and other similar information. For information about how
+    to disable cookies, please see the Your Controls section below.
+  sentence_annotations: []
+- segment_id: 31
+  segment_text: Information We Collect from Other Sources
+  sentence_annotations: []
+- segment_id: 32
+  segment_text: We also obtain information about you from other sources as described
+    below.
+  sentence_annotations: []
+- segment_id: 33
+  segment_text: Vendors and Business Partners. We collect information about you from
+    companies that we do business with, such as name, contact data, inferences about
+    your preferences and attributes, as well as inferred fraud risk, from identity
+    verification and fraud prevention partners.
+  sentence_annotations: []
+- segment_id: 34
+  segment_text: Financial Account Linking. Robinhood offers account linking and aggregation
+    services through Plaid Inc. ("Plaid"). By utilizing these services, you acknowledge
+    and agree that the terms of Plaid's Privacy Policy (currently located at https://plaid.com/legal/#end-user-privacy-policy)
+    will govern Plaid's use of such information, and you consent to Plaid's Privacy
+    Policy. Further, you expressly grant Plaid the right, power, and authority to
+    access and transmit your information as reasonably necessary for Plaid to provide
+    its services. To the extent you previously utilized account linking and aggregation
+    services through Robinhood's previous service provider, Quovo, Inc., you expressly
+    authorize Quovo, Inc. to transmit any information or data arising out of those
+    services to Plaid so that Plaid can provide its services.
+  sentence_annotations: []
+- segment_id: 35
+  segment_text: Connected Services. If you link, connect, or log in to your Robinhood
+    Account with a third-party service (e.g., Google, Apple), the third-party service
+    may send us information such as your profile information from that service. This
+    information varies and is controlled by that service or as authorized by you via
+    your privacy settings at that service.
+  sentence_annotations: []
+- segment_id: 36
+  segment_text: Publicly Available Data. includes contact information, your interactions
+    with our social media platforms, and other information from publicly available
+    sources, such as public websites.
+  sentence_annotations: []
+- segment_id: 37
+  segment_text: Advertising Data. We collect information in connection with our ad
+    campaigns that surfaced on other platforms, such as the ads you clicked on and
+    other interactions with our ads.
+  sentence_annotations: []
+- segment_id: 38
+  segment_text: Data from other users. If you are in another users contact list and
+    they choose to share that list with us, then we will collect the contact information
+    and your association with that user.
+  sentence_annotations: []
+- segment_id: 39
+  segment_text: 2. HOW WE USE YOUR INFORMATION.
+  sentence_annotations: []
+- segment_id: 40
+  segment_text: 'We use the information we collect for purposes described below or
+    as otherwise described to you at the point of collection:'
+  sentence_annotations: []
+- segment_id: 41
+  segment_text: Maintain and provide the Services, including to process account applications,
+    authenticate your identity, repair our Services, support, and handle billing and
+    account management;
+  sentence_annotations: []
+- segment_id: 42
+  segment_text: Send you transactional or relationship information, including confirmations,
+    invoices, technical notices, customer support responses, software updates, security
+    alerts, support and administrative messages, and information about your transactions;
+  sentence_annotations: []
+- segment_id: 43
+  segment_text: Communicate with you about offers and other things we think you will
+    be interested in, such as newsletters, product announcements, partner offerings,
+    surveys, contests or sweepstakes, events or announcements;
+  sentence_annotations: []
+- segment_id: 44
+  segment_text: Personalize our Services, such as by suggesting content or customizing
+    content or ads we show you;
+  sentence_annotations: []
+- segment_id: 45
+  segment_text: Monitor and improve our Services, including analyzing usage, research
+    and development;
+  sentence_annotations: []
+- segment_id: 46
+  segment_text: Facilitate contests, sweepstakes, and promotions and process and deliver
+    entries and rewards;
+  sentence_annotations: []
+- segment_id: 47
+  segment_text: Help protect the safety and security of our Services, business, and
+    users, such as to investigate and help prevent fraud or other unlawful activity;
+  sentence_annotations: []
+- segment_id: 48
+  segment_text: Protect or exercise our legal rights or defend against legal claims,
+    including to enforce and carry out contracts and agreements; and
+  sentence_annotations: []
+- segment_id: 49
+  segment_text: Comply with applicable laws and legal obligations, such as compliance
+    obligations associated with being a regulated broker-dealer.
+  sentence_annotations: []
+- segment_id: 50
+  segment_text: 3. DISCLOSURES OF INFORMATION.
+  sentence_annotations: []
+- segment_id: 51
+  segment_text: We are committed to maintaining your trust, and we want you to understand
+    when and with whom we share information about you. We share information about
+    you in the instances described below.
+  sentence_annotations: []
+- segment_id: 52
+  segment_text: Authorized third-party vendors and service providers. We share information
+    about you with third-party vendors and service providers who perform services
+    for us, such as identification verification, fraud prevention, advertising, mailing
+    services, tax and accounting services, contest fulfillment, web hosting, and analytics
+    services. We use an identification verification service provider to determine
+    whether a selfie you take matches the photo in your government-issued identification.
+    With your consent, we may record your voice and send this data to our third-party
+    partner to authenticate you and to help prevent fraud. The information collected
+    from your photo and your voice by our third-party vendors may include biometric
+    data.
+  sentence_annotations: []
+- segment_id: 53
+  segment_text: Companies in which you hold securities. Robinhood may provide your
+    name, address, email address, and securities positions to requesting companies
+    in which you hold securities.
+  sentence_annotations: []
+- segment_id: 54
+  segment_text: Robinhood affiliates. Where appropriate, we share information about
+    you with other companies owned or controlled by Robinhood. For example, Robinhood
+    Securities, LLC may receive information to provide you with custody and other
+    related services as described in your customer agreement. These companies will
+    process any information shared in the same manner as described under this Privacy
+    Policy.
+  sentence_annotations: []
+- segment_id: 55
+  segment_text: Substantial corporate transactions. We may share information about
+    you in connection with a substantial corporate transaction, a merger, consolidation,
+    reorganization, financing, change in control or acquisition of all or a portion
+    of our business by a third party, or in the unlikely event of a bankruptcy or
+    similar proceeding.
+  sentence_annotations: []
+- segment_id: 56
+  segment_text: Legal purposes. We disclose information about you if we believe that
+    disclosure is in accordance with, or required by, any applicable law or legal
+    process or to protect and defend the rights, interests, safety, and security of
+    Robinhood, our users, or the public.
+  sentence_annotations: []
+- segment_id: 57
+  segment_text: With your consent. We share information about you for any other purposes
+    disclosed to you with your consent.
+  sentence_annotations: []
+- segment_id: 58
+  segment_text: We share information with others in an aggregated or otherwise de-identified
+    form that does not reasonably identify you.
+  sentence_annotations: []
+- segment_id: 59
+  segment_text: 4. THIRD-PARTY TRACKING AND ONLINE ADVERTISING.
+  sentence_annotations: []
+- segment_id: 60
+  segment_text: 'We use third-party advertising and analytics services to better understand
+    your online activity and serve you targeted advertisements. For example, we use
+    Google Analytics and you can review the How Google uses information from sites
+    or apps that use our services linked here: http://www.google.com/policies/privacy/partners/
+    for information about how Google processes the information it collects. These
+    companies collect information about your use of our Services and other websites
+    and online services over time through cookies, device identifiers, or other tracking
+    technologies. The information collected includes your IP address, web browser,
+    mobile network information, pages viewed, time spent, links clicked, and conversion
+    information. We and our third-party partners use this information to, among other
+    things, analyze and track data, determine the popularity of content, and deliver
+    advertisements targeted to your interests on our Services and other platforms,
+    as well as to provide advertising-related services to us such as reporting, attribution,
+    analytics, and market research.'
+  sentence_annotations: []
+- segment_id: 61
+  segment_text: For more information about interest-based ads, including to learn
+    about options for opting out of having your web browsing information used for
+    targeted advertising purposes, please visit www.aboutads.info/choices. You should
+    also review your mobile device settings and controls for features that allow you
+    to opt out or opt in to having certain information collected for behavioral advertising
+    purposes. Please note, as a self-directed broker-dealer, we do not advertise on
+    behalf of specific securities or investment options on our Services.
+  sentence_annotations: []
+- segment_id: 62
+  segment_text: 5. DO NOT TRACK.
+  sentence_annotations: []
+- segment_id: 63
+  segment_text: Some web browsers transmit do-not-track signals to websites. We currently
+    dont take action in response to these signals.
+  sentence_annotations: []
+- segment_id: 64
+  segment_text: 6. YOUR CONTROLS.
+  sentence_annotations: []
+- segment_id: 65
+  segment_text: Account profile. You may update certain account profile information
+    by logging into your account.
+  sentence_annotations: []
+- segment_id: 66
+  segment_text: Access to your device data. You may disconnect our mobile apps access
+    to certain stored device information through your devices settings. For instance,
+    you can withdraw permission for the app to access your contact list or photo gallery.
+  sentence_annotations: []
+- segment_id: 67
+  segment_text: How to control your communications preferences. You can stop receiving
+    promotional emails from us by clicking the unsubscribe link in those emails. We
+    may still send you service-related or other non-promotional communications, such
+    as account notifications, receipts, security notices and other transactional or
+    relationship messages.
+  sentence_annotations: []
+- segment_id: 68
+  segment_text: Affiliate sharing opt out. In some cases, you can limit sharing between
+    Robinhood affiliates. Please see our RHF and RHS Financial Privacy Notice, our
+    RHC Financial Privacy Notice, and RHY Financial Privacy Notice for more details.
+    If you want to exercise this right, please contact us at privacy@robinhood.com.
+  sentence_annotations: []
+- segment_id: 69
+  segment_text: Disabling certain data sharing. You can limit how we share your data
+    with our marketing partners to more effectively market our Services to you across
+    sites and apps. When disabled, we will no longer share personal information with
+    these partners for these purposes.
+  sentence_annotations: []
+- segment_id: 70
+  segment_text: Cookie controls. Many web browsers are set to accept cookies and similar
+    tracking technologies by default. If you prefer, you can set your browser to delete
+    or reject these technologies. If you choose to delete or reject these technologies,
+    this could affect certain features of our Services. Furthermore, if you use a
+    different device, change browsers, or delete the opt-out cookies that contain
+    your preferences, you may need to perform the opt-out task again.
+  sentence_annotations: []
+- segment_id: 71
+  segment_text: 7. NOTICE TO CALIFORNIA RESIDENTS.
+  sentence_annotations: []
+- segment_id: 72
+  segment_text: This section provides additional details about the personal information
+    we collect about California residents and the rights afforded to them under the
+    California Consumer Privacy Act (CCPA). Please note that the CCPA does not apply
+    to what is referred to as nonpublic personal information collected by financial
+    institutions (like Robinhood), as that information is subject instead to other
+    financial privacy laws. As a result, the CCPA does not apply to most of the information
+    that Robinhood collects.
+  sentence_annotations: []
+- segment_id: 73
+  segment_text: Subject to certain limitations and exceptions, the CCPA provides California
+    residents the right to request more details about the categories and specific
+    elements of personal information we collect, to delete their personal information,
+    to opt out of any sales that may be occurring, and to not be discriminated against
+    for exercising these rights. We do not sell information about you to third parties.
+    In order to help Robinhood deliver advertising and marketing on other platforms,
+    we do allow third parties to collect information through our Services. Please
+    see the Third-Party Tracking and Online Advertising section above for more details,
+    including choices available to you.
+  sentence_annotations: []
+- segment_id: 74
+  segment_text: 'In the last 12 months, we collected the following categories of personal
+    information: identifiers (such as name, email address and IP address), Internet
+    or other electronic network activity information (such as engagement with promotional
+    messages and ads), and inferences (such as gender, based on your first name) derived
+    from other personal information. For more details about the information we collect
+    and the categories of sources of this information, please see the Information
+    We Collect and How We Collect It section above. We share this information with
+    the categories of third parties described in the Disclosures of Information section
+    above.'
+  sentence_annotations: []
+- segment_id: 75
+  segment_text: California residents may make a consumer rights request to access
+    or delete certain personal information not otherwise exempt from such requests
+    under applicable law. A request may be made by logging into your Robinhood account,
+    navigating to the Security and Privacy menu, and selecting the option to either
+    Download Personal Data or Request Data Deletion. You may also request assistance
+    by sending an email to privacy@robinhood.com. We may verify the request by asking
+    you to provide information that matches information we have on file about you.
+    You can also designate an authorized agent to exercise these rights on your behalf,
+    but we will require proof that the person is authorized to act on your behalf
+    and may also still ask you to verify your identity with us directly.
+  sentence_annotations: []
+- segment_id: 76
+  segment_text: 8. CHILDREN.
+  sentence_annotations: []
+- segment_id: 77
+  segment_text: We do not knowingly collect or solicit any information from anyone
+    under the age of 13 on these Services. In the event we learn that we have inadvertently
+    collected personal information from a child under age 13, we will take reasonable
+    steps to delete that information. If you believe that we might have any information
+    from a child under 13, please contact us at privacy@robinhood.com.
+  sentence_annotations: []
+- segment_id: 78
+  segment_text: 9. TRANSFER OF INFORMATION.
+  sentence_annotations: []
+- segment_id: 79
+  segment_text: Our Services are currently designed for use only in the United States.
+    If you are using our Services from another jurisdiction, your information may
+    be processed in the United States or other countries that may not provide levels
+    of data protection that are equivalent to those of your home jurisdiction.
+  sentence_annotations: []
+- segment_id: 80
+  segment_text: 10. CHANGES TO THIS POLICY.
+  sentence_annotations: []
+- segment_id: 81
+  segment_text: This Privacy Policy will evolve with time, and when we update it,
+    we will revise the "Effective Date" above and post the new Policy and, in some
+    cases, we provide additional notice (such as adding a statement to our website
+    or sending you a notification). To stay informed of our privacy practices, we
+    recommend you review the Policy on a regular basis as you continue to use our
+    Services.
+  sentence_annotations: []
+- segment_id: 82
+  segment_text: 11. HOW TO CONTACT US.
+  sentence_annotations: []
+- segment_id: 83
+  segment_text: If you have any questions about this Privacy Policy, please contact
+    us at privacy@robinhood.com.
+  sentence_annotations: []

@@ -1,0 +1,681 @@
+- segment_id: 0
+  segment_text: PRIVACY POLICY
+  sentence_annotations: []
+- segment_id: 1
+  segment_text: 'Update Date: August 2, 2021'
+  sentence_annotations: []
+- segment_id: 2
+  segment_text: Welcome to BeReal!
+  sentence_annotations: []
+- segment_id: 3
+  segment_text: We are committed to protecting the privacy of the personal information
+    you provide to us when using BeReal and we value your privacy. That's why we have
+    created this document (the Privacy Policy). It applies to all Users of the Platform.
+  sentence_annotations: []
+- segment_id: 4
+  segment_text: 'We invite you to carefully read our Privacy Policy and to contact
+    us for any question about the collection and processing of your Personal Data
+    at the following e-mail address: contact@bere.al.'
+  sentence_annotations: []
+- segment_id: 5
+  segment_text: Please note that the Privacy Policy is an integral part of the General
+    Terms of Use and that the definitions set forth therein are applicable to this
+    document.
+  sentence_annotations: []
+- segment_id: 6
+  segment_text: 1. Scope and Application
+  sentence_annotations: []
+- segment_id: 7
+  segment_text: The Privacy Policy details the Personal Data collected and processed
+    when using our Application, the purposes for which Users' Personal Data is processed,
+    how BeReal uses it, and the features offered to allow Users to access and update
+    their Personal Data.
+  sentence_annotations: []
+- segment_id: 8
+  segment_text: 'Personal Data is defined as any information relating to a natural
+    person who can be identified, directly or indirectly. It is for example: the name,
+    first name, email and postal address of a physical person, his image on a photograph
+    or a video, an IP address, a location data, etc.'
+  sentence_annotations: []
+- segment_id: 9
+  segment_text: 2. Acceptance and Modification of Our Privacy Policy
+  sentence_annotations: []
+- segment_id: 10
+  segment_text: By accepting the Terms of Use, you confirm that you have read and
+    accept without limitation or qualification this Privacy Policy, which forms an
+    integral part of the ToU. In case of disagreement with one or more of its conditions,
+    the User is free not to use or no longer to use our services (especially in case
+    of modification of the terms of the Privacy Policy).
+  sentence_annotations: []
+- segment_id: 11
+  segment_text: This Privacy Policy may change from time to time, but any reduction
+    in your rights will not be enforced without your consent. BeReal will post new
+    versions of the Privacy Policy on the Application and at https://bere.al/fr/privacy
+    and will alert Users by means of a pop-up window that will appear upon opening
+    the Application.
+  sentence_annotations: []
+- segment_id: 12
+  segment_text: In general, the Privacy Policy is always easily accessible at https://bere.al/fr/privacy
+    or from your User Account settings.
+  sentence_annotations: []
+- segment_id: 13
+  segment_text: 3. Identification of the Data Controller
+  sentence_annotations: []
+- segment_id: 14
+  segment_text: The processing of your Personal Data is subject to French law, including
+    Law No. 78-17 of January 6, 1978 relating to computers, files and freedoms, as
+    amended (known as the Data Protection Act) as well as the EU Regulation 2016/679
+    of April 27, 2016, known as the General Data Protection Regulation (GDPR).
+  sentence_annotations: []
+- segment_id: 15
+  segment_text: According to the regulations in force, BeReal is the Controller of
+    the processing of your Personal Data.
+  sentence_annotations: []
+- segment_id: 16
+  segment_text: In this capacity, BeReal undertakes to comply with the legal provisions
+    in force and to carry out a lawful, fair and transparent processing of Personal
+    Data of Users. BeReal also guarantees to the Users that this processing is in
+    accordance with the explicit and legitimate purposes determined in the Privacy
+    Policy. The duration of processing does not exceed the time necessary for the
+    purposes for which the Personal Data are collected and processed.
+  sentence_annotations: []
+- segment_id: 17
+  segment_text: 4. Categories of Personal Data Processed When Using the Application
+  sentence_annotations: []
+- segment_id: 18
+  segment_text: a) Which Personal Data Are Processed?
+  sentence_annotations: []
+- segment_id: 19
+  segment_text: In order to provide access to the Platform to its Services, BeReal
+    may collect several categories of Personal Data about you, for different purposes,
+    legal bases for processing and different retention periods. We offer a summary
+    of all this information in the table below.
+  sentence_annotations: []
+- segment_id: 20
+  segment_text: If you wish to know more about the Data collected and the purposes
+    of processing you can also read the details below the following table.
+  sentence_annotations: []
+- segment_id: 21
+  segment_text: Purpose of the Processing
+  sentence_annotations: []
+- segment_id: 22
+  segment_text: Personal Data Processed
+  sentence_annotations: []
+- segment_id: 23
+  segment_text: Legal Ground for the Processing
+  sentence_annotations: []
+- segment_id: 24
+  segment_text: Retention Period
+  sentence_annotations: []
+- segment_id: 25
+  segment_text: Account creation and User identification - Account management
+  sentence_annotations: []
+- segment_id: 26
+  segment_text: Mandatory profile data (Name, date of birth, phone number, password)
+  sentence_annotations: []
+- segment_id: 27
+  segment_text: Performance of the contract between You and BeReal
+  sentence_annotations: []
+- segment_id: 28
+  segment_text: Duration of the use of the services increased by 3 years after the
+    last connection to the service or until the request for removal
+  sentence_annotations: []
+- segment_id: 29
+  segment_text: Optional profile data (biography, email address)
+  sentence_annotations: []
+- segment_id: 30
+  segment_text: Consent
+  sentence_annotations: []
+- segment_id: 31
+  segment_text: Duration of the use of the services increased by 3 years after the
+    last connection to the service or until the withdrawal of consent
+  sentence_annotations: []
+- segment_id: 32
+  segment_text: Purchase of paid features
+  sentence_annotations: []
+- segment_id: 33
+  segment_text: Transaction Data submitted by the Store
+  sentence_annotations: []
+- segment_id: 34
+  segment_text: Performance of the contract between You and BeReal
+  sentence_annotations: []
+- segment_id: 35
+  segment_text: Duration necessary for the execution of the transaction increased
+    by the legal retention period for accounting purposes
+  sentence_annotations: []
+- segment_id: 36
+  segment_text: Proper functioning of the Platform and its Services
+  sentence_annotations: []
+- segment_id: 37
+  segment_text: Data related to your activity on BeReal, Communications with BeReal,
+    Data related to devices and equipment used
+  sentence_annotations: []
+- segment_id: 38
+  segment_text: Legitimate interests of the Data Controller
+  sentence_annotations: []
+- segment_id: 39
+  segment_text: 2 years from collection date
+  sentence_annotations: []
+- segment_id: 40
+  segment_text: Data sent by your phone's camera and photos stored on your phone,
+    Geolocation Data
+  sentence_annotations: []
+- segment_id: 41
+  segment_text: Consent
+  sentence_annotations: []
+- segment_id: 42
+  segment_text: Duration of the use of the services increased by 3 years after the
+    last connection or until the withdrawal of consent
+  sentence_annotations: []
+- segment_id: 43
+  segment_text: Administrative management of the Platform, complaints and reports
+    from Users, Moderation of content in accordance with our ToU
+  sentence_annotations: []
+- segment_id: 44
+  segment_text: Content Data, Communications with BeReal
+  sentence_annotations: []
+- segment_id: 45
+  segment_text: Legitimate interests of the Data Controller
+  sentence_annotations: []
+- segment_id: 46
+  segment_text: Duration of the use of the services + applicable statutory limitation
+  sentence_annotations: []
+- segment_id: 47
+  segment_text: Moderation of content in accordance with the law (prevention of illegal
+    activities, fraud, cyber harassment, ...)
+  sentence_annotations: []
+- segment_id: 48
+  segment_text: Content Data, Data about your activity on BeReal
+  sentence_annotations: []
+- segment_id: 49
+  segment_text: Compliance with our legal obligations
+  sentence_annotations: []
+- segment_id: 50
+  segment_text: 1 year from collection for metadata
+  sentence_annotations: []
+- segment_id: 51
+  segment_text: 5 years (statutory limitation) for data retained for dispute prevention
+    purposes
+  sentence_annotations: []
+- segment_id: 52
+  segment_text: Connection with other Users
+  sentence_annotations: []
+- segment_id: 53
+  segment_text: Contact data from your smartphone
+  sentence_annotations: []
+- segment_id: 54
+  segment_text: Consent
+  sentence_annotations: []
+- segment_id: 55
+  segment_text: Duration of use of services or until withdrawal of consent
+  sentence_annotations: []
+- segment_id: 56
+  segment_text: Geolocation
+  sentence_annotations: []
+- segment_id: 57
+  segment_text: Details On The Personal Data Collected and Processed
+  sentence_annotations: []
+- segment_id: 58
+  segment_text: 'BeReal collects two different types of Data:'
+  sentence_annotations: []
+- segment_id: 59
+  segment_text: (i) Data that you provide to us
+  sentence_annotations: []
+- segment_id: 60
+  segment_text: 'Profile Data: This is the Data that you are required to enter when
+    you sign in: your phone number, first or last name, date of birth, username, and
+    password.'
+  sentence_annotations: []
+- segment_id: 61
+  segment_text: 'You can also fill in optional Data: your biography, email address,
+    profile picture.'
+  sentence_annotations: []
+- segment_id: 62
+  segment_text: 'Communications with BeReal : When you report a problem with the Platform
+    (inappropriate content, bugs, errors), respond to a survey about the quality of
+    our Services, request assistance, or make a request to exercise your rights, we
+    record the information you agree to share with us or that we need to respond to
+    your request.'
+  sentence_annotations: []
+- segment_id: 63
+  segment_text: (ii) Data we collect when you use our Services
+  sentence_annotations: []
+- segment_id: 64
+  segment_text: 'Data related to your activity on BeReal: this notably includes:'
+  sentence_annotations: []
+- segment_id: 65
+  segment_text: 'Connection Data: IP address, date of registration, date of your last
+    connection;'
+  sentence_annotations: []
+- segment_id: 66
+  segment_text: 'Data about how you interact with other Users: the number of friends
+    and invitations, comments left on Content shared by your friends, the friends
+    with whom you interact the most;'
+  sentence_annotations: []
+- segment_id: 67
+  segment_text: Data about how you use our Services, including use of RealMojis, time
+    of posting, number of late BeReal posts, etc.
+  sentence_annotations: []
+- segment_id: 68
+  segment_text: 'Content Data: We collect content that you create through our Services
+    such as photos, RealMojis and comments. Note that Users who view your Content
+    can always take a copy or screenshot of it. Therefore, we strongly recommend that
+    you do not post or send to a friend any Content that you do not want to share.'
+  sentence_annotations: []
+- segment_id: 69
+  segment_text: 'Geolocation Data: For each photo, the Platform offers you the possibility
+    to share, with your friends, your exact location or, when the photo is published
+    publicly, an approximate location. We also offer you to locate your friends precisely
+    on a map in relation to your position. Use of the Service requires your consent
+    to the collection of Geolocation Data.'
+  sentence_annotations: []
+- segment_id: 70
+  segment_text: If you do not want BeReal to collect your Geolocation Data, you may
+    refuse to give the Platform permission to access your location when you first
+    open the application. If you wish to withdraw your consent after accepting such
+    processing, you must change the permissions given to the application in the system
+    settings of your phone.
+  sentence_annotations: []
+- segment_id: 71
+  segment_text: 'Phonebook Data: With your consent, BeReal may access your phone book
+    to identify your contacts already registered on BeReal or so that you can invite
+    your friends to register on the Platform. We never access your contact list without
+    your permission.'
+  sentence_annotations: []
+- segment_id: 72
+  segment_text: 'Device and Equipment Data: We collect information about and from
+    the devices and equipment you use to access BeReal. This includes your IP address,
+    device type, application crashes, operating system version, language used.'
+  sentence_annotations: []
+- segment_id: 73
+  segment_text: 'Cameras and Photos: Most of our Services require that you allow us
+    to collect Data from your phone''s camera and photo library (i.e. send and upload
+    photos). If you refuse to allow us access to your camera or photo library, you
+    may receive photos from and contact other Users, but you will not be able to take,
+    upload and share your own photos.'
+  sentence_annotations: []
+- segment_id: 74
+  segment_text: Details of the legal basis and purposes of the processing
+  sentence_annotations: []
+- segment_id: 75
+  segment_text: 'We process the above-described Data in accordance with the requirements
+    of the GDPR for various purposes on the bases of:'
+  sentence_annotations: []
+- segment_id: 76
+  segment_text: 'Contract performance where the processing enables BeReal to provide
+    the Services as described in the Terms of Service. This includes:'
+  sentence_annotations: []
+- segment_id: 77
+  segment_text: Access to the Platform and related services (profile visibility, transmission
+    of comments and shared content, suggestion of friends, RealMojis);
+  sentence_annotations: []
+- segment_id: 78
+  segment_text: The proper functioning of Users' accounts;
+  sentence_annotations: []
+- segment_id: 79
+  segment_text: Notifications that it is time to take a photo;
+  sentence_annotations: []
+- segment_id: 80
+  segment_text: Notification of changes to our services;
+  sentence_annotations: []
+- segment_id: 81
+  segment_text: User support services;
+  sentence_annotations: []
+- segment_id: 82
+  segment_text: Administration of the Platform, repair and correction of bugs, updates;
+  sentence_annotations: []
+- segment_id: 83
+  segment_text: The provision of services for sharing User Content and interacting
+    with other Users;
+  sentence_annotations: []
+- segment_id: 84
+  segment_text: 'Our legitimate interests where the processing allows us to provide
+    you with an efficient and dynamic Platform. This includes:'
+  sentence_annotations: []
+- segment_id: 85
+  segment_text: Monitoring User Content, comments, messages and associated metadata
+    for administrative purposes and to verify their compliance with our Terms of Service;
+  sentence_annotations: []
+- segment_id: 86
+  segment_text: Verifying the compatibility of the content presentation methods with
+    respect to the type of device used;
+  sentence_annotations: []
+- segment_id: 87
+  segment_text: The understanding of the modalities of use of the Platform by the
+    Users for the purposes of improvement, development and commercial promotion of
+    the Application;
+  sentence_annotations: []
+- segment_id: 88
+  segment_text: Verifying the stability and security of the Platform;
+  sentence_annotations: []
+- segment_id: 89
+  segment_text: Identifying criminal activities, fraudulent behavior, misuse of the
+    Platform;
+  sentence_annotations: []
+- segment_id: 90
+  segment_text: Sending surveys and requesting feedback in order to improve the Services
+    offered.
+  sentence_annotations: []
+- segment_id: 91
+  segment_text: Compliance with our legal obligations where the processing of Data
+    is aimed at preventing and combating abusive, fraudulent, and illegal activities.
+  sentence_annotations: []
+- segment_id: 92
+  segment_text: 'Your consent where the processing relates to geolocation or phonebook
+    Data. This includes:'
+  sentence_annotations: []
+- segment_id: 93
+  segment_text: Geolocation for the purpose of connecting the User with friends who
+    are geographically close to the User's location;
+  sentence_annotations: []
+- segment_id: 94
+  segment_text: Geolocation for the purpose of indicating where User content was created;
+  sentence_annotations: []
+- segment_id: 95
+  segment_text: Access to the phone book to identify Users of our Services that you
+    know.
+  sentence_annotations: []
+- segment_id: 96
+  segment_text: b) Cookies
+  sentence_annotations: []
+- segment_id: 97
+  segment_text: A cookie (or tracker) is a connection indicator that designates a
+    text file that may be recorded in a dedicated space on the hard disk of your terminal
+    (computer, tablet, or smartphone), when you consult a service available online.
+    A cookie allows its issuer to identify the terminal in which it is stored, during
+    the period of validity or storage of the cookie. The cookie does not identify
+    the User as such; it is used to record your browsing information on the Platform.
+  sentence_annotations: []
+- segment_id: 98
+  segment_text: When you connect to the Platform, information relating to your browsing
+    is likely to be recorded in Cookies files installed on your terminal, according
+    to the choices you may have expressed concerning cookies and which can be modified
+    at any time. These cookies allow personalized navigation and are also used for
+    analytical purposes (audience measurement).
+  sentence_annotations: []
+- segment_id: 99
+  segment_text: The existence of cookies and their purpose(s) will be indicated to
+    you when you connect to the Platform, by the presence of an information banner
+    placed at the bottom or top of the home page.
+  sentence_annotations: []
+- segment_id: 100
+  segment_text: The deposit and reading of cookies on your terminal generally requires
+    your prior consent, which, if applicable, is obtained by clicking on I accept.
+    The consent given for the use of cookies is valid for 13 months. After this period
+    we will ask you to renew your agreement.
+  sentence_annotations: []
+- segment_id: 101
+  segment_text: In case of refusal of cookies, objection to those stored by default,
+    or deletion of the cookies, the User is informed that he can no longer benefit
+    from a number of features that are nevertheless necessary to navigate in some
+    areas of the Platform. Where appropriate, BeReal disclaims any responsibility
+    for the consequences related to the degraded operation of its Services resulting
+    from the inability of BeReal to record or view the cookies necessary for the proper
+    functioning of the Platform and that you have refused or deleted.
+  sentence_annotations: []
+- segment_id: 102
+  segment_text: Finally, it is important to distinguish the cookies issued on the
+    Platform from those issued by third parties. In this respect, we inform you that
+    cookies may be placed from time to time on certain pages of the Platform by third
+    parties (advertisers or others). Please be aware that BeReal has no control over
+    the use of cookies by third parties.
+  sentence_annotations: []
+- segment_id: 103
+  segment_text: 'BeReal uses the following cookies and trackers:'
+  sentence_annotations: []
+- segment_id: 104
+  segment_text: 'On the Application:'
+  sentence_annotations: []
+- segment_id: 105
+  segment_text: Cookies that are necessary for you to use the Services, such as allowing
+    you to stay logged into your account;
+  sentence_annotations: []
+- segment_id: 106
+  segment_text: 'Cookies analyzing your use of the Application to generate statistical
+    reports, without identifying you:'
+  sentence_annotations: []
+- segment_id: 107
+  segment_text: Google Analytics
+  sentence_annotations: []
+- segment_id: 108
+  segment_text: Amplitude
+  sentence_annotations: []
+- segment_id: 109
+  segment_text: Cookies necessary for the proper and efficient operation of the Application,
+    for example by saving your user preferences.
+  sentence_annotations: []
+- segment_id: 110
+  segment_text: 'On the website www.bere.al:'
+  sentence_annotations: []
+- segment_id: 111
+  segment_text: 'cookies analyzing your use of the website to generate statistical
+    reports, without identifying you:'
+  sentence_annotations: []
+- segment_id: 112
+  segment_text: Google Analytics
+  sentence_annotations: []
+- segment_id: 113
+  segment_text: 5. Conditions of use of Personal Data
+  sentence_annotations: []
+- segment_id: 114
+  segment_text: Any use of Personal Data for purposes other than those set out above
+    in our Privacy Policy will require the prior express consent of the User.
+  sentence_annotations: []
+- segment_id: 115
+  segment_text: BeReal undertakes to keep the Personal Data of the Users only for
+    as long as is strictly necessary for the declared processing of the data for the
+    above-mentioned purposes or for the exercise and establishment of its legal rights,
+    and in any case within the limits imposed by the law.
+  sentence_annotations: []
+- segment_id: 116
+  segment_text: BeReal undertakes to delete the Personal Data from its databases at
+    the end of these various periods. In case of request for deletion of your account,
+    it will be effective within 30 (thirty) days. All of our backups are automatically
+    deleted after 90 (ninety) days.
+  sentence_annotations: []
+- segment_id: 117
+  segment_text: However, BeReal may retain certain information for a period of time
+    after the closure of the User's personal account in order to meet legal, accounting
+    and tax obligations and, in particular, to prevent possible unlawful behavior
+    after the deletion of a User Account (reuse of an old account by a third party).
+    In this case, the Personal Data will be deactivated and will no longer be accessible
+    online.
+  sentence_annotations: []
+- segment_id: 118
+  segment_text: 6. Sharing of Information with Third Parties
+  sentence_annotations: []
+- segment_id: 119
+  segment_text: a) No disclosure of Personal Information to third parties
+  sentence_annotations: []
+- segment_id: 120
+  segment_text: With the exception of Content that you have licensed to us in accordance
+    with the Terms of Use, BeReal will not disclose to third parties any information
+    or Personal Data provided by Users. This information and Personal Data is used
+    exclusively by BeReal's internal services and will not be transferred or sold
+    to third parties without your prior express consent.
+  sentence_annotations: []
+- segment_id: 121
+  segment_text: b) Communication of Personal Data for external processing purposes
+  sentence_annotations: []
+- segment_id: 122
+  segment_text: Your information and Personal Data may, where appropriate, be transmitted
+    to third party contractors involved in the provision of the Services (technical
+    and hosting providers, sending notifications, publishing and sharing content,
+    user tracking and satisfaction surveys, management of security incidents or fraudulent
+    activity, etc.).
+  sentence_annotations: []
+- segment_id: 123
+  segment_text: BeReal undertakes to communicate Users' Personal Data only to authorized
+    and trusted service providers, who process it on our behalf, according to our
+    instructions, in accordance with this Privacy Policy and in compliance with any
+    other appropriate security and confidentiality measures.
+  sentence_annotations: []
+- segment_id: 124
+  segment_text: c) Disclosure of Personal Data outside the European Union
+  sentence_annotations: []
+- segment_id: 125
+  segment_text: Processing Personal Data as described in the Privacy Policy may involve
+    transferring your Data to one or more other countries, inside or outside the European
+    Economic Area, including the United States.
+  sentence_annotations: []
+- segment_id: 126
+  segment_text: Where applicable, we use standard contractual clauses and/or other
+    mechanisms approved by the European Commission to maintain a level of protection
+    for your Personal Data equivalent to that guaranteed by the GDPR.
+  sentence_annotations: []
+- segment_id: 127
+  segment_text: d) Disclosure for Legal and Statutory Purposes
+  sentence_annotations: []
+- segment_id: 128
+  segment_text: Information and Personal Data may also be disclosed to a third party
+    if BeReal is required to do so by law, regulation, or court order, or if such
+    disclosure is necessary for the purposes of an investigation, court order or legal
+    proceeding, either domestically or abroad.
+  sentence_annotations: []
+- segment_id: 129
+  segment_text: 'In addition, BeReal may share information and Personal Data with
+    third party companies, consultants or individuals in order to:'
+  sentence_annotations: []
+- segment_id: 130
+  segment_text: Enforce the Privacy Policy and the General Terms of Use of the Application
+    in force, including to ascertain any breach thereof;
+  sentence_annotations: []
+- segment_id: 131
+  segment_text: Protect against any infringement of the rights, property or safety
+    of its users, in accordance with and in compliance with the law.
+  sentence_annotations: []
+- segment_id: 132
+  segment_text: 7. Security of Personal Data
+  sentence_annotations: []
+- segment_id: 133
+  segment_text: We implement technical and organizational measures, such as encryption
+    of Data or restriction of access to authorized personnel, to ensure that your
+    Personal Data is processed securely in accordance with the Privacy Policy. However,
+    the transmission of information via the Internet involves irreducible risks that
+    do not allow us to guarantee perfect security of the information transmitted via
+    the Platform. Consequently, any transmission of Personal Data is made at your
+    own risk.
+  sentence_annotations: []
+- segment_id: 134
+  segment_text: 8. Respect of the rights of the Platform Users
+  sentence_annotations: []
+- segment_id: 135
+  segment_text: 'You have certain rights regarding your Personal Data, as follows:'
+  sentence_annotations: []
+- segment_id: 136
+  segment_text: 'Right of access: it allows you to access free of charge the Personal
+    Data collected about you.'
+  sentence_annotations: []
+- segment_id: 137
+  segment_text: 'Right of rectification: it allows you to update or correct the accuracy
+    of your Data. You can exercise this right directly from your account settings.'
+  sentence_annotations: []
+- segment_id: 138
+  segment_text: 'Right of deletion: it can be exercised when the processing of Personal
+    Data is no longer necessary for the purposes for which they were collected or,
+    if applicable, when you withdraw your consent to the processing.'
+  sentence_annotations: []
+- segment_id: 139
+  segment_text: 'Right to object to the collection and processing of all or part of
+    your Personal Data: this right is not absolute and applies only to Personal Data
+    collected for commercial prospecting purposes, including profiling when it is
+    linked to commercial prospecting activities. When you choose to object to such
+    processing we ask you to indicate the reasons for your objection so that we can
+    balance our legitimate interests against your request.'
+  sentence_annotations: []
+- segment_id: 140
+  segment_text: 'Right to limit the processing of Personal Data. This right is not
+    absolute, and can only be applied when:'
+  sentence_annotations: []
+- segment_id: 141
+  segment_text: a request for rectification has been made under the right of rectification
+    described in 8.2. You may then request that the processing of your Personal Data
+    be stopped for the time necessary to verify the accuracy of the requested rectification.
+  sentence_annotations: []
+- segment_id: 142
+  segment_text: you wish to object to the deletion of your Personal Data whose processing
+    was unlawful;
+  sentence_annotations: []
+- segment_id: 143
+  segment_text: BeReal no longer needs the Personal Data in accordance with the purposes
+    of processing but they are still necessary for the establishment, exercise or
+    defense of legal claims;
+  sentence_annotations: []
+- segment_id: 144
+  segment_text: You wish to exercise your right to object as described in 8.4. You
+    may then request that the processing of your Personal Data be stopped for the
+    time necessary to balance our legitimate interests against your request.
+  sentence_annotations: []
+- segment_id: 145
+  segment_text: Before we can respond to a request to exercise one or more of your
+    rights, we may ask you to confirm some of your Account information to verify your
+    identity. In case of reasonable doubt, we may ask you for identification.
+  sentence_annotations: []
+- segment_id: 146
+  segment_text: 9. Information Regarding Children
+  sentence_annotations: []
+- segment_id: 147
+  segment_text: BeReal is not intended for children under the age of 13. If you believe
+    that we have Personal Information about a child or that it has been collected
+    from a child under the required age, you may report your concerns to us by reporting
+    the content or the User Account.
+  sentence_annotations: []
+- segment_id: 148
+  segment_text: 10. Information About Users Located In the USA
+  sentence_annotations: []
+- segment_id: 149
+  segment_text: This clause is only valid and legally binding if you are a party to
+    the BeReal Terms of Service. This clause regarding U.S. users, including California
+    and Virginia residents, applies to Personal Information (as defined in applicable
+    regulations) provided to BeReal by the User.
+  sentence_annotations: []
+- segment_id: 150
+  segment_text: In light of the California Consumer Privacy Protection Act of 2018
+    (CCPA), we are providing this information to you as a service provider required
+    to process your Personal Information (as defined in the applicable law), to confirm
+    that we have adequate contractual terms in place. The term applicable law refers
+    to all laws, regulations, standards, regulatory guidance and self-regulatory guidelines
+    that may apply in relation to the management of your Data. Applicable laws include,
+    but are not limited to, the California Consumer Privacy Protection Act (Cal. Civ.
+    Code 1798.100 - 1798.199), or the Virginia Consumer Data Protection Act (SB 1392).
+  sentence_annotations: []
+- segment_id: 151
+  segment_text: As a service provider, we will collect, hold, use, disclose and process
+    your personal information only to fulfill our obligations to you under our agreement,
+    for operational purposes previously stated in this Policy, to the exclusion of
+    any other purpose.
+  sentence_annotations: []
+- segment_id: 152
+  segment_text: We will not sell your personal information or disclose your personal
+    information for commercial purposes.
+  sentence_annotations: []
+- segment_id: 153
+  segment_text: We certify that we understand and comply with the restrictions and
+    obligations set forth in Cal. Civ. Code  1798.140(w)(2) as well as Va. SB 1392.
+    In the event of any inconsistency or conflict between the terms and conditions
+    of this clause and the TOS or Privacy Policy, the TOS or Privacy Policy shall
+    govern with respect to Data of individuals in the European Economic Area.
+  sentence_annotations: []
+- segment_id: 154
+  segment_text: If you have any questions about the CCPA or other U.S. regulations
+    at BeReal or to exercise your rights under them, you may contact us as set forth
+    in Section 11.
+  sentence_annotations: []
+- segment_id: 155
+  segment_text: 11. Contact
+  sentence_annotations: []
+- segment_id: 156
+  segment_text: 'You can exercise these rights at any time in one of two ways:'
+  sentence_annotations: []
+- segment_id: 157
+  segment_text: 'By mail to the following address: BeReal, 30/32 Boulevard de Sbastopol
+    75004 ;'
+  sentence_annotations: []
+- segment_id: 158
+  segment_text: 'By e-mail to: contact@bere.al'
+  sentence_annotations: []
+- segment_id: 159
+  segment_text: BeReal undertakes to respond to your requests concerning the Privacy
+    Policy or the exercise of your rights, as soon as possible and no later than the
+    time limit set forth by applicable legislation.
+  sentence_annotations: []

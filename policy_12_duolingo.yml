@@ -1,0 +1,855 @@
+- segment_id: 0
+  segment_text: Privacy Policy
+  sentence_annotations: []
+- segment_id: 1
+  segment_text: General
+  sentence_annotations: []
+- segment_id: 2
+  segment_text: At Duolingo, we care about your personal data, so we have prepared
+    this Privacy Policy to explain how we collect, use and share it.
+  sentence_annotations: []
+- segment_id: 3
+  segment_text: This Privacy Policy (Privacy Policy) details the personal data Duolingo,
+    Inc. (Duolingo, we, us or our) receives about you, how we process it and your
+    rights and obligations in relation to your personal data. Duolingo, Inc., a company
+    registered at 5900 Penn Ave, Second Floor, Pittsburgh, PA 15206, United States
+    of America is the data controller for the purposes of the General Data Protection
+    Regulation (GDPR) and any relevant local legislation (Data Protection Laws).
+  sentence_annotations: []
+- segment_id: 4
+  segment_text: By using or accessing the Service, you agree to the terms of this
+    Privacy Policy. Capitalized terms not defined here have the meanings set forth
+    in the terms and conditions (the Terms and Conditions), located at www.duolingo.com/terms.
+    We may update our Privacy Policy to reflect changes to our information practices.
+    If we do this and the changes are material, we will post a notice that we have
+    made changes to this Privacy Policy on the Website for at least 7 days before
+    the changes are made, and we will indicate the date these terms were last revised
+    at the bottom of the Privacy Policy. Any revisions to this Privacy Policy will
+    become effective at the end of that 7 day period.
+  sentence_annotations: []
+- segment_id: 5
+  segment_text: If you are an employee, worker or contractor of Duolingo, the information
+    about how we handle your personal information is available in the Duolingo internal
+    knowledge base. With respect to employees based in Europe, we are committed to
+    cooperating with European data protection authorities (DPAs) and comply with the
+    advice given by such authorities with regard to human resources data transferred
+    from Europe in the context of the employment relationship.
+  sentence_annotations: []
+- segment_id: 6
+  segment_text: Information We Collect
+  sentence_annotations: []
+- segment_id: 7
+  segment_text: This Privacy Policy explains how we collect, use and share your personal
+    data.
+  sentence_annotations: []
+- segment_id: 8
+  segment_text: Information you provide
+  sentence_annotations: []
+- segment_id: 9
+  segment_text: Through the registration process, you will provide us with your name,
+    e-mail address (or parents e-mail address), and age or date of birth. You will
+    also provide us with your payment transaction information if you choose to pay
+    for Duolingo services.
+  sentence_annotations: []
+- segment_id: 10
+  segment_text: Activity Data
+  sentence_annotations: []
+- segment_id: 11
+  segment_text: When you use the Service, you will submit information and content
+    to your profile. We will also generate data about your use of our Services including
+    your engagement in educational activities on the Service, or your sending of messages
+    and otherwise transmitting information to other users (Activity Data). We also
+    collect technical data about how you interact with our Services; for more information,
+    see Cookies.
+  sentence_annotations: []
+- segment_id: 12
+  segment_text: When you use Duolingo in our app or on our website, we use a service
+    named FullStory to log your activity. This provides us with a set of data and
+    a session replay of your activity on Duolingo in the form of a video. FullSory
+    captures and analyzes your usage data to help us make your Duolingo experience
+    better.
+  sentence_annotations: []
+- segment_id: 13
+  segment_text: 'We only collect the data we need which means we dont record:'
+  sentence_annotations: []
+- segment_id: 14
+  segment_text: Usernames
+  sentence_annotations: []
+- segment_id: 15
+  segment_text: Names
+  sentence_annotations: []
+- segment_id: 16
+  segment_text: Profile Images
+  sentence_annotations: []
+- segment_id: 17
+  segment_text: Email addresses
+  sentence_annotations: []
+- segment_id: 18
+  segment_text: Locations or bios on the Profile page
+  sentence_annotations: []
+- segment_id: 19
+  segment_text: Passwords
+  sentence_annotations: []
+- segment_id: 20
+  segment_text: 'We do record the following data:'
+  sentence_annotations: []
+- segment_id: 21
+  segment_text: Usage Patterns
+  sentence_annotations: []
+- segment_id: 22
+  segment_text: Clicks
+  sentence_annotations: []
+- segment_id: 23
+  segment_text: Mouse movements
+  sentence_annotations: []
+- segment_id: 24
+  segment_text: Scrolling
+  sentence_annotations: []
+- segment_id: 25
+  segment_text: Typing
+  sentence_annotations: []
+- segment_id: 26
+  segment_text: Tech Specs
+  sentence_annotations: []
+- segment_id: 27
+  segment_text: Browser
+  sentence_annotations: []
+- segment_id: 28
+  segment_text: Device type
+  sentence_annotations: []
+- segment_id: 29
+  segment_text: Operating system
+  sentence_annotations: []
+- segment_id: 30
+  segment_text: Viewfinder size
+  sentence_annotations: []
+- segment_id: 31
+  segment_text: Script errors
+  sentence_annotations: []
+- segment_id: 32
+  segment_text: IP address
+  sentence_annotations: []
+- segment_id: 33
+  segment_text: Navigation
+  sentence_annotations: []
+- segment_id: 34
+  segment_text: Pages visited
+  sentence_annotations: []
+- segment_id: 35
+  segment_text: Referrers
+  sentence_annotations: []
+- segment_id: 36
+  segment_text: URL parameters
+  sentence_annotations: []
+- segment_id: 37
+  segment_text: Session duration
+  sentence_annotations: []
+- segment_id: 38
+  segment_text: Learning Activity
+  sentence_annotations: []
+- segment_id: 39
+  segment_text: Session progress
+  sentence_annotations: []
+- segment_id: 40
+  segment_text: Answers
+  sentence_annotations: []
+- segment_id: 41
+  segment_text: You can disable FullStory activity recording by using the opt-out
+    function on FullStorys website here.
+  sentence_annotations: []
+- segment_id: 42
+  segment_text: Messaging a Tutor
+  sentence_annotations: []
+- segment_id: 43
+  segment_text: You may have the option of messaging a tutor directly through Duolingo
+    with a feature called Duolingo Tutors. In this case, you may opt into sending
+    text, audio, image, or video files to this tutor and sharing personal data about
+    yourself. Duolingo stores these messages and files for you until you close your
+    Duolingo account. Duolingo uses this data to help improve the quality of your
+    interactions with Duolingo Tutors and for internal research purposes.
+  sentence_annotations: []
+- segment_id: 44
+  segment_text: By default Duolingo will only share your username, profile image,
+    and recent Duolingo activity with your tutor. This includes learning details such
+    as what lessons you completed and any recent mistakes. Your tutor will not be
+    able to see other Duolingo profile information, such as your name, email address
+    or phone number, but during your interactions you can freely choose to tell them
+    any personal details you wish to share.
+  sentence_annotations: []
+- segment_id: 45
+  segment_text: Speaking Challenges
+  sentence_annotations: []
+- segment_id: 46
+  segment_text: Some lessons involve you speaking into the app. To recognize speech
+    your audio may be sent to a third party provider such as Google, Apple, or Amazon
+    Web Services. We may ask you to allow Duolingo to collect and analyze your speech
+    data to help us understand the effectiveness of our lessons, and to improve the
+    product. If you choose not to share your audio with us, or if we havent asked
+    you yet, then your audio will not be used in this way. Any audio you agree to
+    send to Duolingo is anonymized when it reaches our servers to ensure that no trace
+    of your personal data remains attached to the audio.
+  sentence_annotations: []
+- segment_id: 47
+  segment_text: Test Data
+  sentence_annotations: []
+- segment_id: 48
+  segment_text: If you register for the Duolingo English Test, you will also provide
+    us with your gender, native language, secondary school, and self-reported test
+    scores for other exams. Each time you take a test you must also provide a photo
+    of a current, valid drivers license, passport, or other government issued ID and
+    take a photo of your face to verify your identity (Testing ID).
+  sentence_annotations: []
+- segment_id: 49
+  segment_text: When you use the Service to take an examination in the Duolingo English
+    Test you must provide access to your computers webcam and microphone. We will
+    use them to record you and your screen during the entire examination period (Testing
+    Video). From the collected data, Duolingo and/or its trusted third-parties may
+    extract biometric signals for the use of identity verification. While using the
+    Duolingo English Test, you will submit answers to questions and other information
+    as part of the testing and evaluation process.
+  sentence_annotations: []
+- segment_id: 50
+  segment_text: The testing software will be installed onto your computer. During
+    the test, the testing software will monitor if additional applications or processes
+    are running on your computer, but will not open any applications or individual
+    files. Please close any other applications by exiting from them completely prior
+    to starting the test.
+  sentence_annotations: []
+- segment_id: 51
+  segment_text: Additionally, Duolingo will be able to note if any peripherals are
+    used during the test (i.e. external devices attached to your computer), but will
+    not have any control or access to these peripherals. Please remove these before
+    testing if you do not wish to have their presence known.
+  sentence_annotations: []
+- segment_id: 52
+  segment_text: Duolingo will not open network packets, but will have access to network
+    usage statistics and the volume of network traffic.
+  sentence_annotations: []
+- segment_id: 53
+  segment_text: Third Party Data
+  sentence_annotations: []
+- segment_id: 54
+  segment_text: We also collect information about you from third parties. For more
+    information, see Information obtained by Third Parties.
+  sentence_annotations: []
+- segment_id: 55
+  segment_text: Product Research and Development
+  sentence_annotations: []
+- segment_id: 56
+  segment_text: We may contact you to participate in product research activities.
+    These may include surveys, interviews, and other types of feedback sessions. When
+    you participate in these research activities, the information you provide will
+    be used to test, improve, and develop our products. We will record the video,
+    audio and text transcriptions of this feedback together with any additional contact
+    information you provide and will retain this data for two years.
+  sentence_annotations: []
+- segment_id: 57
+  segment_text: 'Please contact us at research@duolingo.com to:'
+  sentence_annotations: []
+- segment_id: 58
+  segment_text: Request more information about the research activities you have volunteered
+    for.
+  sentence_annotations: []
+- segment_id: 59
+  segment_text: Opt out of being contacted for research activities.
+  sentence_annotations: []
+- segment_id: 60
+  segment_text: Request a copy of any research related data you have provided to us.
+  sentence_annotations: []
+- segment_id: 61
+  segment_text: Contact Sync Feature
+  sentence_annotations: []
+- segment_id: 62
+  segment_text: If you choose to use the Contacts Sync feature of Duolingo you must
+    first give your device permission to allow the Duolingo app access to the contacts
+    stored on your device. The app then requires you to provide your phone number.
+    This is so that Duolingo can verify that this number does belong to you. Once
+    you provide your number, a text message is sent to you containing a one time password
+    (OTP) six digit code. You can choose to let the app read your verification text
+    message or you can input it manually to verify your number. This phone number
+    is stored in your Duolingo user profile.
+  sentence_annotations: []
+- segment_id: 63
+  segment_text: With your permission, we upload your list of contact phone numbers
+    and using encryption we store a hashed version of the contact phone numbers. This
+    hash is an alternative code to the actual phone number and can be used only by
+    Duolingo to uniquely identify the number. Its a bit like a fingerprint. This hashing
+    process securely strips away the real phone number which means that we dont store
+    any of your contacts phone numbers and so we cannot use them to contact individuals
+    or share them with anyone else.
+  sentence_annotations: []
+- segment_id: 64
+  segment_text: We then try to match your contacts hashes with the hashed phone numbers
+    that other Duolingo learners have chosen to upload to use using the Contacts Sync
+    feature. If we find a match we will recommend that learner as someone you may
+    wish to follow.
+  sentence_annotations: []
+- segment_id: 65
+  segment_text: If you turn off the Contacts Sync feature, the hashed contacts you
+    have chosen to upload, along with your hashed phone number are automatically deleted
+    from your account after 30 days.
+  sentence_annotations: []
+- segment_id: 66
+  segment_text: Cookies
+  sentence_annotations: []
+- segment_id: 67
+  segment_text: When you enter the Website, we collect your browser type and your
+    IP address (a unique address that identifies your computer on the Internet). When
+    you use our mobile Application, we collect your device type, your device ID, and
+    your IP address.
+  sentence_annotations: []
+- segment_id: 68
+  segment_text: In addition, we store certain information from your browser using
+    "cookies." A cookie is a piece of data stored on the user's computer tied to information
+    about the user. We use session ID cookies to confirm that users are logged in.
+    If you do not want information collected through the use of cookies, there is
+    a simple procedure in most browsers that allows you to deny or accept the cookie
+    feature; however, you should note that cookies may be necessary to provide you
+    certain features available on the Website (e.g., customized delivery of information).
+  sentence_annotations: []
+- segment_id: 69
+  segment_text: You can find more information about cookies and how to manage them
+    at http://www.allaboutcookies.org.
+  sentence_annotations: []
+- segment_id: 70
+  segment_text: You can see a list of all cookies used at Duolingo on our Cookie List
+    page or manage your cookies in the Privacy Preference Center.
+  sentence_annotations: []
+- segment_id: 71
+  segment_text: Information Obtained by Third Parties
+  sentence_annotations: []
+- segment_id: 72
+  segment_text: To support and enhance the Service, we work with a variety of third
+    party advertising networks, marketing analytics service providers and website
+    analysis firms, such as Google, Facebook, Oath, and Unity (collectively, Third
+    Party Advertising Service Providers). These Third Party Advertising Service Providers
+    collect and use personal data about your visits to and use of the Website and
+    mobile Application, as well as other websites in order to serve you with advertisements
+    and content tailored to meet your preferences and likely interests or better understand
+    ad effectiveness. Aggregate demographic and interest data will also be used for
+    market research purposes.
+  sentence_annotations: []
+- segment_id: 73
+  segment_text: 'We use Google Analytics which is a web analytics tool that helps
+    us understand how users engage with the Website. Like many services, Google Analytics
+    uses first-party cookies to track user interactions as in our case, where they
+    are used to collect information about how users use our site. This information
+    is used to compile reports and to help us improve our Website. The reports disclose
+    website trends without identifying individual visitors. You can opt out of Google
+    Analytics without affecting how you visit our site  for more information on opting
+    out of being tracked by Google Analytics across all websites you use, visit this
+    Google page: https://tools.google.com/dlpage/gaoptout.'
+  sentence_annotations: []
+- segment_id: 74
+  segment_text: You can opt-out of receiving personalized ads from advertisers and
+    ad networks that are members of the Network Advertising Initiative (NAI) or who
+    follow the DAA Self-Regulatory Principles for Online Behavioral Advertising using
+    their respective opt-out tools. The NAI's opt-out tool can be found here http://www.networkadvertising.org/choices/
+    and the DAA's opt out tool can be found here http://www.aboutads.info/choices/.
+  sentence_annotations: []
+- segment_id: 75
+  segment_text: In addition, your mobile devices may offer settings that enable you
+    to make choices about the collection, use, or transfer of mobile app information
+    for online behavioral advertising (for example, Apple iOS Advertising ID and Google
+    Androids Advertising ID). Please note that opting out does not prevent the display
+    of all advertisements to you.
+  sentence_annotations: []
+- segment_id: 76
+  segment_text: Use of information obtained by Duolingo
+  sentence_annotations: []
+- segment_id: 77
+  segment_text: Duolingo may occasionally send you service related and product change
+    announcements through the general operation of the Service. We will send you reminder
+    notifications to support the Duolingo teaching methodology by reinforcing the
+    learning cadence and help maintain your learning streak. We process your data
+    to help provide you with the Service and offer personalized features, to understand
+    and improve our Service and to keep our Service safe and secure.
+  sentence_annotations: []
+- segment_id: 78
+  segment_text: Duolingo may use or share anonymous data collected through the Service,
+    including Activity Data without limitation. As a business, it is critical that
+    we perform our contract with you with the best service possible, and it is in
+    our legitimate interests to perform these processing functions and to enable service
+    e-mails by default to keep your data secure and provide our Service. You may opt
+    out of any non-essential service e-mails at any time.
+  sentence_annotations: []
+- segment_id: 79
+  segment_text: We may also use your contact information to send you notifications
+    regarding new services, offers and promotions offered by Duolingo if you affirmatively
+    consent to receive such communications.
+  sentence_annotations: []
+- segment_id: 80
+  segment_text: When you register with Duolingo, some of your information is made
+    public and available at various locations including duolingo.com/profile/your-username
+    and duolingo.com/users/your-username. This will include the data from your Duolingo
+    Profile and Account (Name, Location, Bio, Username, User ID, Profile picture and
+    Duolingo Plus membership status); your followers and the people you follow; and
+    your learning progress (XP, Streak, Lingots, Daily Progress, Languages being learned,
+    progress level, Crowns, Skills, Lessons undertaken, Lexemes and Strength). Tinycards
+    decks you create are also public by default, but can be made visible to only you
+    or to people you have shared a link with. Your Duolingo account email address
+    is not shown publicly. Third party websites may be able to read, collect and use
+    your public information for their own purposes.
+  sentence_annotations: []
+- segment_id: 81
+  segment_text: Profile information is used by Duolingo to be presented back to and
+    edited by you when you access the Service and to be presented to other users.
+    In some cases, other users may be able to supplement your profile, including by
+    submitting comments (which can be deleted by you). Duolingo uses this information
+    to provide you with support, to send you essential notifications, to enforce our
+    terms, conditions and policies, to communicate with you, to administer the Services,
+    and for internal operations, including troubleshooting, data analysis, testing,
+    research, statistical, and survey purposes. Duolingos Terms and Conditions provide
+    the contractual lawful basis for these processing activities.
+  sentence_annotations: []
+- segment_id: 82
+  segment_text: Duolingo English Test
+  sentence_annotations: []
+- segment_id: 83
+  segment_text: When you take a test in the Duolingo English Test, we will use your
+    computer's camera and microphone throughout the test to collect a Testing Video.
+  sentence_annotations: []
+- segment_id: 84
+  segment_text: 'We will process information in connection with the Duolingo English
+    Test comprising given name(s), surname(s), date of birth, gender, native language,
+    country, secondary school, self-reported test scores for other exams, application
+    IDs, a picture or scan of a current, valid drivers license, passport or other
+    government issued ID, your Testing ID, Testing Video, biometric signals extracted
+    from collected data, data about active software processes, information on connected
+    external peripherals, and volume of network traffic, and answers to questions
+    as part of the testing and evaluation process in order:'
+  sentence_annotations: []
+- segment_id: 85
+  segment_text: To provide accurate testing results to Score Recipient(s) (as defined
+    below)
+  sentence_annotations: []
+- segment_id: 86
+  segment_text: To compare your Testing ID to your Testing Video to ensure that the
+    person who registered for the examination (and whose identity Duolingo has validated)
+    is the same person who took the examination. In addition, this comparison may
+    be carried out on biometric signals that have been extracted from collected data.
+  sentence_annotations: []
+- segment_id: 87
+  segment_text: To store and review the Testing Video recording, the active software
+    processes and the volume of network traffic to validate that you took the examination
+    without improper assistance
+  sentence_annotations: []
+- segment_id: 88
+  segment_text: To evaluate your performance on the Duolingo English Test, to report
+    results and to evaluate the usefulness, accuracy and other aspects of the Duolingo
+    English Test
+  sentence_annotations: []
+- segment_id: 89
+  segment_text: For our research team to validate and improve the examination, in
+    an anonymized format
+  sentence_annotations: []
+- segment_id: 90
+  segment_text: To analyze audio recordings of verbal responses to improve our ability
+    to understand the spoken language
+  sentence_annotations: []
+- segment_id: 91
+  segment_text: To share your Testing ID with your consent upon initiation of a dispute
+    by a Score Recipient
+  sentence_annotations: []
+- segment_id: 92
+  segment_text: Duolingos Terms and Conditions provide the contractual lawful basis
+    for these English Test processing activities.
+  sentence_annotations: []
+- segment_id: 93
+  segment_text: Duolingo ABC
+  sentence_annotations: []
+- segment_id: 94
+  segment_text: Duolingo ABC is separate from the Duolingo Language app and does not
+    share any account information between the two. The Duolingo ABC app is designed
+    to be set up by parents and will ask you to provide your childs age. This information
+    is kept anonymously for research purposes and not tied to your personal data in
+    any way. You can then choose to enable speaking exercises. Speech data is stored
+    on your phone and uses Apples speech recognition service to convert your voice
+    into text. No speech data is shared with Duolingo. As a parent you also have the
+    option of providing your email address so that Duolingo may send you information
+    about product updates and to ask you about participating in product research.
+    If you do provide your email address you can unsubscribe any time by emailing
+    literacy-feedback@duolingo.com or by clicking the unsubscribe link in any Duolingo
+    ABC emails. Your Duolingo ABC data is backed up into Apples iCloud which allows
+    you to synchronize and restore the data onto another Apple device.
+  sentence_annotations: []
+- segment_id: 95
+  segment_text: Duolingo Math
+  sentence_annotations: []
+- segment_id: 96
+  segment_text: Duolingo Math is a separate app to the Duolingo Language app, and
+    is intended for use by both children and adults. When you first open the app,
+    you will have the option to (1) log in with an existing Duolingo account, or (2)
+    start using the app immediately without an account. Logging in with your Duolingo
+    account means you will share a single account across both apps.
+  sentence_annotations: []
+- segment_id: 97
+  segment_text: Next, you will need to provide your age -- this helps us recommend
+    the appropriate level of math content. You can then choose to continue with our
+    recommended course, or switch to another course. You are able to switch courses
+    using the Profile button in the app after your account is set up. Next, you can
+    choose to enable practice reminder notifications. You are able to change your
+    notification preferences in your devices native Settings page.
+  sentence_annotations: []
+- segment_id: 98
+  segment_text: If you did not log in with an existing Duolingo account, you will
+    be prompted to create an account after you complete a few lessons in the app.
+    If youre under 13, we will ask you to provide a parents email address, plus a
+    username and password. If youre 13 or older, we will ask you to provide your own
+    email address, name, username, and password.
+  sentence_annotations: []
+- segment_id: 99
+  segment_text: Your Duolingo Math progress data is stored on your phone. Deleting
+    the Duolingo Math app will delete your progress. Duolingo Math uses Google ML
+    Kit for handwriting recognition in writing exercises in the app. Handwriting recognition
+    happens entirely on your device, and none of this information is sent to external
+    servers. Writing exercises can be disabled in the Profile section of the app.
+  sentence_annotations: []
+- segment_id: 100
+  segment_text: Sharing your personal data with third parties
+  sentence_annotations: []
+- segment_id: 101
+  segment_text: Duolingo shares your personal data only when it is necessary to offer
+    the Service, legally required, or permitted by you.
+  sentence_annotations: []
+- segment_id: 102
+  segment_text: We will provide personal data to hosting providers such as Amazon
+    Web Services, search engine providers such as Google, analytics providers such
+    as Crashlytics, and support providers such as ZenDesk.
+  sentence_annotations: []
+- segment_id: 103
+  segment_text: These data processors help us bring you the Service. For example,
+    we may share your information in order to detect where or how you encountered
+    a bug when using our mobile application. In connection with these operations,
+    our service providers will have access to personal data for a limited time. When
+    we utilize service providers for processing any personal data, we implement contractual
+    protections limiting the use of that personal data to the provision of services
+    to Duolingo.
+  sentence_annotations: []
+- segment_id: 104
+  segment_text: We will be required to access and disclose personal data in response
+    to lawful requests, such as subpoenas or court orders, or in compliance with applicable
+    laws. Additionally, we will access and share account or other personal data when
+    we believe it is necessary to comply with law, to protect our interests or property,
+    to prevent fraud or other illegal activity perpetrated through the Service or
+    using the Duolingo name, or to prevent imminent harm. This will include accessing
+    and sharing personal data with other companies, lawyers, agents or government
+    agencies.
+  sentence_annotations: []
+- segment_id: 105
+  segment_text: Duolingo will share the complete and accurate results of Duolingo
+    English Tests with such institutions, including universities, potential employers,
+    or other third parties, (collectively, Score Recipients) as specified when you
+    send your results after finishing a test or when you apply a coupon sponsored
+    by the Score Recipient before starting a test. These results will include your
+    test score, a video of the interview section of your test, and your written responses
+    to certain parts of the test. We will also share your full name, date of birth,
+    e-mail address, and the photo you take of yourself. We will never share examination
+    results with any party without your approval, except that anonymized examination
+    results will be used by Duolingo and its partners to improve the examination and
+    for research and analysis. We will not share your Testing ID with any Score Recipients,
+    except with your consent upon initiation of a dispute by a Score Recipient.
+  sentence_annotations: []
+- segment_id: 106
+  segment_text: If the ownership of all or substantially all of the Duolingo business,
+    or individual business units or assets owned by Duolingo that are related to the
+    Service, were to change, your personal data will be transferred to the new owner.
+    In any such transfer of information, your personal data would remain subject to
+    this section.
+  sentence_annotations: []
+- segment_id: 107
+  segment_text: Duolingo will share aggregate or anonymous data collected through
+    the Service, including Activity Data, for purposes such as understanding or improving
+    the service.
+  sentence_annotations: []
+- segment_id: 108
+  segment_text: Data subject rights and data retention
+  sentence_annotations: []
+- segment_id: 109
+  segment_text: You can manage your account settings at https://www.duolingo.com/settings/account
+    to update, amend, and correct your information.
+  sentence_annotations: []
+- segment_id: 110
+  segment_text: 'You also have the following rights in relation to the personal data
+    we hold about you, unless provided otherwise by local law:'
+  sentence_annotations: []
+- segment_id: 111
+  segment_text: To request access to, or erasure of, the personal data we hold about
+    you.
+  sentence_annotations: []
+- segment_id: 112
+  segment_text: To request us to restrict the processing of the personal data we hold
+    about you.
+  sentence_annotations: []
+- segment_id: 113
+  segment_text: To object to us processing personal data relating to you.
+  sentence_annotations: []
+- segment_id: 114
+  segment_text: Where you have given us consent to process your personal data, you
+    have the right to withdraw that consent at any time.
+  sentence_annotations: []
+- segment_id: 115
+  segment_text: To export the personal data you have provided to Duolingo in a format
+    that can be transferred electronically to a third party.
+  sentence_annotations: []
+- segment_id: 116
+  segment_text: To delete your account with Duolingo by following the instructions
+    available through the Service.
+  sentence_annotations: []
+- segment_id: 117
+  segment_text: Duolingo will retain your data until your account is deleted, after
+    which point we will retain anonymous data collected through the Service, including
+    Activity Data, which may be used by Duolingo and shared with third parties in
+    any manner. Information associated with the Duolingo English Test, including examination
+    results and your Testing Video, will be collectively deleted from your Duolingo
+    account after five years have passed from the date you upload your test, but anonymized
+    examination data, including your examination results and Testing Video, will be
+    kept indefinitely by Duolingo to improve the examination and for research and
+    analysis.
+  sentence_annotations: []
+- segment_id: 118
+  segment_text: Please note that some of these rights are not absolute. In some cases,
+    we may refuse a request to exercise particular rights if complying with it meant
+    that we are no longer able to meet our contractual obligation to provide you with
+    particular products and services. We will keep you informed as to the actions
+    that we can take when you make your request.
+  sentence_annotations: []
+- segment_id: 119
+  segment_text: 'You may also have the right to make a GDPR complaint to the relevant
+    Supervisory Authority. A list of EEA Supervisory Authorities is available here:
+    http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm and
+    the UK here: https://ico.org.uk/global/contact-us/. If you need further assistance
+    regarding your rights, please contact us using the contact information provided
+    below and we will consider your request in accordance with applicable law. In
+    some cases our ability to uphold these rights for you may depend upon our obligations
+    to process personal information for security, safety, fraud prevention reasons,
+    compliance with regulatory or legal requirements, or because processing is necessary
+    to deliver the services you have requested. Where this is the case, we will inform
+    you of specific details in response to your request.'
+  sentence_annotations: []
+- segment_id: 120
+  segment_text: Third party websites and links
+  sentence_annotations: []
+- segment_id: 121
+  segment_text: Please note that you may have cookies placed on your computer by third
+    party websites that refer you to our Service. Although we do not share your personal
+    data with these third party websites unless it is reasonably necessary to offer
+    the Service, they may be able to link certain non-personally identifiable information
+    we transfer to them with personal data they previously collected from you. Please
+    review the privacy policies of each website you visit to better understand their
+    privacy practices. In addition, Duolingo would like to inform you that anytime
+    you click on links (including advertising banners), which take you to third party
+    websites, you will be subject to the third parties privacy policies.
+  sentence_annotations: []
+- segment_id: 122
+  segment_text: Our Services contain links to other sites operated by third parties.
+    Duolingo does not control such other sites and is not responsible for their content,
+    their privacy policies, or their use of personal data, including any personal
+    or financial information collected by our third party payment processor to process
+    payments for in-app purchases. Duolingos inclusion of such links does not imply
+    any endorsement of the content on such sites or of their owners or operators except
+    as disclosed on the Services. Any information submitted by you directly to these
+    third parties is subject to that third partys privacy policy.
+  sentence_annotations: []
+- segment_id: 123
+  segment_text: California privacy rights
+  sentence_annotations: []
+- segment_id: 124
+  segment_text: 'Residents of California have the right to:'
+  sentence_annotations: []
+- segment_id: 125
+  segment_text: Know what personal information we collect about you and from where
+    we collect it.
+  sentence_annotations: []
+- segment_id: 126
+  segment_text: Access a copy of the personal information we hold about you.
+  sentence_annotations: []
+- segment_id: 127
+  segment_text: Understand how we process your personal information and how it may
+    be shared.
+  sentence_annotations: []
+- segment_id: 128
+  segment_text: Opt out of having your personal information shared with certain third
+    parties.
+  sentence_annotations: []
+- segment_id: 129
+  segment_text: Request we delete your Duolingo account and personal information.
+  sentence_annotations: []
+- segment_id: 130
+  segment_text: To make such a request, please send an email to privacy@duolingo.com.
+  sentence_annotations: []
+- segment_id: 131
+  segment_text: Children under age of digital consent
+  sentence_annotations: []
+- segment_id: 132
+  segment_text: We know that children deserve extra privacy protection. Thats why
+    we treat child users differently to ensure their parents are in control and we
+    only collect the bare minimum information we need to make Duolingo work.
+  sentence_annotations: []
+- segment_id: 133
+  segment_text: When a user creates a Duolingo account we collect their age and compare
+    it to the local standard of child online consent depending on the country they
+    registered in. We refer to users under this age as child users. Child users are
+    permitted to create a user account but we ask them to provide their parents email
+    address instead of their own. We also prevent child users from supplying their
+    own name because we dont need that information.
+  sentence_annotations: []
+- segment_id: 134
+  segment_text: After registration we will send an email notifying the parent about
+    Duolingos privacy and information practices regarding child users, including what
+    personal data we collect and how we use, share, and protect that personal data.
+    The email also explains how parents can request that Duolingo access, change or
+    delete the personal data about their child.
+  sentence_annotations: []
+- segment_id: 135
+  segment_text: 'Child users receive the following special treatment:'
+  sentence_annotations: []
+- segment_id: 136
+  segment_text: Lessons are made age appropriate by removing mature words like beer
+    or wine.
+  sentence_annotations: []
+- segment_id: 137
+  segment_text: Advertisements are set to family safe content.
+  sentence_annotations: []
+- segment_id: 138
+  segment_text: The Profile page is hidden, preventing the child from stating their
+    name, location or bio.
+  sentence_annotations: []
+- segment_id: 139
+  segment_text: Uploading an avatar photo is disabled.
+  sentence_annotations: []
+- segment_id: 140
+  segment_text: Promotional emails are disabled.
+  sentence_annotations: []
+- segment_id: 141
+  segment_text: Leaderboards are disabled.
+  sentence_annotations: []
+- segment_id: 142
+  segment_text: Discussion forums are disabled.
+  sentence_annotations: []
+- segment_id: 143
+  segment_text: The childs profile is made private and hidden from other users searches.
+  sentence_annotations: []
+- segment_id: 144
+  segment_text: Other users are unable to follow the child.
+  sentence_annotations: []
+- segment_id: 145
+  segment_text: The ability to follow other users or search for other users is disabled.
+  sentence_annotations: []
+- segment_id: 146
+  segment_text: The ability to send an invitation email is disabled.
+  sentence_annotations: []
+- segment_id: 147
+  segment_text: Finding friends on Facebook is disabled.
+  sentence_annotations: []
+- segment_id: 148
+  segment_text: Social logins with Facebook, Google or Apple are disabled.
+  sentence_annotations: []
+- segment_id: 149
+  segment_text: Social follow buttons for Twitter, Facebook and Instagram are disabled.
+  sentence_annotations: []
+- segment_id: 150
+  segment_text: 'In addition, all users under the age of 16 receive the following
+    special treatment:'
+  sentence_annotations: []
+- segment_id: 151
+  segment_text: Advertisements are set to non-personalised.
+  sentence_annotations: []
+- segment_id: 152
+  segment_text: Third party behavioral tracking is disabled.
+  sentence_annotations: []
+- segment_id: 153
+  segment_text: Third party analytics is disabled.
+  sentence_annotations: []
+- segment_id: 154
+  segment_text: To prevent restricted users from amending these features, the settings
+    will be hidden or grayed out. In the future, once were sure the user is old enough
+    we will automatically remove the restrictions, reset the settings to their defaults
+    and make the settings visible for them to configure how they choose.
+  sentence_annotations: []
+- segment_id: 155
+  segment_text: With regards to the Children's Online Privacy Protection Rule ("COPPA"),
+    Duolingo only collects personal information from children under the age of 13
+    for the sole purpose of performing internal operations of the Service. If we discover
+    that we have unknowingly collected additional personal information from these
+    children we will delete it. If you believe this to be the case, please contact
+    us at privacy@duolingo.com.
+  sentence_annotations: []
+- segment_id: 156
+  segment_text: Links
+  sentence_annotations: []
+- segment_id: 157
+  segment_text: The Service may contain links to other websites. We are not responsible
+    for the privacy practices of other websites. We encourage users to be aware when
+    they leave the Service to read the privacy statements of other websites that collect
+    personally identifiable information. This Privacy Policy applies only to information
+    collected by Duolingo via the Service.
+  sentence_annotations: []
+- segment_id: 158
+  segment_text: Information security
+  sentence_annotations: []
+- segment_id: 159
+  segment_text: Duolingo has implemented administrative and technical safeguards it
+    believes are appropriate to protect the confidentiality, integrity and availability
+    of your personal data, Testing ID, User Photo, access credentials, and Duolingo
+    English Test results. However, given sufficient resources, a determined attacker
+    could defeat those safeguards and may, as a result, gain access to the data we
+    seek to protect.
+  sentence_annotations: []
+- segment_id: 160
+  segment_text: Do Not Track
+  sentence_annotations: []
+- segment_id: 161
+  segment_text: The Service is not designed to respond to do not track signals sent
+    by some browsers.
+  sentence_annotations: []
+- segment_id: 162
+  segment_text: Contact Us
+  sentence_annotations: []
+- segment_id: 163
+  segment_text: 'Duolingos headquarters are located within the USA at:'
+  sentence_annotations: []
+- segment_id: 164
+  segment_text: Duolingo, Inc.
+  sentence_annotations: []
+- segment_id: 165
+  segment_text: 5900 Penn Ave, Second Floor
+  sentence_annotations: []
+- segment_id: 166
+  segment_text: Pittsburgh, PA 15206
+  sentence_annotations: []
+- segment_id: 167
+  segment_text: United States of America
+  sentence_annotations: []
+- segment_id: 168
+  segment_text: 'Phone: +1-412-567-6602'
+  sentence_annotations: []
+- segment_id: 169
+  segment_text: 'Duolingo, Inc. is a registered Data Controller with the UK Information
+    Commissioner''s Office (ICO), number ZA294891, at the address:'
+  sentence_annotations: []
+- segment_id: 170
+  segment_text: Duolingo, Inc.
+  sentence_annotations: []
+- segment_id: 171
+  segment_text: 85 Great Portland Street
+  sentence_annotations: []
+- segment_id: 172
+  segment_text: London
+  sentence_annotations: []
+- segment_id: 173
+  segment_text: W1W 7LT
+  sentence_annotations: []
+- segment_id: 174
+  segment_text: United Kingdom
+  sentence_annotations: []
+- segment_id: 175
+  segment_text: For all data privacy inquiries and any questions or concerns you have
+    about this Privacy Policy, please contact our Data Protection Officer at privacy@duolingo.com
+  sentence_annotations: []
+- segment_id: 176
+  segment_text: For all support inquiries, please go to https://support.duolingo.com.
+  sentence_annotations: []
+- segment_id: 177
+  segment_text: Last revised on October 24th, 2022
+  sentence_annotations: []

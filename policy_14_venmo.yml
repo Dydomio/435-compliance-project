@@ -1,0 +1,1212 @@
+- segment_id: 0
+  segment_text: Privacy
+  sentence_annotations: []
+- segment_id: 1
+  segment_text: Policy
+  sentence_annotations: []
+- segment_id: 2
+  segment_text: LAST UPDATED
+  sentence_annotations: []
+- segment_id: 3
+  segment_text: September 14, 2022
+  sentence_annotations: []
+- segment_id: 4
+  segment_text: OUR COMMITMENT TO PRIVACY
+  sentence_annotations: []
+- segment_id: 5
+  segment_text: Venmo, a PayPal, Inc. service, knows that you care about how your
+    personal information is used and shared, and we take your privacy seriously. Our
+    primary goal is to provide you with exceptional service, and we understand that
+    you may have questions or concerns regarding your personal information and how
+    it will be used. To make this privacy policy easy to find, we make it available
+    from the home page of the Venmo website at venmo.com (the "website") and through
+    our mobile applications. You may also email us at privacy@venmo.com with any privacy-related
+    questions you have.
+  sentence_annotations: []
+- segment_id: 6
+  segment_text: APPLICABILITY OF PRIVACY POLICY
+  sentence_annotations: []
+- segment_id: 7
+  segment_text: This privacy policy applies to all information we collect through
+    our Services from current and former Venmo users, including you. Services means
+    any products, services, content, features, technologies, or functions, and all
+    related websites, applications and services offered to you by PayPal, Inc. in
+    connection with a Venmo account. When you are no longer our customer, we continue
+    to share your information as described in this policy. This policy only applies
+    to the Services and does not apply to the practices of any other PayPal service.
+  sentence_annotations: []
+- segment_id: 8
+  segment_text: Throughout this policy, we use the term "personal information" to
+    describe information that can be associated with a specific person and can be
+    used to identify that person. We do not consider personal information to include
+    information that has been aggregated and/or anonymized so that it does not identify
+    a specific user.
+  sentence_annotations: []
+- segment_id: 9
+  segment_text: THE INFORMATION WE COLLECT
+  sentence_annotations: []
+- segment_id: 10
+  segment_text: When you visit the website or use one of our mobile applications or
+    other Services, we collect your IP address, and standard web log information,
+    such as your browser type and the pages you accessed on our website. We also may
+    collect Geolocation Information (defined below). If you do not agree to our collection
+    of this information, you may not be able to use our Service.
+  sentence_annotations: []
+- segment_id: 11
+  segment_text: 'If you open a Venmo account, we collect the following information
+    from you:'
+  sentence_annotations: []
+- segment_id: 12
+  segment_text: Account Information - text-enabled cellular/wireless telephone number,
+    machine or mobile device ID and other similar information.
+  sentence_annotations: []
+- segment_id: 13
+  segment_text: Identification Information - your name, street address, email address,
+    date of birth, and SSN (or other governmental issued verification numbers).
+  sentence_annotations: []
+- segment_id: 14
+  segment_text: 'Device Information - information about you: (a) from your mobile
+    device or computer such as your device type, machine or mobile device identification
+    number, Geolocation Information, time zone, language setting, browser type, and
+    IP address, and (b) from third parties for purposes of transaction processing,
+    identity verification, fraud detection or prevention and other similar purposes.
+    For fraud prevention purposes, we also may link your machine ID with the machines
+    of others who use your same payment cards.'
+  sentence_annotations: []
+- segment_id: 15
+  segment_text: Geolocation Information - information that identifies with reasonable
+    specificity your location by using, for instance, longitude and latitude coordinates
+    obtained through GPS, Wi-Fi, or cell site triangulation. We will collect this
+    data for fraud and risk purposes. In addition, some of our Services may ask you
+    for permission to share your current location within your device settings to enhance
+    our Services. If you do not agree to our collection of Geolocation Information,
+    our Services may not function properly when you try to use them. For information
+    about your ability to restrict the collection and use of Geolocation Information
+    to enhance our Services, please refer to the settings available in your device.
+  sentence_annotations: []
+- segment_id: 16
+  segment_text: Social Web Information - including but not limited to your Facebook
+    Connect credentials and email account information. If you authorize Facebook Connect,
+    the plug in allows us access to your email address, Facebook friends list, and
+    public profile (including profile picture). We also allow you to import data from
+    other social web services, including but not limited to Twitter, FourSquare, and
+    email service providers. Social and e-mail contact information helps you connect
+    to friends and contacts for invitation and payment transmission purposes (as well
+    as helping us improve the Services and fight fraud). Additionally, another Venmo
+    user may mention you in a transaction to which you are not a party by tagging
+    your username in a transaction note or comment. When you are mentioned in a transaction
+    note or comment into which you have visibility (e.g., a public transaction, a
+    friends only transaction by one of your Venmo friends, or a comment on either
+    such transaction), a link to your Venmo profile will appear in the transaction
+    note or comment and, if your push notifications are turned on, you will receive
+    a push notification about the mentions. You may manage certain contact preferences
+    and notifications in your account settings.
+  sentence_annotations: []
+- segment_id: 17
+  segment_text: Financial Information - bank account online login information, bank
+    account and routing numbers and credit cards linked to your Venmo account. Venmo
+    does not share financial information with third party social networking services
+    such as those listed in the prior bullet.
+  sentence_annotations: []
+- segment_id: 18
+  segment_text: We are committed to providing a safe, secure and all around great
+    service. Therefore, before permitting you to use the Services, we may require
+    additional information from you we can use to verify your identity, address or
+    other information or to manage risk and compliance throughout our relationship.
+    We may also obtain information about you from third parties such as identity verification,
+    fraud prevention and similar services.
+  sentence_annotations: []
+- segment_id: 19
+  segment_text: When you are using the Services, we collect information about your
+    account transactions and we may collect Geolocation Information and/or information
+    about your computer or other access device for fraud prevention and other similar
+    purposes.
+  sentence_annotations: []
+- segment_id: 20
+  segment_text: Finally, we may collect additional information from or about you in
+    other ways not specifically described here. For example, we may collect information
+    related to your contact with our customer support team, store results when you
+    respond to a survey, or when you use PayPal or another PayPal service.
+  sentence_annotations: []
+- segment_id: 21
+  segment_text: INFORMATION FROM CHILDREN
+  sentence_annotations: []
+- segment_id: 22
+  segment_text: The Services are not directed to children under the age of 13. If
+    we obtain actual knowledge that we have collected personal information from a
+    child under the age of 13, we will promptly delete it, unless we are legally obligated
+    to retain such data. Contact us if you believe that we have mistakenly or unintentionally
+    collected information from a child under the age of 13.
+  sentence_annotations: []
+- segment_id: 23
+  segment_text: HOW WE USE COOKIES
+  sentence_annotations: []
+- segment_id: 24
+  segment_text: When you visit or use our Services, or visit a third-party website
+    for which we provide online services, we and certain business partners and vendors
+    may use cookies and other tracking technologies (collectively, "Cookies"). We
+    use Cookies to recognize you as a customer; customize Services, other content
+    and advertising; measure the effectiveness of promotions; perform a wide range
+    of analytics; mitigate risk and prevent potential fraud; and to promote trust
+    and safety across our Services.
+  sentence_annotations: []
+- segment_id: 25
+  segment_text: Certain Services are only available through the use of Cookies, so
+    if you choose to disable or decline Cookies, your use of certain Services may
+    be limited or not possible.
+  sentence_annotations: []
+- segment_id: 26
+  segment_text: 'Do Not Track: Do Not Track ("DNT") is an optional browser setting
+    that allows you to express your preferences regarding tracking by advertisers
+    and other third-parties. We do not respond to DNT signals.'
+  sentence_annotations: []
+- segment_id: 27
+  segment_text: HOW WE PROTECT & STORE PERSONAL INFORMATION
+  sentence_annotations: []
+- segment_id: 28
+  segment_text: We store and process your personal information using third party servers
+    located in data centers in the United States. This information is protected by
+    physical, electronic and procedural safeguards in compliance with applicable US
+    federal and state regulations. We also use computer safeguards such as firewalls
+    and data encryption, we enforce physical access controls to our office and files,
+    and we authorize access to personal information only for those employees who require
+    it to fulfill their job responsibilities.
+  sentence_annotations: []
+- segment_id: 29
+  segment_text: We strive to ensure security on our systems. Despite our efforts,
+    we cannot guarantee that personal information may not be accessed, disclosed,
+    altered or destroyed by breach of our administrative, managerial and technical
+    safeguards. Therefore, we urge you to take adequate precautions to protect your
+    personal data as well, including never sharing your Venmo password with anyone.
+  sentence_annotations: []
+- segment_id: 30
+  segment_text: If Venmo learns of a systems security breach, we may attempt to notify
+    you electronically so that you can take appropriate protective steps. By using
+    the Services, you agree that Venmo may communicate with you electronically. Venmo
+    may post a notice on the website or mobile application if a security breach occurs.
+    We may also send an email to you at the email address you have provided to us.
+    Depending on where you live, you may have a legal right to receive notice of a
+    security breach in writing. To receive free written notice of a security breach
+    (or to withdraw your consent from receiving electronic notice of a security breach),
+    please email us at privacy@venmo.com
+  sentence_annotations: []
+- segment_id: 31
+  segment_text: HOW WE USE THE PERSONAL INFORMATION WE COLLECT
+  sentence_annotations: []
+- segment_id: 32
+  segment_text: 'Our primary purpose in collecting personal information is to provide
+    you with a safe, smooth, efficient, fun and customized experience. We may use
+    your personal information to:'
+  sentence_annotations: []
+- segment_id: 33
+  segment_text: provide the services and customer support you request;
+  sentence_annotations: []
+- segment_id: 34
+  segment_text: process transactions and send notices about your transactions or your
+    network activity;
+  sentence_annotations: []
+- segment_id: 35
+  segment_text: resolve disputes, collect fees, and troubleshoot problems;
+  sentence_annotations: []
+- segment_id: 36
+  segment_text: prevent potentially fraudulent, prohibited or illegal activities,
+    and enforce our User Agreement through the use of our risk and fraud tools which
+    may include use of Account Information, Identification Information, Financial
+    Information, Device Information, Social Web Information and Geolocation Information;
+  sentence_annotations: []
+- segment_id: 37
+  segment_text: create an account connection between your Venmo account and a third-party
+    account or platform;
+  sentence_annotations: []
+- segment_id: 38
+  segment_text: customize, personalize, measure, and improve our services and the
+    content and layout of our website;
+  sentence_annotations: []
+- segment_id: 39
+  segment_text: send you updates about new products and services that we are offering
+    to customers;
+  sentence_annotations: []
+- segment_id: 40
+  segment_text: compare information for accuracy and verify it with third parties;
+  sentence_annotations: []
+- segment_id: 41
+  segment_text: perform other duties as required by law; and
+  sentence_annotations: []
+- segment_id: 42
+  segment_text: if you elect to share your Geolocation Information, we will use this
+    information to enhance the security of the Services and we may use this information
+    to provide you with location-specific options, functionality, offers, advertising,
+    search results, or other location-specific content.
+  sentence_annotations: []
+- segment_id: 43
+  segment_text: HOW WE SHARE PERSONAL INFORMATION WITHIN THE VENMO NETWORK
+  sentence_annotations: []
+- segment_id: 44
+  segment_text: To process payments on Venmo, we need to share some of your personal
+    information with the person or company that you are paying or is paying you. Your
+    contact information, date of sign-up, the number of payments you have received
+    and other verification metrics like social graph activity may be provided to users
+    or companies when you transact with, on, or through Venmo.
+  sentence_annotations: []
+- segment_id: 45
+  segment_text: We work with vendors to enable them to accept payments from you using
+    Venmo. In doing so, a vendor may share information about you with us, such as
+    your mobile phone number or Venmo username, when you attempt to pay that vendor.
+    We use this information to confirm to that vendor that you are a Venmo customer
+    and that the vendor should enable Venmo as a form of payment for your purchase.
+  sentence_annotations: []
+- segment_id: 46
+  segment_text: Regardless, we will not disclose your credit card number or bank account
+    number to anyone you have paid or who has paid you through Venmo, except with
+    your express permission or if we are required to do so to comply with a subpoena
+    or other legal process.
+  sentence_annotations: []
+- segment_id: 47
+  segment_text: HOW WE SHARE PERSONAL INFORMATION WITH OTHER PARTIES
+  sentence_annotations: []
+- segment_id: 48
+  segment_text: Venmo does not share your personal information with third parties
+    for their promotional or marketing purposes.
+  sentence_annotations: []
+- segment_id: 49
+  segment_text: Some personal information is public information and may be seen by
+    anyone on the internet, whether or not they have a Venmo account. Public information
+    may also be seen, accessed, reshared or downloaded through Venmo's APIs or third-party
+    services that integrate with our products.
+  sentence_annotations: []
+- segment_id: 50
+  segment_text: Public information for personal profiles includes your Venmo username,
+    profile photo, first and last name, month and year of Venmo account creation,
+    and public transactions in which you've been involved.
+  sentence_annotations: []
+- segment_id: 51
+  segment_text: Public information for business or charity profiles includes Venmo
+    username, profile and background photos, business or charity name, business or
+    charity description, and QR code. Public information for business or charity profiles
+    may be indexed by and searchable on search engines.
+  sentence_annotations: []
+- segment_id: 52
+  segment_text: In addition to any public information, your Venmo friends list may
+    be seen by any logged-in Venmo user; you may adjust or turn off this setting in
+    the privacy section in your account settings.
+  sentence_annotations: []
+- segment_id: 53
+  segment_text: 'We may share your personal information with:'
+  sentence_annotations: []
+- segment_id: 54
+  segment_text: Our parent company, PayPal, Inc. and affiliates and subsidiaries it
+    controls, but only for purposes allowed by this document.
+  sentence_annotations: []
+- segment_id: 55
+  segment_text: Companies that PayPal, Inc. plans to merge with or be acquired by
+    or, in the event of any bankruptcy, a bankruptcy estate. Should such a combination
+    occur, we will require that the new combined entity follow this privacy policy
+    with respect to your personal information. If your personal information could
+    be used contrary to this policy, you will receive prior notice and the opportunity
+    to communicate preferences you may have, if applicable.
+  sentence_annotations: []
+- segment_id: 56
+  segment_text: Law enforcement, government officials, or other third parties if PayPal
+    is compelled to do so by a subpoena, court order or similar legal procedure, when
+    it is necessary to do so to comply with law, or where the disclosure of personal
+    information is reasonably necessary to prevent physical harm or financial loss,
+    to report suspected illegal activity, or to investigate violations of the Venmo
+    User Agreement, or as otherwise required by law.
+  sentence_annotations: []
+- segment_id: 57
+  segment_text: Third party service providers who assist us in providing services
+    to you or who provide fraud detection or similar services on our or any vendors
+    behalf.
+  sentence_annotations: []
+- segment_id: 58
+  segment_text: The other Venmo user participating in the transaction and, depending
+    on the privacy setting of each Venmo account transaction, your Venmo friends and
+    the Venmo friends of the other user participating in the transaction, or the public,
+    through the Venmo feed on our website and mobile application and elsewhere on
+    the internet.
+  sentence_annotations: []
+- segment_id: 59
+  segment_text: Service providers under contract who help with parts of our business
+    operations (for example, fraud prevention, payment processing, or technology services).
+    Our contracts dictate that these service providers only use your information in
+    connection with the services they perform for us and not for their own benefit.
+  sentence_annotations: []
+- segment_id: 60
+  segment_text: Other third parties with your consent or at your direction to do so,
+    including if you authorize an account connection with a third-party account or
+    platform.
+  sentence_annotations: []
+- segment_id: 61
+  segment_text: 'For the purposes of this privacy policy, an "account connection"
+    with such a third party is a connection you authorize or enable between your Venmo
+    account and a non-Venmo account, payment instrument, or platform that you lawfully
+    control or own. When you authorize such a connection, Venmo and the third-party
+    will exchange your personal information and other information directly. Examples
+    of account connections include, without limitation: linking your Venmo account
+    to a social media account or social messaging service; connecting your Venmo account
+    to a third-party data aggregation or financial services company, if you provide
+    such company with your Venmo account log-in credentials; or using your Venmo account
+    to make payments to a merchant or allowing a merchant to charge your Venmo account.'
+  sentence_annotations: []
+- segment_id: 62
+  segment_text: If you connect your Venmo account to other financial accounts, directly
+    or through a third-party service provider, we may have access to your account
+    balance and account and transactional information, such as purchases and funds
+    transfers. If you choose to create an account connection, we may receive information
+    from the third-party about you and your use of the third-partys service. For example,
+    if you connect your Venmo account to a social media account, we will receive personal
+    information from the social media provider via the account connection. We will
+    use all such information that we receive from a third-party via an account connection
+    in a manner consistent with this privacy policy.
+  sentence_annotations: []
+- segment_id: 63
+  segment_text: Information that we share with a third-party based on an account connection
+    will be used and disclosed in accordance with the third-partys privacy practices.
+    Before authorizing an account connection, you should review the privacy notice
+    of any third-party that will gain access to your personal information as part
+    of the account connection. For example, personal information that Venmo shares
+    with a third-party account or platform such as a social media account may in turn
+    be shared with certain other parties, including the general public, depending
+    on the accounts or platforms privacy practices.
+  sentence_annotations: []
+- segment_id: 64
+  segment_text: If you choose to use Siri or iMessage to send payments via Venmo or
+    to otherwise use the Services, such use is subject to Apples terms and conditions
+    for use of iMessage and/or Siri, as applicable, and the terms of the Venmo User
+    Agreement. By using Siri or iMessage, you authorize us to share some of your Venmo
+    account data (including your friends list, list of persons you have transacted
+    with most recently and most frequently, transaction instructions, and transaction
+    notes) with Apple to allow it to facilitate transaction requests made through
+    Siri or iMessage on iOS. Data shared with Apple will be used pursuant to Apples
+    then-current user agreements and privacy policies. You can grant or revoke Apples
+    access to Venmo on iOS at any time under the Siri or iMessage settings on your
+    iPhone.
+  sentence_annotations: []
+- segment_id: 65
+  segment_text: Venmo does not send your personal information to third-party social
+    networks unless you have specifically requested or authorized us to do so. When
+    you broadcast information to such third-party social networks, such information
+    is no longer under the control of Venmo and is subject to the terms of use and
+    privacy policies of such third parties.
+  sentence_annotations: []
+- segment_id: 66
+  segment_text: HOW YOU CAN ACCESS OR CHANGE YOUR PERSONAL INFORMATION
+  sentence_annotations: []
+- segment_id: 67
+  segment_text: You can review and update your personal information in your account
+    settings at any time by logging in to your account.
+  sentence_annotations: []
+- segment_id: 68
+  segment_text: LINKS TO OTHER SERVICES OR SITES
+  sentence_annotations: []
+- segment_id: 69
+  segment_text: The Services may contain links to (or allow you to link to) other
+    third-party services or websites. Venmo does not control the information collection
+    of third-party services or websites that can be reached through such links. We
+    encourage our users to be aware when they are linking to a third-party service
+    or website and to read the privacy statements of any third-party service or website
+    that collects personally identifiable information.
+  sentence_annotations: []
+- segment_id: 70
+  segment_text: CHANGES TO OUR PRIVACY POLICY
+  sentence_annotations: []
+- segment_id: 71
+  segment_text: Venmo is always improving. As the Services evolve we may occasionally
+    update this privacy policy. If we modify this privacy policy, we will post the
+    revised privacy policy to the website, and we will also revise the "last updated
+    date" stated above. If we make material changes in the way we use personal information,
+    we will notify you by posting an announcement on our mobile application or website
+    or by sending you an e-mail. It is your responsibility to periodically review
+    this privacy policy; users are bound by any changes to the privacy policy by using
+    the Services after such changes have been first posted.
+  sentence_annotations: []
+- segment_id: 72
+  segment_text: HOW TO CONTACT US
+  sentence_annotations: []
+- segment_id: 73
+  segment_text: If you have questions or concerns regarding this privacy policy, or
+    any feedback pertaining to your privacy and the Services that you would like us
+    to consider, please email us at privacy@venmo.com
+  sentence_annotations: []
+- segment_id: 74
+  segment_text: Consumer Privacy Notice
+  sentence_annotations: []
+- segment_id: 75
+  segment_text: Venmo is a service provided by PayPal, Inc. (Venmo)
+  sentence_annotations: []
+- segment_id: 76
+  segment_text: Facts
+  sentence_annotations: []
+- segment_id: 77
+  segment_text: What does Venmo do with your personal information?
+  sentence_annotations: []
+- segment_id: 78
+  segment_text: Why?
+  sentence_annotations: []
+- segment_id: 79
+  segment_text: Financial companies choose how they share your personal information.
+    Federal law gives consumers the right to limit some but not all sharing. Federal
+    law also requires us to tell you how we collect, share, and protect your personal
+    information. Please read this notice carefully to understand what we do.
+  sentence_annotations: []
+- segment_id: 80
+  segment_text: What?
+  sentence_annotations: []
+- segment_id: 81
+  segment_text: 'The types of personal information we collect and share depend on
+    the product or service you have with us. This information can include:'
+  sentence_annotations: []
+- segment_id: 82
+  segment_text: Social Security number and account balances
+  sentence_annotations: []
+- segment_id: 83
+  segment_text: Payment history or transaction history
+  sentence_annotations: []
+- segment_id: 84
+  segment_text: Credit history or credit scores
+  sentence_annotations: []
+- segment_id: 85
+  segment_text: When you are no longer our customer, we continue to share your information
+    as described in this notice.
+  sentence_annotations: []
+- segment_id: 86
+  segment_text: How?
+  sentence_annotations: []
+- segment_id: 87
+  segment_text: All financial companies need to share customers personal information
+    to run their everyday business. In the section below, we list the reasons financial
+    companies can share their customers personal information; the reasons Venmo chooses
+    to share; and whether you can limit this sharing.
+  sentence_annotations: []
+- segment_id: 88
+  segment_text: Reasons we can share your personal information
+  sentence_annotations: []
+- segment_id: 89
+  segment_text: Does Venmo share?
+  sentence_annotations: []
+- segment_id: 90
+  segment_text: Can you limit this sharing?
+  sentence_annotations: []
+- segment_id: 91
+  segment_text: For our everyday business purposes
+  sentence_annotations: []
+- segment_id: 92
+  segment_text: such as to process your transactions, maintain your account(s), respond
+    to court orders and legal investigations, or report to credit bureaus
+  sentence_annotations: []
+- segment_id: 93
+  segment_text: 'Yes'
+  sentence_annotations: []
+- segment_id: 94
+  segment_text: 'No'
+  sentence_annotations: []
+- segment_id: 95
+  segment_text: For our marketing purposes
+  sentence_annotations: []
+- segment_id: 96
+  segment_text: to offer our products and services to you
+  sentence_annotations: []
+- segment_id: 97
+  segment_text: 'Yes'
+  sentence_annotations: []
+- segment_id: 98
+  segment_text: 'No'
+  sentence_annotations: []
+- segment_id: 99
+  segment_text: For joint marketing with other financial companies
+  sentence_annotations: []
+- segment_id: 100
+  segment_text: 'Yes'
+  sentence_annotations: []
+- segment_id: 101
+  segment_text: 'No'
+  sentence_annotations: []
+- segment_id: 102
+  segment_text: For our affiliates everyday business purposes
+  sentence_annotations: []
+- segment_id: 103
+  segment_text: information about your transactions and experiences
+  sentence_annotations: []
+- segment_id: 104
+  segment_text: 'Yes'
+  sentence_annotations: []
+- segment_id: 105
+  segment_text: 'No'
+  sentence_annotations: []
+- segment_id: 106
+  segment_text: For our affiliates everyday business purposes
+  sentence_annotations: []
+- segment_id: 107
+  segment_text: information about your creditworthiness
+  sentence_annotations: []
+- segment_id: 108
+  segment_text: 'No'
+  sentence_annotations: []
+- segment_id: 109
+  segment_text: We dont share
+  sentence_annotations: []
+- segment_id: 110
+  segment_text: For our affiliates to market to you
+  sentence_annotations: []
+- segment_id: 111
+  segment_text: 'No'
+  sentence_annotations: []
+- segment_id: 112
+  segment_text: We dont share
+  sentence_annotations: []
+- segment_id: 113
+  segment_text: For nonaffiliates to market to you
+  sentence_annotations: []
+- segment_id: 114
+  segment_text: 'No'
+  sentence_annotations: []
+- segment_id: 115
+  segment_text: We dont share
+  sentence_annotations: []
+- segment_id: 116
+  segment_text: Who we are
+  sentence_annotations: []
+- segment_id: 117
+  segment_text: Who is providing this Privacy Policy?
+  sentence_annotations: []
+- segment_id: 118
+  segment_text: This privacy notice is provided by Venmo, a service of PayPal, Inc.
+    in connection with its provision of Venmo, and is applicable to your personal
+    Venmo account.
+  sentence_annotations: []
+- segment_id: 119
+  segment_text: What we do
+  sentence_annotations: []
+- segment_id: 120
+  segment_text: How does Venmo protect my personal information?
+  sentence_annotations: []
+- segment_id: 121
+  segment_text: To protect your personal information from unauthorized access and
+    use, we use security measures that comply with federal law. These measures include
+    computer safeguards and secured files and buildings.
+  sentence_annotations: []
+- segment_id: 122
+  segment_text: How does Venmo collect my personal information?
+  sentence_annotations: []
+- segment_id: 123
+  segment_text: We collect your personal information, for example, when you
+  sentence_annotations: []
+- segment_id: 124
+  segment_text: open an account or provide account information
+  sentence_annotations: []
+- segment_id: 125
+  segment_text: link your credit or debit card to your Venmo account or give us your
+    contact information
+  sentence_annotations: []
+- segment_id: 126
+  segment_text: use your Venmo account to send or receive funds
+  sentence_annotations: []
+- segment_id: 127
+  segment_text: We also collect your personal information from others, such as credit
+    bureaus, affiliates, or other companies.
+  sentence_annotations: []
+- segment_id: 128
+  segment_text: Why cant I limit all sharing?
+  sentence_annotations: []
+- segment_id: 129
+  segment_text: Federal law gives you the right to limit only
+  sentence_annotations: []
+- segment_id: 130
+  segment_text: sharing for affiliates everyday business purposes information about
+    your creditworthiness
+  sentence_annotations: []
+- segment_id: 131
+  segment_text: affiliates from using your information to market to you
+  sentence_annotations: []
+- segment_id: 132
+  segment_text: sharing for nonaffiliates to market to you
+  sentence_annotations: []
+- segment_id: 133
+  segment_text: State laws and individual companies may give you additional rights
+    to limit sharing. See below for more information on your rights under state law.
+  sentence_annotations: []
+- segment_id: 134
+  segment_text: Definitions
+  sentence_annotations: []
+- segment_id: 135
+  segment_text: Affiliates
+  sentence_annotations: []
+- segment_id: 136
+  segment_text: Companies related by common ownership or control. They can be financial
+    and nonfinancial companies.
+  sentence_annotations: []
+- segment_id: 137
+  segment_text: Our affiliates include Bill Me Later, Inc.
+  sentence_annotations: []
+- segment_id: 138
+  segment_text: Nonaffiliates
+  sentence_annotations: []
+- segment_id: 139
+  segment_text: Companies not related by common ownership or control. They can be
+    financial and nonfinancial companies.
+  sentence_annotations: []
+- segment_id: 140
+  segment_text: Nonaffiliates with which we share personal information include service
+    providers that perform services or functions on our behalf.
+  sentence_annotations: []
+- segment_id: 141
+  segment_text: Joint Marketing
+  sentence_annotations: []
+- segment_id: 142
+  segment_text: A formal agreement between nonaffiliated financial companies that
+    together market financial products or services to you.
+  sentence_annotations: []
+- segment_id: 143
+  segment_text: Our joint marketing partners include financial companies and banks,
+    such as Synchrony Bank and The Bancorp Bank.
+  sentence_annotations: []
+- segment_id: 144
+  segment_text: Other important information
+  sentence_annotations: []
+- segment_id: 145
+  segment_text: We may transfer personal information to other countries, for example,
+    for customer service or to process transactions.
+  sentence_annotations: []
+- segment_id: 146
+  segment_text: 'California: If your Venmo account has a California mailing address,
+    we will not share personal information we collect about you except to the extent
+    permitted under California law.'
+  sentence_annotations: []
+- segment_id: 147
+  segment_text: 'Vermont: If your Venmo account has a Vermont mailing address, we
+    will not share personal information we collect about you with non-affiliates unless
+    the law allows or you provide authorization.'
+  sentence_annotations: []
+- segment_id: 148
+  segment_text: California Consumer Privacy Act Notice
+  sentence_annotations: []
+- segment_id: 149
+  segment_text: In this notice, we are addressing specific disclosure requirements
+    under the California Consumer Privacy Act of 2018 for California residents. This
+    notice should be read together with Venmos Privacy Policy and applies to all California
+    residents who visit our Sites or use the Services.
+  sentence_annotations: []
+- segment_id: 150
+  segment_text: Personal Information Collection and Purposes of Use
+  sentence_annotations: []
+- segment_id: 151
+  segment_text: We collect, use and share personal information regarding California
+    residents as described in this notice.
+  sentence_annotations: []
+- segment_id: 152
+  segment_text: We did not sell any consumers personal information in the preceding
+    12 months.
+  sentence_annotations: []
+- segment_id: 153
+  segment_text: California Residents Privacy Rights
+  sentence_annotations: []
+- segment_id: 154
+  segment_text: California residents have rights to request access to certain personal
+    information collected about them over the past 12 months, or deletion of their
+    personal information, subject to certain exceptions, and may not be discriminated
+    against because they exercise any of their rights under the California Consumer
+    Privacy Act. We may require you to provide additional personal information to
+    verify your identity before we process your request; we may not process your request
+    if we are unable to verify your identity. You or your authorized agent may contact
+    us by clicking here or call us at 1-855-812-4430. Learn more about how we have
+    handled your Privacy Rights.
+  sentence_annotations: []
+- segment_id: 155
+  segment_text: 'In the preceding 12 months, we have collected the following categories
+    of personal information from California Residents:'
+  sentence_annotations: []
+- segment_id: 156
+  segment_text: 'We have collected such personal information from the following categories
+    of sources:'
+  sentence_annotations: []
+- segment_id: 157
+  segment_text: 'We collected such personal information to use for the following purposes:'
+  sentence_annotations: []
+- segment_id: 158
+  segment_text: 'In the preceding 12 months, we shared such personal information with
+    the following categories of third parties:'
+  sentence_annotations: []
+- segment_id: 159
+  segment_text: a. Identifiers such as a real name, alias, postal address, unique
+    personal identifier, online identifier, Internet Protocol address, email address,
+    account name, social security number, drivers license number, passport number,
+    or other similar identifiers.
+  sentence_annotations: []
+- segment_id: 160
+  segment_text: from you when you use our Services
+  sentence_annotations: []
+- segment_id: 161
+  segment_text: merchants
+  sentence_annotations: []
+- segment_id: 162
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 163
+  segment_text: financial institutions
+  sentence_annotations: []
+- segment_id: 164
+  segment_text: provide the Services and customer support
+  sentence_annotations: []
+- segment_id: 165
+  segment_text: process transactions and send notices about your transactions or your
+    network activity
+  sentence_annotations: []
+- segment_id: 166
+  segment_text: resolve disputes, collect fees, and troubleshoot problems
+  sentence_annotations: []
+- segment_id: 167
+  segment_text: prevent potentially fraudulent, prohibited or illegal activities,
+    and enforce our User Agreement
+  sentence_annotations: []
+- segment_id: 168
+  segment_text: create an account connection between your Venmo account and a third-party
+    account or platform
+  sentence_annotations: []
+- segment_id: 169
+  segment_text: customize, personalize, measure, and improve our services and the
+    content and layout of our website
+  sentence_annotations: []
+- segment_id: 170
+  segment_text: send you updates about new products and services that we are offering
+    to customers
+  sentence_annotations: []
+- segment_id: 171
+  segment_text: compare information for accuracy and verify it with third parties
+  sentence_annotations: []
+- segment_id: 172
+  segment_text: perform other duties as required by law
+  sentence_annotations: []
+- segment_id: 173
+  segment_text: PayPal, Inc. and affiliates and subsidiaries it controls
+  sentence_annotations: []
+- segment_id: 174
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 175
+  segment_text: financial institutions
+  sentence_annotations: []
+- segment_id: 176
+  segment_text: merchants
+  sentence_annotations: []
+- segment_id: 177
+  segment_text: third party accounts or platforms
+  sentence_annotations: []
+- segment_id: 178
+  segment_text: parties to the transaction
+  sentence_annotations: []
+- segment_id: 179
+  segment_text: other Venmo users
+  sentence_annotations: []
+- segment_id: 180
+  segment_text: internet users (some personal information is public information including
+    your Venmo username, Venmo profile photo, Venmo profile first and last name, month,
+    and year of Venmo account creation, and public transactions in which youve been
+    involved, and may be seen by anyone on the internet, whether or not they have
+    a Venmo account)
+  sentence_annotations: []
+- segment_id: 181
+  segment_text: third parties for our business purposes or as permitted or required
+    by law
+  sentence_annotations: []
+- segment_id: 182
+  segment_text: law enforcement, government officials, or other third parties
+  sentence_annotations: []
+- segment_id: 183
+  segment_text: 'b. Any categories of personal information described in subdivision
+    (e) of Section 1798.80: Personal information means any information that identifies,
+    relates to, describes, or is capable of being associated with, a particular individual,
+    including, but not limited to, his or her name, signature, social security number,
+    physical characteristics or description, address, telephone number, passport number,
+    drivers license or state identification card number, insurance policy number,
+    education, employment, employment history, bank account number, credit card number,
+    debit card number, or any other financial information, medical information, or
+    health insurance information. Personal information does not include publicly available
+    information that is lawfully made available to the general public from federal,
+    state, or local government records.'
+  sentence_annotations: []
+- segment_id: 184
+  segment_text: from you when you use our Services
+  sentence_annotations: []
+- segment_id: 185
+  segment_text: merchants
+  sentence_annotations: []
+- segment_id: 186
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 187
+  segment_text: financial institutions
+  sentence_annotations: []
+- segment_id: 188
+  segment_text: provide the Services and customer support
+  sentence_annotations: []
+- segment_id: 189
+  segment_text: process transactions and send notices about your transactions or your
+    network activity
+  sentence_annotations: []
+- segment_id: 190
+  segment_text: resolve disputes, collect fees, and troubleshoot problems
+  sentence_annotations: []
+- segment_id: 191
+  segment_text: prevent potentially fraudulent, prohibited or illegal activities,
+    and enforce our User Agreement
+  sentence_annotations: []
+- segment_id: 192
+  segment_text: create an account connection between your Venmo account and a third-party
+    account or platform
+  sentence_annotations: []
+- segment_id: 193
+  segment_text: customize, personalize, measure, and improve our services and the
+    content and layout of our website
+  sentence_annotations: []
+- segment_id: 194
+  segment_text: send you updates about new products and services that we are offering
+    to customers
+  sentence_annotations: []
+- segment_id: 195
+  segment_text: compare information for accuracy and verify it with third parties
+  sentence_annotations: []
+- segment_id: 196
+  segment_text: perform other duties as required by law
+  sentence_annotations: []
+- segment_id: 197
+  segment_text: PayPal, Inc. and affiliates and subsidiaries it controls
+  sentence_annotations: []
+- segment_id: 198
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 199
+  segment_text: financial institutions
+  sentence_annotations: []
+- segment_id: 200
+  segment_text: merchants
+  sentence_annotations: []
+- segment_id: 201
+  segment_text: third party accounts or platforms
+  sentence_annotations: []
+- segment_id: 202
+  segment_text: parties to the transaction
+  sentence_annotations: []
+- segment_id: 203
+  segment_text: other Venmo users
+  sentence_annotations: []
+- segment_id: 204
+  segment_text: internet users (some personal information is public information including
+    your Venmo username, Venmo profile photo, Venmo profile first and last name, month,
+    and year of Venmo account creation, and public transactions in which youve been
+    involved, and may be seen by anyone on the internet, whether or not they have
+    a Venmo account)
+  sentence_annotations: []
+- segment_id: 205
+  segment_text: third parties for our business purposes or as permitted or required
+    by law
+  sentence_annotations: []
+- segment_id: 206
+  segment_text: law enforcement, government officials, or other third parties
+  sentence_annotations: []
+- segment_id: 207
+  segment_text: c. Characteristics of protected classifications under California or
+    federal law.
+  sentence_annotations: []
+- segment_id: 208
+  segment_text: from you when you use our Services
+  sentence_annotations: []
+- segment_id: 209
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 210
+  segment_text: provide the Services
+  sentence_annotations: []
+- segment_id: 211
+  segment_text: prevent potentially fraudulent, prohibited or illegal activities,
+    and enforce our User Agreement
+  sentence_annotations: []
+- segment_id: 212
+  segment_text: send you updates about new products and services that we are offering
+    to customers
+  sentence_annotations: []
+- segment_id: 213
+  segment_text: compare information for accuracy and verify it with third parties
+  sentence_annotations: []
+- segment_id: 214
+  segment_text: perform other duties as required by law
+  sentence_annotations: []
+- segment_id: 215
+  segment_text: PayPal, Inc. and affiliates and subsidiaries it controls
+  sentence_annotations: []
+- segment_id: 216
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 217
+  segment_text: financial institutions
+  sentence_annotations: []
+- segment_id: 218
+  segment_text: third parties for our business purposes or as permitted or required
+    by law
+  sentence_annotations: []
+- segment_id: 219
+  segment_text: law enforcement, government officials, or other third parties
+  sentence_annotations: []
+- segment_id: 220
+  segment_text: d. Commercial information, including records of personal property,
+    products or services purchased, obtained, or considered, or other purchasing or
+    consuming histories or tendencies.
+  sentence_annotations: []
+- segment_id: 221
+  segment_text: from you when you use our Services
+  sentence_annotations: []
+- segment_id: 222
+  segment_text: merchants
+  sentence_annotations: []
+- segment_id: 223
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 224
+  segment_text: financial institution
+  sentence_annotations: []
+- segment_id: 225
+  segment_text: provide the Services and customer support
+  sentence_annotations: []
+- segment_id: 226
+  segment_text: process transactions and send notices about your transactions or your
+    network activity
+  sentence_annotations: []
+- segment_id: 227
+  segment_text: resolve disputes, collect fees, and troubleshoot problems
+  sentence_annotations: []
+- segment_id: 228
+  segment_text: prevent potentially fraudulent, prohibited or illegal activities,
+    and enforce our User Agreement
+  sentence_annotations: []
+- segment_id: 229
+  segment_text: create an account connection between your Venmo account and a third-party
+    account or platform
+  sentence_annotations: []
+- segment_id: 230
+  segment_text: customize, personalize, measure, and improve our services and the
+    content and layout of our website
+  sentence_annotations: []
+- segment_id: 231
+  segment_text: send you updates about new products and services that we are offering
+    to customers
+  sentence_annotations: []
+- segment_id: 232
+  segment_text: compare information for accuracy and verify it with third parties
+  sentence_annotations: []
+- segment_id: 233
+  segment_text: perform other duties as required by law
+  sentence_annotations: []
+- segment_id: 234
+  segment_text: PayPal, Inc. and affiliates and subsidiaries it controls
+  sentence_annotations: []
+- segment_id: 235
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 236
+  segment_text: financial institutions
+  sentence_annotations: []
+- segment_id: 237
+  segment_text: merchants
+  sentence_annotations: []
+- segment_id: 238
+  segment_text: third party accounts or platforms
+  sentence_annotations: []
+- segment_id: 239
+  segment_text: parties to the transaction
+  sentence_annotations: []
+- segment_id: 240
+  segment_text: other Venmo users
+  sentence_annotations: []
+- segment_id: 241
+  segment_text: internet users (some personal information is public information including
+    your Venmo username, Venmo profile photo, Venmo profile first and last name, month,
+    and year of Venmo account creation, and public transactions in which youve been
+    involved, and may be seen by anyone on the internet, whether or not they have
+    a Venmo account)
+  sentence_annotations: []
+- segment_id: 242
+  segment_text: third parties for our business purposes or as permitted or required
+    by law
+  sentence_annotations: []
+- segment_id: 243
+  segment_text: law enforcement, government officials, or other third parties
+  sentence_annotations: []
+- segment_id: 244
+  segment_text: e. Internet or other electronic network activity information, including,
+    but not limited to, browsing history, search history, and information regarding
+    a consumers interaction with an Internet Web site, application, or advertisement.
+  sentence_annotations: []
+- segment_id: 245
+  segment_text: from you when you use our Services
+  sentence_annotations: []
+- segment_id: 246
+  segment_text: merchants
+  sentence_annotations: []
+- segment_id: 247
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 248
+  segment_text: provide the Services and customer support
+  sentence_annotations: []
+- segment_id: 249
+  segment_text: process transactions and send notices about your transactions or your
+    network activity
+  sentence_annotations: []
+- segment_id: 250
+  segment_text: resolve disputes, collect fees, and troubleshoot problems
+  sentence_annotations: []
+- segment_id: 251
+  segment_text: prevent potentially fraudulent, prohibited or illegal activities,
+    and enforce our User Agreement
+  sentence_annotations: []
+- segment_id: 252
+  segment_text: create an account connection between your Venmo account and a third-party
+    account or platform
+  sentence_annotations: []
+- segment_id: 253
+  segment_text: customize, personalize, measure, and improve our services and the
+    content and layout of our website
+  sentence_annotations: []
+- segment_id: 254
+  segment_text: send you updates about new products and services that we are offering
+    to customers
+  sentence_annotations: []
+- segment_id: 255
+  segment_text: compare information for accuracy and verify it with third parties
+  sentence_annotations: []
+- segment_id: 256
+  segment_text: perform other duties as required by law
+  sentence_annotations: []
+- segment_id: 257
+  segment_text: PayPal, Inc. and affiliates and subsidiaries it controls
+  sentence_annotations: []
+- segment_id: 258
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 259
+  segment_text: financial institutions
+  sentence_annotations: []
+- segment_id: 260
+  segment_text: third party accounts or platforms
+  sentence_annotations: []
+- segment_id: 261
+  segment_text: third parties for our business purposes or as permitted or required
+    by law
+  sentence_annotations: []
+- segment_id: 262
+  segment_text: law enforcement, government officials, or other third parties
+  sentence_annotations: []
+- segment_id: 263
+  segment_text: f. Geolocation data.
+  sentence_annotations: []
+- segment_id: 264
+  segment_text: from you if you elect to share this information
+  sentence_annotations: []
+- segment_id: 265
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 266
+  segment_text: to enhance the security of Services, provide you with location-specific
+    options, functionality, offers, advertising, search results, or other location-specific
+    content
+  sentence_annotations: []
+- segment_id: 267
+  segment_text: prevent potentially fraudulent, prohibited or illegal activities,
+    and enforce our User Agreement
+  sentence_annotations: []
+- segment_id: 268
+  segment_text: PayPal, Inc. and affiliates and subsidiaries it controls
+  sentence_annotations: []
+- segment_id: 269
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 270
+  segment_text: third parties for our business purposes or as permitted or required
+    by law
+  sentence_annotations: []
+- segment_id: 271
+  segment_text: law enforcement, government officials, or other third parties
+  sentence_annotations: []
+- segment_id: 272
+  segment_text: g. Audio, electronic, visual, thermal, olfactory, or similar information.
+  sentence_annotations: []
+- segment_id: 273
+  segment_text: from you when you use our Services
+  sentence_annotations: []
+- segment_id: 274
+  segment_text: provide the Services and customer support
+  sentence_annotations: []
+- segment_id: 275
+  segment_text: process transactions
+  sentence_annotations: []
+- segment_id: 276
+  segment_text: resolve disputes, collect fees, and troubleshoot problems
+  sentence_annotations: []
+- segment_id: 277
+  segment_text: prevent potentially fraudulent, prohibited or illegal activities,
+    and enforce our User Agreement
+  sentence_annotations: []
+- segment_id: 278
+  segment_text: compare information for accuracy and verify it with third parties
+  sentence_annotations: []
+- segment_id: 279
+  segment_text: perform other duties as required by law
+  sentence_annotations: []
+- segment_id: 280
+  segment_text: PayPal, Inc. and affiliates and subsidiaries it controls
+  sentence_annotations: []
+- segment_id: 281
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 282
+  segment_text: third parties for our business purposes or as permitted or required
+    by law
+  sentence_annotations: []
+- segment_id: 283
+  segment_text: law enforcement, government officials, or other third parties
+  sentence_annotations: []
+- segment_id: 284
+  segment_text: h. Inferences drawn from any of the information identified in this
+    subdivision to create a profile about a consumer reflecting the consumers preferences,
+    characteristics, psychological trends, predispositions, behavior, attitudes, intelligence,
+    abilities, and aptitudes.
+  sentence_annotations: []
+- segment_id: 285
+  segment_text: from you when you use our Services
+  sentence_annotations: []
+- segment_id: 286
+  segment_text: merchants
+  sentence_annotations: []
+- segment_id: 287
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 288
+  segment_text: provide the Services
+  sentence_annotations: []
+- segment_id: 289
+  segment_text: prevent potentially fraudulent, prohibited or illegal activities,
+    and enforce our User Agreement
+  sentence_annotations: []
+- segment_id: 290
+  segment_text: customize, personalize, measure, and improve our services and the
+    content and layout of our website
+  sentence_annotations: []
+- segment_id: 291
+  segment_text: send you updates about new products and services that we are offering
+    to customers
+  sentence_annotations: []
+- segment_id: 292
+  segment_text: perform other duties as required by law
+  sentence_annotations: []
+- segment_id: 293
+  segment_text: PayPal, Inc. and affiliates and subsidiaries it controls
+  sentence_annotations: []
+- segment_id: 294
+  segment_text: service providers
+  sentence_annotations: []
+- segment_id: 295
+  segment_text: third parties for our business purposes or as permitted or required
+    by law
+  sentence_annotations: []
+- segment_id: 296
+  segment_text: law enforcement, government officials, or other third parties
+  sentence_annotations: []
