@@ -12,12 +12,13 @@ def main():
     ["Right_Portability", ["request a copy", "receive a copy", "request to receive", "right to request", "right to receive", "review"]],
     ["Right_Objection", ["object", "objection"]],
     ["Right_Nondiscrimination", ["discriminate", "discrimination"]],
-    ["LawfulProcessing", ["consent", "contract", "legal obligation", "legitimate interest", "vital interest", "public interest"]],
-    ["DPO_Mentioned", ["data protection officer", "dpo"]]]
+    ["Lawful_Processing", ["consent", "contract", "legal obligation", "legitimate interest", "vital interest", "public interest"]],
+    ["DPO_Mentioned", ["data protection officer", "dpo"]]
+    ["Sale_OptOut", ["do not sell my personal information"]]]
 
     GDPR_rights = ["Right_Deletion", "Right_Access", "Right_Rectification", "Right_Restriction", "Right_Portability", "Right_Objection",
-    "LawfulProcessing", "DPO_Mentioned"]
-    CCPA_rights = ["Right_Nondiscrimination"]
+    "Lawful_Processing", "DPO_Mentioned"]
+    CCPA_rights = ["Right_Nondiscrimination", "Right_Deletion", "Sale_OptOut"]
 
     # A list of lists that should probably be a list of dictionaries
     annotationList = []
