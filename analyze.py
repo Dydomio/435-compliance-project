@@ -99,7 +99,16 @@ def makeAnnotations(text, regulations, features):
     return annotations
 
 def reportCompliance(annoList):
-    pass
+    #GDPR Rights "Right_Deletion", "Right_Access", "Right_Rectification", "Right_Restriction", "Right_Portability", "Right_Objection","Lawful_Processing", "DPO_Mentioned"
+    #CCPA Rights "Right_Nondiscrimination", Right_Deletion", "Right_Know", "Sale_OptOut"
+    #complianceStatLine = [["GDPR",[0,0,0,0,0,0,0,0]], ["CCPA",[0,0,0,0]]]
+
+
+
+    #divide the amount of found rights by the amount of rights they should have
+    #complianceStat = [("GDPR: ", gdprRightCounter/8), ("CCPA: ", ccpaRightCounter/4)]
+
+    return complianceStat
 
 # features is a list of lists
 # list_rights = [["Right_Deletion", ["delete", "deletion", "erase", "erasure"]]
