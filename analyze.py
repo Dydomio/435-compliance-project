@@ -2,26 +2,24 @@ import yaml
 
 def main():
     # Dictionaries of features to check for
-    # 'review' is used as a keyword for both access and portability
-    # need to add CCPA rights
     dict_policies = {"GDPR" : ["european union", "eu", "e.u.", "europe", "gdpr", "general data protection regulation"], "CCPA" : ["california", "ccpa"]}
     list_rights = [["Right_Deletion", ["delete", "deletion", "deleted", "erase", "erasure", "erased", "remove", "removed", "removal"]],
     ["Right_Access", ["access", "review"]],
     ["Right_Rectification", ["rectify", "correct", "corrected", "correction", "rectification", "rectified", "update", "amend"]],
     ["Right_Restriction", ["restrict", "restriction", "stop"]],
-    ["Right_Portability", ["request a copy", "receive a copy", "request to receive", "right to request", "right to receive", "review", "a copy"]],
+    ["Right_Portability", ["request a copy", "receive a copy", "request to receive", "right to request", "right to receive", "a copy"]],
     ["Right_Objection", ["object", "objection"]],
-    ["Right_Know", ["know"]],
+    ["Right_Know", ["know", "access", "shine the light", "disclose"]],
     ["Right_Nondiscrimination", ["discriminate", "discrimination"]],
     ["Lawful_Processing", ["consent", "contract", "legal obligation", "legitimate interest", "vital interest", "public interest"]],
     ["DPO_Mentioned", ["data protection officer", "dpo"]]
-    ["Sale_OptOut", ["do not sell my personal information"]]]
+    ["Sale_OptOut", ["do not sell my personal information", "do not sell", "do not share", "opt out of any sales", "opt out of the sale", "opt out of sales"]]]
 
     GDPR_rights = ["Right_Deletion", "Right_Access", "Right_Rectification", "Right_Restriction", "Right_Portability", "Right_Objection",
     "Lawful_Processing", "DPO_Mentioned"]
     CCPA_rights = ["Right_Nondiscrimination", "Right_Deletion", "Right_Know", "Sale_OptOut"]
 
-    # A list of lists that should probably be a list of dictionaries
+    # A list of dictionaries of features
     annotationList = []
 
     # Open the segmented policy file and read it in
