@@ -1,0 +1,2739 @@
+- compliance_report:
+    CCPA Compliance Rate: 50.0
+    CCPA Rights Instances:
+      Right_Deletion: 4
+      Right_Know: 12
+      Right_Nondiscrimination: 0
+      Sale_OptOut: 0
+    GDPR Compliance Rate: 75.0
+    GDPR Rights Instances:
+      DPO_Mentioned: 1
+      Lawful_Processing: 4
+      Right_Access: 12
+      Right_Deletion: 4
+      Right_Objection: 0
+      Right_Portability: 0
+      Right_Rectification: 1
+      Right_Restriction: 1
+- segment_id: 0
+  segment_text: Privacy Policy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 1
+  segment_text: What is the Privacy Policy and what does it cover?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 2
+  segment_text: Effective July 26, 2022 |  |
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 3
+  segment_text: We at Meta want you to understand what information we collect, and
+    how we use and share it. Thats why we encourage you to read our Privacy Policy.
+    This helps you use Meta Products in the way thats right for you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 4
+  segment_text: In the Privacy Policy, we explain how we collect, use, share, retain
+    and transfer information. We also let you know your rights. Each section of the
+    Policy includes helpful examples and simpler language to make our practices easier
+    to understand. Weve also added links to resources where you can learn more about
+    the privacy topics that interest you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - know
+- segment_id: 5
+  segment_text: It's important to us that you know how to control your privacy, so
+    we also show you where you can manage your information in the settings of the
+    Meta Products you use. You can  to shape your experience.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - know
+- segment_id: 6
+  segment_text: Read the full policy below.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 7
+  segment_text: What information do we collect?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 8
+  segment_text: The information we collect and process about you depends on how you
+    use our Products. For example, we collect different information if you sell furniture
+    on Marketplace than if you post a reel on Instagram. When you use our Products,
+    we collect some information about you .
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 9
+  segment_text: 'Here''s the information we collect:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 10
+  segment_text: What if you dont let us collect certain information?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 11
+  segment_text: Some information is required for our Products to work. Other information
+    is optional, but without it, the quality of your experience might be affected.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 12
+  segment_text: Take control in Privacy Center
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 13
+  segment_text: How do we use your information?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 14
+  segment_text: We use  to provide a personalized experience to you, including ads,
+    along with the other purposes we explain in detail below.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 15
+  segment_text: For some of these purposes, we use information  and . The information
+    we use for these purposes is automatically processed by our systems. But in some
+    cases, we also use  to access and review your information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      - review
+      Right_Know:
+      - access
+- segment_id: 16
+  segment_text: To use less information thats connected to individual users, in some
+    cases we de-identify or aggregate information. We might also anonymize it so that
+    it no longer identifies you. We use this information in the same ways we use your
+    information as described in this section.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 17
+  segment_text: 'Here are the ways we use your information:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 18
+  segment_text: To provide, personalize and improve our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 19
+  segment_text: We use information we have, including any  you choose to share, to
+    provide and improve our Products. This includes personalizing features, content
+    and , such as your , , Stories and ads. We dont use profile fields about religious
+    views, political views or who youre interested in to show you ads.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 20
+  segment_text: 'Read more about how we use information to provide, personalize and
+    improve our Products:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 21
+  segment_text: To promote safety, security and integrity
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 22
+  segment_text: We use information we collect to help protect people from harm and
+    provide safe, secure Products.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 23
+  segment_text: To provide measurement, analytics and business services
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 24
+  segment_text: Lots of people rely on our Products to run or promote their businesses.
+    We help them measure how well their ads and other content are working.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 25
+  segment_text: To communicate with you
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 26
+  segment_text: We communicate with you using information you've given us, like contact
+    information you've entered on your profile.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 27
+  segment_text: To research and innovate for social good
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 28
+  segment_text: We use information we have, information from researchers and datasets
+    from publicly available sources, professional groups and non-profit groups to
+    conduct and support research.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 29
+  segment_text: More in the Privacy Policy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 30
+  segment_text: How is your information shared on Meta Products or with Integrated
+    Partners?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 31
+  segment_text: Hands holding a phone, using Facebook Login to log into an Integrated
+    Partner's website.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 32
+  segment_text: On Meta Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 33
+  segment_text: 'Learn more about the different cases when your information can be
+    shared on our Products:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 34
+  segment_text: With Integrated Partners
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 35
+  segment_text: You can choose to connect with  who use our Products. If you do, these
+    Integrated Partners receive information about you and your activity.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 36
+  segment_text: 'These Integrated Partners can always access information thats public
+    on our Products. Learn more about other information they receive and how they
+    handle your information:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+- segment_id: 37
+  segment_text: Take control
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 38
+  segment_text: How do we share information with Partners, vendors, service providers
+    and third parties?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 39
+  segment_text: A row of images, including a bar graph, two ads and an online shopping
+    cart.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 40
+  segment_text: We don't sell any of your information to anyone, and we never will.
+    We also require Partners and third parties to follow rules about how they can
+    and cannot use and disclose the information we provide.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - disclose
+- segment_id: 41
+  segment_text: 'Heres more detail about who we share information with:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 42
+  segment_text: Partners
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 43
+  segment_text: Vendors
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 44
+  segment_text: Service providers
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 45
+  segment_text: Third parties
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 46
+  segment_text: Other times we share with third parties
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 47
+  segment_text: We also share information with third parties in response to legal
+    requests, to comply with applicable law or to prevent harm. .
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 48
+  segment_text: And if we sell or transfer all or part of our business to someone
+    else, then we may give the new owner your information as part of that transaction,
+    in line with applicable law.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 49
+  segment_text: How do the Meta Companies work together?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 50
+  segment_text: A Portal, a Quest 2, and a mobile phone. The phone screen shows the
+    Messenger, WhatsApp, Facebook and Instagram apps.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 51
+  segment_text: We are part of the  that provide Meta Company Products.  include all
+    the Meta Products covered by this Policy, plus other products like WhatsApp, Novi
+    and more.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 52
+  segment_text: We share information we collect, infrastructure, systems and technology
+    with the other Meta Companies.  about how we transfer information to other countries.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 53
+  segment_text: We also process information that we receive about you from other Meta
+    Companies, according to their terms and policies and as permitted by applicable
+    law. In some cases, Meta acts as a service provider for other Meta Companies.
+    We act on their behalf and in accordance with their instructions and terms.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 54
+  segment_text: Why we share across the Meta Companies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 55
+  segment_text: 'Meta Products share information with other Meta Companies:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 56
+  segment_text: To promote safety, security and integrity and comply with applicable
+    laws
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 57
+  segment_text: To personalize offers, ads and other sponsored or commercial content
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 58
+  segment_text: To develop and provide features and integrations
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 59
+  segment_text: To understand how people use and interact with Meta Company Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 60
+  segment_text: of why we share.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 61
+  segment_text: More resources
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 62
+  segment_text: How can you manage or delete your information and exercise your rights?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - delete
+- segment_id: 63
+  segment_text: We offer you a variety of tools to view, manage, download and delete
+    your information below. You can also manage your information by visiting the settings
+    of the Products you use. You may also have other privacy rights under applicable
+    laws.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - delete
+- segment_id: 64
+  segment_text: To exercise your rights, visit our Help Centers, your settings for
+    Facebook and Instagram and your device-based settings.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 65
+  segment_text: Take a privacy checkup
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 66
+  segment_text: View and manage your information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 67
+  segment_text: Port, download or delete your information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - delete
+- segment_id: 68
+  segment_text: You can learn more about how privacy works on  and on , and in the
+    . If you have questions about this policy, you can  as described below. In some
+    countries, you may also be able to contact the Data Protection Officer for Meta
+    Platforms, Inc., and depending on your jurisdiction, you may also contact your
+    local Data Protection Authority (DPA) directly.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      DPO_Mentioned:
+      - data protection officer
+- segment_id: 69
+  segment_text: How long do we keep your information?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 70
+  segment_text: 'We keep information as long as we need it to provide our Products,
+    comply with legal obligations or protect our or others interests. We decide how
+    long we need information on a case-by-case basis. Heres what we consider when
+    we decide:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - legal obligation
+- segment_id: 71
+  segment_text: If we need it to operate or provide our Products. For example, we
+    need to keep some of your information to maintain your account. .
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 72
+  segment_text: The feature we use it for, and how that feature works. For example,
+    messages sent using Messengers vanish mode are retained for less time than regular
+    messages. .
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 73
+  segment_text: How long we need to retain the information to comply with certain
+    legal obligations. .
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - legal obligation
+- segment_id: 74
+  segment_text: If we need it for other legitimate purposes, such as to prevent harm;
+    investigate possible violations of our terms or policies; promote safety, security
+    and integrity; or protect ourselves, including our rights, property or products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 75
+  segment_text: In some instances and for specific reasons, well keep information
+    for an extended period of time.  about when we may preserve your information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 76
+  segment_text: How do we transfer information?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 77
+  segment_text: How do we respond to legal requests, comply with applicable law and
+    prevent harm?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 78
+  segment_text: 'We access, preserve, use and share your information:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+- segment_id: 79
+  segment_text: In response to legal requests, like search warrants, court orders,
+    production orders or subpoenas. These requests come from third parties such as
+    civil litigants, law enforcement and other government authorities.  about when
+    we respond to legal requests.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 80
+  segment_text: In accordance with applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 81
+  segment_text: To promote the safety, security and integrity of Meta Products, users,
+    employees, property and the public. .
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 82
+  segment_text: We may access or preserve your information for an extended amount
+    of time. .
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+- segment_id: 83
+  segment_text: How will you know the policy has changed?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - know
+- segment_id: 84
+  segment_text: We'll notify you before we make material changes to this Policy. Youll
+    have the opportunity to review the revised Policy before you choose to continue
+    using our Products.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+- segment_id: 85
+  segment_text: Privacy notice for California residents
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 86
+  segment_text: If you are a California resident, you can learn more about your consumer
+    privacy rights by reviewing the .
+  sentence_annotations:
+    CCPA:
+      Right_Access:
+      - review
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 87
+  segment_text: How to contact Meta with questions
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 88
+  segment_text: You can learn more about how privacy works on  and on  and in the
+    . If you have questions about this Policy or have questions, complaints or requests
+    regarding your information, you can contact us as described below.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 89
+  segment_text: 'You can contact us  or by mail at:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 90
+  segment_text: Meta Platforms, Inc.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 91
+  segment_text: 'ATTN: Privacy Operations'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 92
+  segment_text: 1601 Willow Road
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 93
+  segment_text: Menlo Park, CA 94025
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 94
+  segment_text: Why and how we process your information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 95
+  segment_text: 'The categories of information we use, and why and how information
+    is processed, are set out below:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 96
+  segment_text: Why and how we process your information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 97
+  segment_text: Information categories we use (see '' for more information on each
+    information category)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 98
+  segment_text: 'The actual information we use depends on your factual circumstances,
+    but could include any of the following:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 99
+  segment_text: 'Personalizing the Meta Products: Our systems automatically process
+    information we collect and store associated with you and others to assess and
+    understand your interests and your preferences and provide you personalized experiences
+    across the Meta Products in accordance with our terms. This is how we:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 100
+  segment_text: Personalize features and content (such as your ,  and Stories);
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 101
+  segment_text: Personalize the ads people see; and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 102
+  segment_text: Make suggestions for you (such as people you may know, groups or events
+    that you may be interested in or topics that you may want to follow) on and off
+    our products.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - know
+- segment_id: 103
+  segment_text: about how we use information about you to personalize your experience
+    on and across Meta Products and how we choose the ads that you see.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 104
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 105
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 106
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 107
+  segment_text: Metadata about content
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 108
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 109
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 110
+  segment_text: Purchases or other transactions you make
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 111
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 112
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 113
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 114
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 115
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 116
+  segment_text: Identifiers that tell your device apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 117
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 118
+  segment_text: Information youve shared through your device settings (like GPS location)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 119
+  segment_text: Information about the network you connect your device to
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 120
+  segment_text: Reports about our products performance on your device
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 121
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 122
+  segment_text: . (You have control over Metas use of Partner data to tailor ads to
+    you.)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 123
+  segment_text: 'Providing and improving our Meta Products: The provision of the Meta
+    Products includes collecting, storing, and, where relevant, sharing, profiling,
+    reviewing and curating, and in some instances not only automated processing but
+    also manual (human) reviewing, to:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+- segment_id: 124
+  segment_text: Create and maintain your account and profile,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 125
+  segment_text: Facilitate the sharing of content and status,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 126
+  segment_text: Provide and curate features,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 127
+  segment_text: Provide messaging services, the ability to make voice and video calls
+    and connect with others,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 128
+  segment_text: Provide advertising products, and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 129
+  segment_text: Undertake analytics.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 130
+  segment_text: 'We also use information to develop, research and test improvements
+    to our Products. We use information we have to:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 131
+  segment_text: See if a product is working correctly,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Rectification:
+      - correct
+- segment_id: 132
+  segment_text: Troubleshoot and fix it when its not,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 133
+  segment_text: Test out new products and features to see if they work,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 134
+  segment_text: Get feedback on our ideas for products or features, and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 135
+  segment_text: Conduct surveys and other research about what you like about our Products
+    and brands and what we can do better.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 136
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 137
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 138
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 139
+  segment_text: Messages you send and receive, including their content, subject to
+    applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 140
+  segment_text: Metadata about content and messages, subject to applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 141
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 142
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 143
+  segment_text: Purchases or other transactions you make, including truncated credit
+    card information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 144
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 145
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 146
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 147
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 148
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 149
+  segment_text: Identifiers that tell your device apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 150
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 151
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 152
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 153
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 154
+  segment_text: 'Promoting safety, integrity and security on and across the Meta Products:
+    The Meta Products are designed to research and help ensure the safety, integrity
+    and security of those services and those people who enjoy them, on and off Meta
+    Products. We process information we have associated with you and apply automated
+    processing techniques and, in some instances, conduct manual (human) review to:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+- segment_id: 155
+  segment_text: Verify accounts and activity,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 156
+  segment_text: Find and address violations of our terms or policies. In some cases,
+    the decisions we make about violations are reviewed by the ,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+- segment_id: 157
+  segment_text: Investigate suspicious activity,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 158
+  segment_text: Detect, prevent and combat harmful or unlawful behavior, such as to
+    review and, in some cases, remove content reported to us,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+      Right_Deletion:
+      - remove
+- segment_id: 159
+  segment_text: Identify and combat disparities and racial bias against historically
+    marginalized communities,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 160
+  segment_text: Protect the life, physical or mental health, well-being or integrity
+    of our users or others,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 161
+  segment_text: Detect and prevent spam, other security matters and other bad experiences,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 162
+  segment_text: Detect and stop threats to our personnel and property, and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Restriction:
+      - stop
+- segment_id: 163
+  segment_text: Maintain the integrity of our Products.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 164
+  segment_text: For more information on safety, integrity and security generally on
+    Meta Products, visit the  and .
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 165
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 166
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 167
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 168
+  segment_text: Messages you send and receive, including their content, subject to
+    applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 169
+  segment_text: Metadata about content and messages, subject to applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 170
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 171
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 172
+  segment_text: Purchases or other transactions you make, including truncated credit
+    card information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 173
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 174
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 175
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 176
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 177
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 178
+  segment_text: Identifiers that tell your device apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 179
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 180
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 181
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 182
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 183
+  segment_text: 'To communicate with you: We use information youve given us (like
+    contact information on your profile) to send you a communication, like an e-mail
+    or in-product notice, for example:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 184
+  segment_text: Well contact you via email or in-product notifications in relation
+    to the Meta Products, product-related issues, research or to let you know about
+    our terms and policies.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - know
+- segment_id: 185
+  segment_text: We also use contact information like your email address to respond
+    when you contact us.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 186
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 187
+  segment_text: Contact information on your profile and your communications with us
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 188
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 189
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 190
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 191
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 192
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 193
+  segment_text: Identifiers that tell your device apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 194
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 195
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 196
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 197
+  segment_text: Information from cookies and similar technologies.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 198
+  segment_text: 'Transferring, storing or processing your information across borders,
+    including from and to the United States and other countries: We share information
+    we collect globally, both internally across our offices and data centers and externally
+    with our Partners, third parties and service providers. Because Meta is global,
+    with users, Partners, vendors and employees around the world, transfers are necessary:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 199
+  segment_text: To operate and provide the services described in the terms that apply
+    to the Meta Product(s) you are using. This includes allowing you to share information
+    and connect with your family and friends around the globe; and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 200
+  segment_text: To fix, analyze and improve our Products.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 201
+  segment_text: For more information, see the  section of the Meta Privacy Policy.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 202
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 203
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 204
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 205
+  segment_text: Metadata about content and messages, subject to applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 206
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 207
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 208
+  segment_text: Purchases or other transactions you make, including truncated credit
+    card information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 209
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 210
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 211
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 212
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 213
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 214
+  segment_text: Identifiers that tell your advice apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 215
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 216
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 217
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 218
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 219
+  segment_text: Processing information subject to special protections under applicable
+    laws that you provide so we can share it with those you choose, to provide, personalize
+    and improve our Products and to undertake analytics. Well collect, store, publish
+    and apply automated, or sometimes manual (human), processing for these purposes.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 220
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 221
+  segment_text: Any information with special protections that you choose to provide
+    in your profile fields (such as your religious views, political views, or who
+    you are "interested in"), or as part of surveys you choose to participate in
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 222
+  segment_text: 'Receiving and using information from third parties to tailor the
+    ads you see: Well use information that advertisers, businesses and other partners
+    provide us about activity off Meta Products that we have associated with you to
+    personalize ads that we show you on Meta Products, and on websites, apps and devices
+    that use our advertising services. We receive this information whether or not
+    youre logged in or have an account on our Products. See the  for more information.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 223
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 224
+  segment_text: Information and content you provide, such as your name or email address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 225
+  segment_text: 'Sharing your contact, profile or other information with third parties
+    upon your request: The type of third party and categories of information shared
+    depend on the circumstances of what you ask us to share. For example:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 226
+  segment_text: We share your email (or other contact information) or other information
+    you might choose when you direct us to share it with an advertiser so they can
+    contact you with additional information about a promoted product, and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 227
+  segment_text: If you choose to integrate other apps, games or websites with Meta
+    Products and log in, well share your information with the app, game or website
+    to log you in.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 228
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 229
+  segment_text: Content you create, like your contact, profile or other information,
+    like posts or comments
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 230
+  segment_text: 'Providing measurement, analytics and business services:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 231
+  segment_text: 'Our systems automatically, as well as with some manual (human) processing,
+    process information we have collected and stored about you and others. We use
+    this information to:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 232
+  segment_text: Provide insights and measurement reports to businesses, advertisers
+    and other Partners to help them measure the effectiveness and distribution of
+    their or their clients ads, content and services, to understand the kinds of people
+    who are seeing their content and ads, and how their content and ads are performing
+    on and off Meta Products, and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 233
+  segment_text: Provide aggregated user analytics and insights reports that help businesses,
+    advertisers and other Partners better understand the audiences with whom they
+    may want to connect, as well as the types of people who use their services and
+    how people interact with their websites, apps and services.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 234
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 235
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 236
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 237
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 238
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 239
+  segment_text: Purchases or other transactions you make
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 240
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 241
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 242
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 243
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 244
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 245
+  segment_text: Identifiers that tell your device apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 246
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 247
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 248
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 249
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 250
+  segment_text: 'Sharing of information across the Meta Companies:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 251
+  segment_text: To provide a seamless, consistent and richer, innovative experience
+    across the Meta Company Products to enable cross app interactions, sharing, viewing
+    and engaging with content, including posts and videos.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 252
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 253
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 254
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 255
+  segment_text: Metadata about content
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 256
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 257
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 258
+  segment_text: Purchases or other transactions you make
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 259
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 260
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 261
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 262
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 263
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 264
+  segment_text: Identifiers that tell your device apart from other users'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 265
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 266
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 267
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 268
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 269
+  segment_text: 'Business intelligence and analytics:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 270
+  segment_text: To understand, in aggregate, your usage of and across our Products,
+    to accurately count people and businesses; and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 271
+  segment_text: To validate metrics directly related to these, in order to inform
+    and improve product direction and development and to adhere to (shareholder/earning)
+    reporting obligations.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 272
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 273
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 274
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 275
+  segment_text: Metadata about content and messages, subject to applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 276
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 277
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 278
+  segment_text: Purchases or other transactions you make
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 279
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 280
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 281
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 282
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 283
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 284
+  segment_text: Identifiers that tell your device apart from other users'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 285
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 286
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 287
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 288
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 289
+  segment_text: 'Identifying you as a Meta Product user and personalizing the ads
+    we show you through Meta Audience Network when you visit other apps:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 290
+  segment_text: When we show you ads through  when you visit other apps, our systems
+    automatically process the information we have collected and stored about you and
+    others to identify you as a Meta Product user and tailor the ads you see.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 291
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 292
+  segment_text: Information you provide
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 293
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 294
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 295
+  segment_text: Metadata about content
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 296
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 297
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 298
+  segment_text: Purchases or other transactions you make
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 299
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 300
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 301
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 302
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 303
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 304
+  segment_text: Identifiers that tell your device apart from other users'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 305
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 306
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 307
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 308
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 309
+  segment_text: 'Providing marketing communications to you:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 310
+  segment_text: Depending on your settings and subject to applicable law, well share
+    marketing communications with you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 311
+  segment_text: Well collect and store your information and use it to send marketing
+    communications to you, like an email, subject to applicable laws.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 312
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 313
+  segment_text: Information and content you provide, including your contact information
+    like email address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 314
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 315
+  segment_text: Device identifiers
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 316
+  segment_text: 'Research and innovate for social good:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 317
+  segment_text: We carry out surveys and use information (including from researchers
+    we collaborate with) to conduct and support research and innovation on topics
+    of general social welfare, technological advancement, public interest, health
+    and well-being.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - public interest
+- segment_id: 318
+  segment_text: For example, we analyze information that we have about migration patterns
+    during crises. This helps relief organizations get aid to the right places.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 319
+  segment_text: We collect, store, combine, analyze and apply automatic processing
+    techniques like aggregation of information as well as manual (human) review, and
+    share information, as necessary to research and innovate for social good in this
+    way. We do this to do things like create COVID-19 forecasting models.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+- segment_id: 320
+  segment_text: about our research programs.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 321
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 322
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 323
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 324
+  segment_text: Metadata about content and messages, subject to applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 325
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 326
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 327
+  segment_text: Purchases or other transactions you make
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 328
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 329
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 330
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 331
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 332
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 333
+  segment_text: Identifiers that tell your device apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 334
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 335
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 336
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 337
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 338
+  segment_text: Anonymizing your information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 339
+  segment_text: In some cases, we anonymize information we have associated with you,
+    such as your activity on and off our Products, and use the resulting information,
+    for example, to provide and improve our Meta Products, including ads.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 340
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 341
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 342
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 343
+  segment_text: Metadata about content
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 344
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 345
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 346
+  segment_text: Purchases or other transactions you make
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 347
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 348
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 349
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 350
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 351
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 352
+  segment_text: Identifiers that tell your device apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 353
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 354
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 355
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 356
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 357
+  segment_text: Share information with others, including law enforcement and to respond
+    to legal requests.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 358
+  segment_text: See the  section of the Meta Privacy Policy for more for information
+    on when we share information with law enforcement and others.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 359
+  segment_text: The categories of information we access, preserve, use and share depend
+    on the specific circumstances. For example, responses to legal requests where
+    not compelled by law will typically include limited information (such as contact
+    details and login information).
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+- segment_id: 360
+  segment_text: 'However, the information we process will depend on the purposes,
+    which could include the following:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 361
+  segment_text: In response to legal requests from third parties such as civil litigants,
+    law enforcement and other government authorities
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 362
+  segment_text: To comply with applicable law or legitimate legal purposes
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 363
+  segment_text: To promote the safety, security and integrity of Meta Companies, Meta
+    Products, users, employees, property and the public
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 364
+  segment_text: about how we promote safety, security and integrity.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 365
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 366
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 367
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 368
+  segment_text: Metadata about content, subject to applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 369
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 370
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 371
+  segment_text: Purchases or other transactions you make
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 372
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 373
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 374
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 375
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 376
+  segment_text: Identifiers that tell your device apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 377
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 378
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 379
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 380
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 381
+  segment_text: 'For processing information when the law requires it: Where we are
+    under an obligation to disclose information such as, for example, if we receive
+    a valid legal request for certain information such as a search warrant, we will
+    access, preserve and/or share your information with regulators, law enforcement
+    or others.'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+      - disclose
+- segment_id: 382
+  segment_text: The way in which the information will be processed depends on the
+    specific circumstances. See the  section of the Meta Privacy Policy for more.
+    "" provides information on the operational guidelines law enforcement needs to
+    follow.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 383
+  segment_text: 'The categories of information depend on the specific circumstances
+    of each mandatory request or obligation. Only the information necessary to comply
+    with the relevant legal obligation will be shared or otherwise processed. For
+    example, for civil matters, this will typically include limited information (such
+    as contact details and login information). However, depending on the circumstances
+    it could include the following:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - legal obligation
+- segment_id: 384
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 385
+  segment_text: Content you create, like posts, comments or audio
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 386
+  segment_text: Content you provide through our camera feature or your camera roll
+    settings, or through our voice-enabled features
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 387
+  segment_text: Messages you send and receive, including their content, subject to
+    applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 388
+  segment_text: Metadata about content and messages, subject to applicable law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 389
+  segment_text: Types of content you view or interact with, and how you interact with
+    it
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 390
+  segment_text: Apps and features you use, and what actions you take in them
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 391
+  segment_text: Purchases or other transactions you make, including truncated credit
+    card information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 392
+  segment_text: Hashtags you use
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 393
+  segment_text: The time, frequency and duration of your activities on our Products
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 394
+  segment_text: ':'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 395
+  segment_text: Device characteristics and device software
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 396
+  segment_text: What youre doing on your device (like whether our app is in the foreground
+    or if your mouse is moving)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 397
+  segment_text: Identifiers that tell your device apart from other users
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 398
+  segment_text: Device signals
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 399
+  segment_text: Information youve shared through your device settings
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 400
+  segment_text: Information about the network you connect your device to, including
+    your IP address
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 401
+  segment_text: Information from cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}

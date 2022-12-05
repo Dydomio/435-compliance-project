@@ -1,0 +1,1111 @@
+- compliance_report:
+    CCPA Compliance Rate: 100.0
+    CCPA Rights Instances:
+      Right_Deletion: 6
+      Right_Know: 16
+      Right_Nondiscrimination: 1
+      Sale_OptOut: 1
+    GDPR Compliance Rate: 87.5
+    GDPR Rights Instances:
+      DPO_Mentioned: 0
+      Lawful_Processing: 6
+      Right_Access: 11
+      Right_Deletion: 1
+      Right_Objection: 1
+      Right_Portability: 1
+      Right_Rectification: 5
+      Right_Restriction: 1
+- segment_id: 0
+  segment_text: Our Commitment to Privacy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 1
+  segment_text: View the National Financial Services LLC Privacy Notice
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 2
+  segment_text: National Financial Services LLC Privacy Policy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 3
+  segment_text: As you may know, your broker-dealer and National Financial Services
+    LLC ("NFS") have an agreement through which NFS provides clearing and other related
+    services for your account. In connection with these services, NFS is required
+    to communicate its practices regarding the privacy of customer information. These
+    practices also apply to you if you have a retirement account through your broker
+    dealer for which Fidelity Management Trust Company (FMTC), an affiliate of NFS,
+    is the custodian. Additionally, if your broker-dealer offers managed account services
+    through the Fidelity Managed Account XchangeSM, a managed account platform sponsored
+    by Fidelity Institutional Wealth Adviser LLC ("FIWA"), a registered investment
+    advisor affiliate of NFS, FIWA will follow these privacy practices as well. You
+    do not have to contact your broker-dealer to benefit from these protections; they
+    apply automatically to all customers. We review our privacy policy annually. Our
+    printed and online notices are then updated to reflect any changes. In this policy,
+    personal information means information about an individual that is collected or
+    maintained for business purposes and by which the individual can be identified.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+      Right_Know:
+      - know
+      Right_Rectification:
+      - update
+- segment_id: 4
+  segment_text: How and Why We Obtain Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 5
+  segment_text: 'To facilitate the servicing of your account, NFS may receive non-public
+    personal information about you from you, your broker-dealer and from any of the
+    following sources:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 6
+  segment_text: Your applications or forms (for example, name, address, Social Security
+    number, birth date, assets, and income)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 7
+  segment_text: Transactional activity in your account (for example, trading history
+    and balances)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 8
+  segment_text: Information from consumer reporting agencies (for example, to assess
+    your creditworthiness for margin products)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 9
+  segment_text: Information from other third-party data services (for example, to
+    verify your identity and to better understand your product and service needs)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 10
+  segment_text: Other sources with your consent or with the consent of your broker-dealer
+    (for example, from other institutions if you transfer positions into NFS)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - consent
+- segment_id: 11
+  segment_text: Please note that information by which you cannot be identified (for
+    example, anonymous or aggregated information) is not considered personal information
+    and therefore is not subject to this privacy policy.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 12
+  segment_text: How We Protect Information About You
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 13
+  segment_text: NFS considers the protection of personal information to be a foundation
+    of customer trust and a sound business practice. We employ physical, electronic,
+    and procedural controls, and we regularly adapt these controls to respond to changing
+    requirements and advances in technology. Within NFS, we restrict access to your
+    information to those who require it to develop, support, offer, and deliver products
+    and services to you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+      Right_Restriction:
+      - restrict
+- segment_id: 14
+  segment_text: How We Share Information About You
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 15
+  segment_text: 'We may share the personal information that we collect about customers,
+    prospects, or former customers with their broker-dealers or with:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 16
+  segment_text: NFS corporate affiliates, including internal service providers (for
+    example, our data processing company and printing operation)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 17
+  segment_text: Unaffiliated service providers (for example, printing and mailing
+    companies, securities clearinghouses, and other entities who may provide services
+    at NFS' direction)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 18
+  segment_text: Government agencies, other regulatory bodies, and law enforcement
+    officials (for example, for tax purposes or for reporting suspicious transactions)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 19
+  segment_text: Other organizations, with your consent or as directed you or your
+    broker-dealer (for example, if you request personalized performance reporting)
+    or as permitted or required by law (for example, for fraud prevention or to respond
+    to a subpoena)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - consent
+- segment_id: 20
+  segment_text: Our service providers are obligated to keep the personal information
+    we share with them confidential and use it only to provide services specified
+    by NFS.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 21
+  segment_text: Your Digital Privacy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 22
+  segment_text: Privacy, security and service in Fidelity's online operations are
+    just as critical as in the rest of our business. We use firewall barriers, encryption
+    techniques and authentication procedures, among other controls, to maintain the
+    security of your online session and to protect Fidelity accounts and systems from
+    unauthorized access.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+- segment_id: 23
+  segment_text: When you interact with us by using our websites, online services or
+    mobile applications that are owned and controlled by NFS ("our digital offerings"),
+    NFS manages personal information in accordance with all of the practices and safeguards
+    described previously.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 24
+  segment_text: When you use our digital offerings, we may collect technical and navigational
+    and location information, such as device type, browser type, Internet protocol
+    address, pages visited, and average time spent on our digital offerings. We use
+    this information for a variety of purposes, such as maintaining the security of
+    your online session, facilitating site navigation, improving NFS website design
+    and functionality, and personalizing your experience. Additionally, the following
+    policies and practices apply when you are online.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 25
+  segment_text: Cookies and similar technologies
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 26
+  segment_text: We use cookies and similar technologies to support the operation of
+    our digital offerings. Cookies are small amounts of data that a website or online
+    service exchanges with a web browser or application on a visitor's device (for
+    example, computer, tablet or mobile phone). Cookies help us to collect information
+    about users of our digital offerings, including date and time of visits, pages
+    viewed, amount of time spent using our digital offerings, or general information
+    about the device used to access our digital offerings. NFS cookies are also used
+    for security purposes and to personalize your experience, such as customizing
+    your screen layout.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+- segment_id: 27
+  segment_text: You can refuse or delete cookies. Most browsers and mobile devices
+    offer their own settings to manage cookies. If you refuse a cookie, or if you
+    delete cookies from your device, you may experience some inconvenience in your
+    use of our digital offerings or, in some cases, may not be able to use a particular
+    digital offering.. For example, you may not be able to sign in and access your
+    account, or we may not be able to recognize you, your device or your online preferences.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Deletion:
+      - delete
+      Right_Know:
+      - access
+- segment_id: 28
+  segment_text: NFS also uses tools, such as Google Analytics, on certain websites
+    to help us analyze how you and other visitors use our website and to improve its
+    functionality. NFS does not provide any personal information about you to Google
+    Analytics and any information collected by Google is done anonymously without
+    identifying an individual user. We do not associate information collected by Google
+    Analytics with information you may have provided to us. For more information on
+    Google Analytics, including how to opt-out, click here.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 29
+  segment_text: Connecting with NFS on social media platforms
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 30
+  segment_text: NFS provides experiences on social media platforms that enable online
+    sharing and collaboration among users who have registered to use them. We may
+    collect information you provide by interacting with us via social media, such
+    as photographs, opinions, or social media account ID. Any content you post, such
+    as pictures, information, opinions, or any personal information that you make
+    available to other participants on these social platforms, is also subject to
+    the Terms of Use and Privacy Policies of those platforms. Please refer to them
+    to better understand your rights and obligations with regard to such content.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 31
+  segment_text: NFS mobile applications
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 32
+  segment_text: NFS mobile applications ("apps") allow you to access your accounts,
+    trade securities, move money, and access third-party news and research using wireless
+    or mobile devices. Our privacy practices apply to any personal information or
+    other information that we may collect through the apps.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+- segment_id: 33
+  segment_text: Protecting children's privacy online
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 34
+  segment_text: NFS websites are not directed to individuals under the age of thirteen
+    (13). NFS does not intentionally collect information on NFS websites from those
+    we know are under 13, and we request that these individuals do not provide personal
+    information through the sites.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - know
+- segment_id: 35
+  segment_text: Access to Your Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+- segment_id: 36
+  segment_text: You may access and, if necessary, correct your account information
+    through a variety of means offered by your broker-dealer and NFS (for example,
+    via online services). Please contact your broker-dealer for more information about
+    how you may correct your account information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+      Right_Rectification:
+      - correct
+- segment_id: 37
+  segment_text: This privacy policy is provided to customers of correspondent broker-dealers
+    on behalf of National Financial Services LLC.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 38
+  segment_text: If you are a shareholder in one or more of Fidelity funds, please
+    review the following policy. This privacy policy is reviewed annually. The printed
+    and online notice are then updated to reflect any changes.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - review
+      Right_Rectification:
+      - update
+- segment_id: 39
+  segment_text: The following statement only applies to you if you buy Fidelity Funds
+    through your broker-dealer.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 40
+  segment_text: Fidelity Funds Privacy Policy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 41
+  segment_text: 'Protecting your personal information is an important priority for
+    the Fidelity Funds. The Funds'' privacy policy is designed to support this objective.
+    The Funds collect non-public personal information concerning you in the following
+    ways:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Objection:
+      - object
+- segment_id: 42
+  segment_text: Information provided by you or your representative on applications
+    or other forms furnished to the Funds or through other interactions that you or
+    your representative have with the Funds
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 43
+  segment_text: Information arising from your investments in or accounts with the
+    Funds
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 44
+  segment_text: Information the Funds receive from a consumer reporting agency
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 45
+  segment_text: The Funds employ physical, electronic, and procedural controls to
+    safeguard your information. For example, the Funds authorize access to your personal
+    and account information only for personnel who need that information in order
+    to provide products or services to you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      Right_Know:
+      - access
+- segment_id: 46
+  segment_text: The Funds do not disclose any non-public personal information about
+    you, except as permitted by law. For example, the Funds have entered into a number
+    of arrangements with Fidelity Investments to provide for investment management,
+    distribution, and servicing of the Funds.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - disclose
+- segment_id: 47
+  segment_text: If you decide to close your account, the Funds will continue to adhere
+    to the privacy policies and practices as described in this notice.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 48
+  segment_text: Please read the Fidelity Funds Privacy Policy in conjunction with
+    the Privacy Policy for the Fidelity Investments companies of which you are also
+    a customer.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 49
+  segment_text: Additional Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 50
+  segment_text: If you are a former customer, your information is treated in the same
+    manner as the information of current customers.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 51
+  segment_text: Fidelity offers several options for accessing and, if necessary, correcting
+    your account information. You can review your information using your statements,
+    or through our automated telephone or Internet services. You may also write or
+    call us with your request for information. If we serve you through an investment
+    professional, please contact them directly. Specific Internet addresses, mailing
+    addresses, and telephone numbers are listed on your statements and other correspondence.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Access:
+      - access
+      - review
+      Right_Know:
+      - access
+      Right_Rectification:
+      - correct
+- segment_id: 52
+  segment_text: Privacy Policy Supplement - CCPA
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 53
+  segment_text: This Additional Information for California Residents ("Supplement")
+    supplements the National Financial Services LLC Privacy Policy. This Supplement
+    is provided for purposes related to the California Consumer Privacy Act of 2018,
+    as amended (the "CCPA"), and applies to the personal information and your relationship(s)
+    with NFS and other Fidelity companies that are subject to the CCPA. As used in
+    this Supplement, "personal information" means information that is considered to
+    be personal information as set forth in the CCPA and is not otherwise excluded
+    from the scope of the CCPA. The information herein pertains only to individuals
+    at the broker-dealer firms and other institutional firms whose personal information
+    may be collected by NFS.
+  sentence_annotations:
+    CCPA:
+      Right_Rectification:
+      - amend
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 54
+  segment_text: 'Depending on the Fidelity company with which you have a relationship
+    or otherwise interact, and on the nature of your relationship and interactions
+    with that Fidelity company, and on the products and services provided to you through
+    that relationship, some or all of the personal information that the Fidelity company
+    collects or maintains is covered by one or more of the exemptions described below
+    (see "CCPA Exemptions" below). As a result, in some cases, the applicable Fidelity
+    company may have no obligation under the CCPA to accept any CCPA requests, and
+    in other cases, it may have no obligation to honor a particular CCPA request,
+    because of the nature of the personal information that the Fidelity company collects
+    or maintains. Here are some examples:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 55
+  segment_text: If your relationship and interactions with NFS consists solely of
+    personal financial services (e.g. maintaining one or more personal brokerage accounts),
+    the personal information collected and processed about you is subject to the federal
+    Gramm-Leach-Bliley Act ("GLBA") and therefore your CCPA requests will not be honored
+    by NFS.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 56
+  segment_text: If you have an institutional relationship (e.g., you are a representative
+    of a registered investment advisor, broker-dealer, bank or trust) with NFS, information
+    collected about you in the context of that business relationship is not covered
+    by the CCPA and therefore NFS has no obligation to honor any CCPA requests submitted
+    by you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 57
+  segment_text: If your interaction with NFS is solely as a business customer of NFS,
+    personal information collected is not covered by the CCPA and therefore NFS will
+    not honor any CCPA requests submitted by you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 58
+  segment_text: Information regarding the CCPA
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 59
+  segment_text: The CCPA gives certain rights to California residents and imposes
+    certain obligations on those businesses that are subject to the CCPA. As required
+    by the CCPA, set forth below is a description of certain rights that California
+    residents generally have under the CCPA. As used below, a "consumer" means a resident
+    of the State of California and a "covered business" means a business that is subject
+    to the CCPA.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 60
+  segment_text: 'A consumer has the right to request that a covered business that
+    collects a consumer''s personal information disclose to that consumer the categories
+    and specific pieces of information the business has collected. A consumer also
+    has the right to request that a covered business that collects a consumer''s personal
+    information disclose to that consumer the following:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - disclose
+      Right_Portability:
+      - right to request
+- segment_id: 61
+  segment_text: the categories of personal information it has collected about that
+    consumer,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 62
+  segment_text: the categories of sources from which the personal information is collected,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 63
+  segment_text: the business or commercial purpose for collecting or selling (if applicable)
+    personal information,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 64
+  segment_text: the categories of third parties with whom the covered business shares
+    personal information, and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 65
+  segment_text: the specific pieces of personal information that the covered business
+    has collected about that consumer.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 66
+  segment_text: These disclosures are not required to include any information about
+    activity that occurred earlier than 12 months before the date the covered business
+    received the consumer's request.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 67
+  segment_text: A consumer has the right to request that a covered business delete
+    any personal information about the consumer that the business has collected from
+    the consumer. However, the covered business is not required to comply with such
+    a request if the covered business needs to maintain the consumer's personal information
+    for certain purposes set forth in the CCPA.
+  sentence_annotations:
+    CCPA:
+      Right_Deletion:
+      - delete
+      Right_Portability:
+      - right to request
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 68
+  segment_text: A consumer has the right to request that a covered business delete
+    any personal information about the consumer that the business has collected from
+    the consumer. However, the covered business is not required to comply with such
+    a request if the covered business needs to maintain the consumer's personal information
+    for certain purposes set forth in the CCPA.
+  sentence_annotations:
+    CCPA:
+      Right_Deletion:
+      - delete
+      Right_Portability:
+      - right to request
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 69
+  segment_text: categories of personal information that the covered business collected
+    about the consumer,
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 70
+  segment_text: the categories of personal information that the covered business sold
+    about the consumer and the category of third parties to whom the personal information
+    was sold, by category of personal information for each category of third party
+    to whom the personal information was sold, and
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 71
+  segment_text: the categories of personal information that the covered business disclosed
+    about the consumer for a business purpose.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Know:
+      - disclose
+- segment_id: 72
+  segment_text: A consumer has the right to direct that a covered business that sells
+    personal information about the consumer to third parties not sell the consumer's
+    personal information.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 73
+  segment_text: A covered business cannot discriminate against a consumer because
+    the consumer exercised any of the consumer's rights under the CCPA.
+  sentence_annotations:
+    CCPA:
+      Right_Nondiscrimination:
+      - discriminate
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 74
+  segment_text: As described in this section the requests that a consumer can make
+    to a covered business are referred to as "CCPA requests".
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 75
+  segment_text: 'CCPA Exemptions: Please note that certain types of personal information
+    collected or maintained by a covered business are exempt from the CCPA. For example,
+    a covered business has limited obligations, or in some cases no obligations, under
+    the CCPA with regard to the following types of personal information:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 76
+  segment_text: personal information collected, processed, sold, or disclosed pursuant
+    to the federal Gramm-Leach-Bliley Act, (Public Law 106-102), and implementing
+    regulations, or pursuant to the California Financial Information Privacy Act (Division
+    1.4 [commencing with Section 4050] of the California Financial Code)
+  sentence_annotations:
+    CCPA:
+      Right_Know:
+      - disclose
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 77
+  segment_text: medical information governed by the Confidentiality of Medical Information
+    Act (Part 2.6 [commencing with Section 56] of Division 1 of the California Civil
+    Code) or protected health information that is collected by a covered entity or
+    business associate governed by the privacy, security, and breach notification
+    rules issued by the United States Department of Health and Human Services, Parts
+    160 and 164 of Title 45 of the Code of Federal Regulations, established pursuant
+    to the Health Insurance Portability and Accountability Act of 1996 (Public Law
+    104-191) and the Health Information Technology for Economic and Clinical Health
+    Act (Public Law 111-5)
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 78
+  segment_text: personal information collected from a job applicant, employee, owner,
+    director, staff member, officer or contractor of a covered business when the information
+    is used by the covered business within the person's role as a job applicant, employee,
+    owner, director, staff member, officer or contractor of the covered business
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - contract
+- segment_id: 79
+  segment_text: personal information about an employee, owner, director, officer or
+    contractor of another business that is collected by the covered business in connection
+    with due diligence activities regarding the other business, or in connection with
+    the covered business providing a product or service to or receiving a product
+    or service from the other business
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - contract
+- segment_id: 80
+  segment_text: 'In addition, some businesses are not subject to the CCPA, such as:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 81
+  segment_text: a business that does not do business in the State of California
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 82
+  segment_text: a business that is not organized or operated for the profit or financial
+    benefit of its shareholders or other owners
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 83
+  segment_text: a business that does not determine the purposes and means of the processing
+    of consumers' personal information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 84
+  segment_text: a business that has annual gross revenue of $25,000,000 or less
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 85
+  segment_text: 'Furthermore, under the CCPA there are a number of situations where
+    a covered business may refuse to honor a CCPA request to delete a consumer''s
+    personal information and is allowed to continue to maintain the consumer''s personal
+    information. Some examples include situations where retention of the personal
+    information is necessary to:'
+  sentence_annotations:
+    CCPA:
+      Right_Deletion:
+      - delete
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 86
+  segment_text: complete the transaction for which the personal information was collected,
+    provide a good or service requested by the consumer, or reasonably anticipated
+    within the context of the covered business's ongoing business relationship with
+    the consumer, or otherwise perform a contract between the covered business and
+    the consumer
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - contract
+- segment_id: 87
+  segment_text: detect security incidents; protect against malicious, deceptive, fraudulent,
+    or illegal activity; or prosecute those responsible for that activity
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 88
+  segment_text: exercise free speech or another right provided for by law
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 89
+  segment_text: enable internal uses that are reasonably aligned with the expectations
+    of the consumer based on the consumer's relationship with the covered business
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 90
+  segment_text: comply with a legal obligation
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Lawful_Processing:
+      - legal obligation
+- segment_id: 91
+  segment_text: otherwise use the consumer's personal information, internally, in
+    a lawful manner that is compatible with the context in which the consumer provided
+    the information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 92
+  segment_text: Please note that the description of the CCPA set forth above is a
+    summary of only certain aspects of the CCPA and is not, and should not be considered
+    to be, a complete description of the CCPA. In addition to what is described above,
+    the CCPA includes other exemptions that apply to particular types of personal
+    information and particular businesses, as well as additional situations where
+    a covered business is not required to honor a consumer's request to delete the
+    consumer's personal information.
+  sentence_annotations:
+    CCPA:
+      Right_Deletion:
+      - delete
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 93
+  segment_text: Also, because we do not sell personal information, Fidelity companies
+    do not have any obligation under the CCPA to accept CCPA requests requesting that
+    the Fidelity company not sell a consumer's personal information.
+  sentence_annotations:
+    CCPA:
+      Sale_OptOut:
+      - do not sell
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 94
+  segment_text: Categories of personal information NFS may collect about you
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 95
+  segment_text: Personal identifiers, such as your name, address, email address and
+    other unique identifiers
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 96
+  segment_text: Information covered by California's records destruction law (California
+    Civil Code 1798.80), such as your signature and telephone number
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 97
+  segment_text: Characteristics of protected classifications under California or US
+    federal law, for example, gender
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 98
+  segment_text: Commercial information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 99
+  segment_text: Internet/Electronic network interactions
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 100
+  segment_text: Audio/Electronic/Visual data
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 101
+  segment_text: Professional or employment related information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 102
+  segment_text: Education Information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 103
+  segment_text: Inferences drawn from any of the information listed above to create
+    a profile about you, such as a profile that reflects your preferences and characteristics
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 104
+  segment_text: Categories of sources from which personal information is collected
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 105
+  segment_text: 'Please see the section above titled "How and why we obtain information"
+    for a description of some of the categories of sources from which we collect personal
+    information. In addition to the sources described in that section, depending on
+    the nature of your relationship and your interactions with us, and on the products
+    and services that we provide to you, we may obtain personal information from the
+    following sources:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 106
+  segment_text: you or your representative when interacting with us or any of our
+    digital offering and apps or when otherwise communicating with us
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 107
+  segment_text: publicly available information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 108
+  segment_text: third parties that provide products or services to you through your
+    relationship with us
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 109
+  segment_text: third parties that perform services for us or on our behalf
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 110
+  segment_text: Why NFS collects personal information
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 111
+  segment_text: Business and commercial purposes for which we collect personal information
+    are to provide you information about products and services that may interest you,
+    marketing and communication purposes, to protect against malicious, fraudulent,
+    or illegal activity; to adhere to applicable laws and regulations, and other internal
+    business purposes.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 112
+  segment_text: How NFS shares information about you with third parties
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 113
+  segment_text: NFS may share personal information about you with unaffiliated third
+    parties that provide products or services to you through your relationship with
+    NFS or your broker-dealer. NFS does not sell personal information about you and
+    has not done so at any time during the 12-month period preceding the effective
+    date of this Privacy Policy. As required by the CCPA, NFS hereby states that NFS
+    does not sell personal information of minors under 16 years of age.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 114
+  segment_text: If you wish to submit a CCPA request to NFS, you may initiate your
+    request through one of the options below. Before submitting your request, please
+    ensure you have reviewed the CCPA Exemptions above as well as the cases detailed
+    above where NFS may have no obligation under the CCPA to accept any requests.
+  sentence_annotations:
+    CCPA:
+      Right_Access:
+      - review
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 115
+  segment_text: Customers of a broker-dealer for which NFS provides services should
+    contact their broker-dealer for instructions on submitting a request.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 116
+  segment_text: NFS Correspondent clients can contact Fidelity Institutional at 877-262-5950
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 117
+  segment_text: Capital Markets clients can contact Fidelity Capital Markets at 800-280-6355
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 118
+  segment_text: Visit Additional Information for California Residents
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 119
+  segment_text: NFS received no CCPA requests for disclosure of personal information
+    (request to know) and no requests for deletion of personal information (request
+    to delete) between January 1, 2020 and December 31, 2020.F
+  sentence_annotations:
+    CCPA:
+      Right_Deletion:
+      - delete
+      - deletion
+      Right_Know:
+      - know
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 120
+  segment_text: For questions or concerns about NFS' Privacy Policy and privacy practices,
+    institutional clients should contact their NFS representative, and all others
+    can call 800-877-2410.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 121
+  segment_text: 'Last Updated: July 2021'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Rectification:
+      - update
+- segment_id: 122
+  segment_text: 2021 FMR LLC. All Rights Reserved.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 123
+  segment_text: 509051.38.0
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
