@@ -5,7 +5,7 @@ def main():
     # 'review' is used as a keyword for both access and portability
     # need to add CCPA rights
     dict_policies = {"GDPR" : ["european union", "eu", "e.u.", "europe", "gdpr", "general data protection regulation"], "CCPA" : ["california", "ccpa"]}
-    list_rights = [["Right_Deletion", ["delete", "deletion", "deleted", "erase", "erasure", "erased", "remove", "removed", "removal"]], 
+    list_rights = [["Right_Deletion", ["delete", "deletion", "deleted", "erase", "erasure", "erased", "remove", "removed", "removal"]],
     ["Right_Access", ["access", "review"]],
     ["Right_Rectification", ["rectify", "correct", "corrected", "correction", "rectification", "rectified", "update", "amend"]],
     ["Right_Restriction", ["restrict", "restriction", "stop"]],
@@ -42,7 +42,7 @@ def main():
     # Scan each segment for phrases that indicate compliance
     for i in range (0, len(texts)):
         annotationList.append(makeAnnotations(texts[i], dict_policies, list_rights))
-    
+
     #print(annotationList)
 
     # Add the annotations to the 'annotations' key in each segment's dictionary
@@ -80,7 +80,7 @@ def makeAnnotations(text, regulations, features):
                 # Make a list of all the keywords found in the segment
                 keywords.append(features[i][1][j])
 
-        if flagFound == True:        
+        if flagFound == True:
             # Add to GDPR dictionary if GDPR mention was found
             if flagGDPR == True:
                 if not features[i][0] in annotations["GDPR"].keys():

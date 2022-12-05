@@ -1,0 +1,562 @@
+- segment_id: 0
+  segment_text: PRIVACY POLICY
+  sentence_annotations: []
+- segment_id: 1
+  segment_text: 'Effective Date: June 1st, 2022'
+  sentence_annotations: []
+- segment_id: 2
+  segment_text: 'Thank you for playing our games! This Privacy Policy describes:'
+  sentence_annotations: []
+- segment_id: 3
+  segment_text: The ways we collect personal data about you and why we do so
+  sentence_annotations: []
+- segment_id: 4
+  segment_text: How we use your personal data, and
+  sentence_annotations: []
+- segment_id: 5
+  segment_text: The choices you have about your personal data.
+  sentence_annotations: []
+- segment_id: 6
+  segment_text: This Privacy Policy applies to Supercell's games, store, sites and
+    related services, which we here collectively call the Service. We may periodically
+    update this Privacy Policy by posting a new version on supercell.com. If we make
+    any material changes, we will notify you as required under applicable law, including
+    by posting a notice in the Service prior to the change becoming effective. Your
+    continued use of the Service after the effective date will be subject to the new
+    Privacy Policy.
+  sentence_annotations: []
+- segment_id: 7
+  segment_text: CONTACT US
+  sentence_annotations: []
+- segment_id: 8
+  segment_text: 'If you have questions about data protection, or if you have any requests
+    for resolving issues with your personal data, we encourage you to primarily contact
+    us through the support features within each Supercell game, so we can reply to
+    you more quickly. Alternatively, you may contact:'
+  sentence_annotations: []
+- segment_id: 9
+  segment_text: 'Name of the controller: Supercell Oy'
+  sentence_annotations: []
+- segment_id: 10
+  segment_text: 'Address: Jtksaarenlaituri 1, FI-00180 Helsinki, Finland'
+  sentence_annotations: []
+- segment_id: 11
+  segment_text: 'Attn: Privacy'
+  sentence_annotations: []
+- segment_id: 12
+  segment_text: 'email: legal-requests@supercell.com'
+  sentence_annotations: []
+- segment_id: 13
+  segment_text: THE DATA WE COLLECT
+  sentence_annotations: []
+- segment_id: 14
+  segment_text: The categories of personal data we collect depend on the Services
+    you use, and the requirements of applicable law.
+  sentence_annotations: []
+- segment_id: 15
+  segment_text: Data you provide us directly.
+  sentence_annotations: []
+- segment_id: 16
+  segment_text: Contact information (such as name and email address or phone numbers)
+  sentence_annotations: []
+- segment_id: 17
+  segment_text: Player name or tag and password
+  sentence_annotations: []
+- segment_id: 18
+  segment_text: Profile information (such as profile photo)
+  sentence_annotations: []
+- segment_id: 19
+  segment_text: Your messages and other content you submit when you use the Service
+    (such as chat logs and player support tickets)
+  sentence_annotations: []
+- segment_id: 20
+  segment_text: Data you provide in connection with surveys, promotions, sweepstakes,
+    competitions and other events
+  sentence_annotations: []
+- segment_id: 21
+  segment_text: Other data you choose to give us (such as when you participate in
+    (Supercell Creators or Supercell Make)
+  sentence_annotations: []
+- segment_id: 22
+  segment_text: Our payment service providers will collect your payment details in
+    connection with any purchases you make through the Supercell Store
+  sentence_annotations: []
+- segment_id: 23
+  segment_text: Data we collect automatically.
+  sentence_annotations: []
+- segment_id: 24
+  segment_text: Data about your account and game progress, including in most cases
+    an automatically created internal account ID
+  sentence_annotations: []
+- segment_id: 25
+  segment_text: Your IP address and mobile device identifiers (such as your device
+    or advertising ID)
+  sentence_annotations: []
+- segment_id: 26
+  segment_text: Data about your device, such as device name and operating system,
+    browser type and language, internet service provider, and mobile carrier
+  sentence_annotations: []
+- segment_id: 27
+  segment_text: Data we collect with cookies and similar technologies (see more below)
+  sentence_annotations: []
+- segment_id: 28
+  segment_text: Approximate location data (as derived from IP address)
+  sentence_annotations: []
+- segment_id: 29
+  segment_text: Data about your use of the Service, such as gameplay data, purchases
+    made and your interactions with other players inside the Service
+  sentence_annotations: []
+- segment_id: 30
+  segment_text: You also have the option to create a Supercell ID using your email
+    address or other contact information.
+  sentence_annotations: []
+- segment_id: 31
+  segment_text: Data we collect from our partners.
+  sentence_annotations: []
+- segment_id: 32
+  segment_text: 'We also use third-party partners, such as social networking sites,
+    data analytics providers and advertising networks to supplement information we
+    have about you, such as:'
+  sentence_annotations: []
+- segment_id: 33
+  segment_text: Data we receive if you link a third-party tool with the Service (such
+    as LINE, Facebook, WeChat or Kakao)
+  sentence_annotations: []
+- segment_id: 34
+  segment_text: Demographic data (such as to determine the coarse location of your
+    IP address)
+  sentence_annotations: []
+- segment_id: 35
+  segment_text: Data to fight fraud (such as refund abuse in games or click fraud
+    in advertising)
+  sentence_annotations: []
+- segment_id: 36
+  segment_text: Data from platforms that the games run on or data from payment service
+    providers (such as payment verification data)
+  sentence_annotations: []
+- segment_id: 37
+  segment_text: Data for advertising and analytics purposes (such as surveys), so
+    we can provide you a better Service
+  sentence_annotations: []
+- segment_id: 38
+  segment_text: Data that you have made available to us from a third party service
+    (such as LINE, Facebook, WeChat or Kakao) via your privacy settings
+  sentence_annotations: []
+- segment_id: 39
+  segment_text: WHY DO WE COLLECT YOUR DATA
+  sentence_annotations: []
+- segment_id: 40
+  segment_text: 'We use your data for a variety of business purposes, such as:'
+  sentence_annotations: []
+- segment_id: 41
+  segment_text: To make the Service work.
+  sentence_annotations: []
+- segment_id: 42
+  segment_text: To perform the contract, we process data necessary to
+  sentence_annotations: []
+- segment_id: 43
+  segment_text: Create accounts and allow you to play our games and use our Service
+  sentence_annotations: []
+- segment_id: 44
+  segment_text: Operate the Service
+  sentence_annotations: []
+- segment_id: 45
+  segment_text: Verify and confirm payments
+  sentence_annotations: []
+- segment_id: 46
+  segment_text: Provide and deliver products and services you request
+  sentence_annotations: []
+- segment_id: 47
+  segment_text: Send you Service-related communications
+  sentence_annotations: []
+- segment_id: 48
+  segment_text: To make the Service more suitable for our players.
+  sentence_annotations: []
+- segment_id: 49
+  segment_text: To provide a great Service to our players, we have a legitimate interest
+    to collect and process necessary data to
+  sentence_annotations: []
+- segment_id: 50
+  segment_text: Update and develop player profiles
+  sentence_annotations: []
+- segment_id: 51
+  segment_text: Develop and improve the Service and player experience
+  sentence_annotations: []
+- segment_id: 52
+  segment_text: Manage our relationship with you
+  sentence_annotations: []
+- segment_id: 53
+  segment_text: Provide social features as part of the Service
+  sentence_annotations: []
+- segment_id: 54
+  segment_text: Customize your Service experience
+  sentence_annotations: []
+- segment_id: 55
+  segment_text: Respond to your comments and questions and provide player support
+  sentence_annotations: []
+- segment_id: 56
+  segment_text: Provide you Supercell offers in the Service as well as in other websites
+    and services (including by email)
+  sentence_annotations: []
+- segment_id: 57
+  segment_text: Send you related information, such as updates, security alerts, and
+    support messages
+  sentence_annotations: []
+- segment_id: 58
+  segment_text: Enable you to communicate with other players
+  sentence_annotations: []
+- segment_id: 59
+  segment_text: To show personalized advertisements.
+  sentence_annotations: []
+- segment_id: 60
+  segment_text: To show you personalized advertisements in the Service and elsewhere
+    (including email) we have a legitimate interest to process necessary data to
+  sentence_annotations: []
+- segment_id: 61
+  segment_text: Track the content you access in connection with the Service and your
+    online behavior
+  sentence_annotations: []
+- segment_id: 62
+  segment_text: Deliver, target and improve our advertising and the Service
+  sentence_annotations: []
+- segment_id: 63
+  segment_text: For information on how to opt-out from personalized advertisements,
+    see section 'Your Rights and Options' below.
+  sentence_annotations: []
+- segment_id: 64
+  segment_text: To keep the Service safe and fair.
+  sentence_annotations: []
+- segment_id: 65
+  segment_text: Ensuring a level playing field in the Service is a top priority for
+    us. For more information on our acceptable use policy; Supercell Terms of Service.
+  sentence_annotations: []
+- segment_id: 66
+  segment_text: In order to keep the Service and its social features safe and fair,
+    to fight fraud and ensure acceptable use otherwise, we have a legitimate interest
+    to process necessary data to
+  sentence_annotations: []
+- segment_id: 67
+  segment_text: Analyze and monitor use of the Service and its social features
+  sentence_annotations: []
+- segment_id: 68
+  segment_text: Moderate chats either automatically or manually
+  sentence_annotations: []
+- segment_id: 69
+  segment_text: Take action against fraudulent or misbehaving players
+  sentence_annotations: []
+- segment_id: 70
+  segment_text: To analyze, profile, and segment.
+  sentence_annotations: []
+- segment_id: 71
+  segment_text: In all of the above cases and purposes, we may analyze, profile and
+    segment all collected data.
+  sentence_annotations: []
+- segment_id: 72
+  segment_text: With your consent.
+  sentence_annotations: []
+- segment_id: 73
+  segment_text: With your consent, we may process your data for additional purposes.
+  sentence_annotations: []
+- segment_id: 74
+  segment_text: We may also collect and use your device identifiers to display and
+    personalize in-game ads as explained below. Where applicable, we may collect your
+    advertising identifier, IP address and device ID for these purposes. Under applicable
+    privacy laws, including the General Data Protection Regulation (GDPR), we are
+    required to ask your consent to do so.
+  sentence_annotations: []
+- segment_id: 75
+  segment_text: This data is shared with your consent so that our ad partners can
+    deliver the right ad and optimize the ad content to make sure you dont see the
+    same ad multiple times. We share your device identifiers with selected partners
+    for such ad delivery and personalization.
+  sentence_annotations: []
+- segment_id: 76
+  segment_text: The partners operate the ad network and mediation platform, as well
+    as facilitate and participate in ad inventory bidding. The partners may also use
+    the device identifiers for fraud detection purposes based on their legitimate
+    interest. For more information, please check the partners privacy policies.
+  sentence_annotations: []
+- segment_id: 77
+  segment_text: 'ironSource Privacy Policy: https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/#step-1'
+  sentence_annotations: []
+- segment_id: 78
+  segment_text: 'Vungle Privacy Policy: https://vungle.com/privacy/'
+  sentence_annotations: []
+- segment_id: 79
+  segment_text: 'Google Privacy Policy: https://policies.google.com/privacy'
+  sentence_annotations: []
+- segment_id: 80
+  segment_text: WHO CAN SEE YOUR DATA
+  sentence_annotations: []
+- segment_id: 81
+  segment_text: 'Apart from Supercell, your data can be accessed by others in the
+    following situations:'
+  sentence_annotations: []
+- segment_id: 82
+  segment_text: Other players and users.
+  sentence_annotations: []
+- segment_id: 83
+  segment_text: Social features are a core component of our games. Other players and
+    users may, for example, see your profile data, in-game activities and read the
+    messages you have posted.
+  sentence_annotations: []
+- segment_id: 84
+  segment_text: Our service providers.
+  sentence_annotations: []
+- segment_id: 85
+  segment_text: Supercell has vendors who help us to provide the Service. These vendors
+    process your data only at and according to Supercells instructions to provide
+    the Service, and perform tasks such as hosting, player support, advertising, analytics
+    and fraud prevention.
+  sentence_annotations: []
+- segment_id: 86
+  segment_text: Other companies and public authorities.
+  sentence_annotations: []
+- segment_id: 87
+  segment_text: In order to verify payments (with payment providers such as Paypal)
+    and combat fraud and illegal activity, we may process and disclose data with other
+    companies and organizations and provide it to public authorities in response to
+    lawful requests.
+  sentence_annotations: []
+- segment_id: 88
+  segment_text: We may also disclose your data based on your consent, to comply with
+    the law or to protect the rights, property or safety of us, our players or others.
+  sentence_annotations: []
+- segment_id: 89
+  segment_text: Advertising and Social Media partners.
+  sentence_annotations: []
+- segment_id: 90
+  segment_text: The Service includes features from our partners, such as social media
+    interaction tools, functionalities through application programming interfaces
+    (APIs) or software development kits (SDKs) and in-game advertising. A list of
+    these partners is available at supercell.com/en/partner-opt-out. These partners
+    may access your data and operate under their own privacy policies. We encourage
+    you to check their privacy policies to learn more about their data processing
+    practices.
+  sentence_annotations: []
+- segment_id: 91
+  segment_text: These partners may access data regarding your activities and your
+    device (such as your IP address, mobile identifiers, page(s) visited, location,
+    time of day). We may also combine and share data we have collected about you with
+    third-party advertising partners. These advertising partners may use this data
+    (and similar data collected from other services) for purposes of delivering targeted
+    advertisements to you when you visit third-party services within their networks.
+    These partners may operate under their own privacy policies. This practice is
+    commonly referred to as interest-based advertising or online behavioral advertising.
+    If you prefer not to share your personal data with third-party advertising partners,
+    you may follow the instructions in Your Rights and Options below.
+  sentence_annotations: []
+- segment_id: 92
+  segment_text: INTERNATIONAL DATA TRANSFERS
+  sentence_annotations: []
+- segment_id: 93
+  segment_text: Our Service is global by nature and your data can therefore be transferred
+    to anywhere in the world. Because different countries may have different data
+    protection laws than your own country, we take steps to ensure adequate safeguards
+    are in place to protect your data as explained in this Privacy Policy. Adequate
+    safeguards that we may use include standard contractual clauses approved by EU
+    Commission and other lawful safeguards.
+  sentence_annotations: []
+- segment_id: 94
+  segment_text: YOUR RIGHTS AND OPTIONS
+  sentence_annotations: []
+- segment_id: 95
+  segment_text: Opt out of marketing emails and other direct marketing.
+  sentence_annotations: []
+- segment_id: 96
+  segment_text: You may opt out of receiving promotional communications, such as marketing
+    emails from us by following the instructions in such communications, or by changing
+    your in-game settings. The updated settings may not be effective immediately.
+    Note that you may still continue to receive non-promotional communications from
+    us, such as communications regarding the Service or updates to our Supercell Terms
+    of Service or this Privacy Policy.
+  sentence_annotations: []
+- segment_id: 97
+  segment_text: Push Notifications
+  sentence_annotations: []
+- segment_id: 98
+  segment_text: We may send you push notifications through our mobile applications.
+    You may at any time opt-out from receiving these types of communications by changing
+    the settings on your mobile device.
+  sentence_annotations: []
+- segment_id: 99
+  segment_text: Opt-out of targeted advertising.
+  sentence_annotations: []
+- segment_id: 100
+  segment_text: 'You can opt-out of interest-based advertising on mobile applications
+    by checking the privacy settings of your Android or iOS device and turning off
+    Allow Apps to Request to Track or selecting "Limit Ad Tracking" (Apple iOS) or
+    "Opt-out of Interest Based Ads" (Android). For more information, see also: supercell.com/en/partner-opt-out.'
+  sentence_annotations: []
+- segment_id: 101
+  segment_text: You can also opt out from personalized in-game offers through the
+    options provided in the game settings (where applicable).
+  sentence_annotations: []
+- segment_id: 102
+  segment_text: Access the personal data we hold about you.
+  sentence_annotations: []
+- segment_id: 103
+  segment_text: If you request, we will provide you a copy of your personal data in
+    an electronic format.
+  sentence_annotations: []
+- segment_id: 104
+  segment_text: Your other rights.
+  sentence_annotations: []
+- segment_id: 105
+  segment_text: You also have the right to correct your data, have your data deleted,
+    object how we use or share your data, and restrict how we use or share your data.
+    You can always withdraw your consent.
+  sentence_annotations: []
+- segment_id: 106
+  segment_text: We will respond to all requests within a reasonable timeframe. If
+    you have an unresolved privacy or data use concern that we have not addressed
+    satisfactorily, you may also contact your local data protection authority within
+    the European Economic Area, Switzerland or UK for unresolved complaints.
+  sentence_annotations: []
+- segment_id: 107
+  segment_text: If you wish to exercise any of your data subject rights described
+    above, please use the support options described in Contact Us above. We will respond
+    to all requests in accordance with applicable laws. To protect your privacy, we
+    may also take additional steps to verify your identity before fulfilling your
+    request, such as by requesting you provide us a purchase receipt or other account
+    information, asking you to link your email address with your game account (for
+    example through Supercell ID), or asking you to answer questions regarding your
+    activities on our Services. Once you have verified your identity, you may also
+    designate an authorized agent to exercise your rights on your behalf by providing
+    the agents contact information to our customer support staff, as required by applicable
+    law.
+  sentence_annotations: []
+- segment_id: 108
+  segment_text: You have the right not to receive discriminatory treatment as a result
+    of your exercise of these rights.
+  sentence_annotations: []
+- segment_id: 109
+  segment_text: COOKIES AND SIMILAR TECHNOLOGIES
+  sentence_annotations: []
+- segment_id: 110
+  segment_text: Like most online services, we and our partners use cookies and similar
+    technologies to provide and personalize the Service, analyse use, target advertisements
+    and prevent fraud. Cookies and similar technologies allow us and our partners
+    to store their preferences and track your activities within the Service. Note
+    that our partners may operate under their own privacy policies.
+  sentence_annotations: []
+- segment_id: 111
+  segment_text: We and our partners collect and store information about users' interactions
+    with unaffiliated websites and applications that use our technologies, including
+    cookies and similar tracking technologies. This allows us to infer the presence
+    of a common user or household behind multiple devices or browsers, for instance,
+    and then link those browsers and devices into a device graph. We do so in order
+    to
+  sentence_annotations: []
+- segment_id: 112
+  segment_text: detect and prevent fraud;
+  sentence_annotations: []
+- segment_id: 113
+  segment_text: allow users to use the Service on one device and pick up seamlessly
+    where they left off on another device;
+  sentence_annotations: []
+- segment_id: 114
+  segment_text: analytics, personalization and attribution;
+  sentence_annotations: []
+- segment_id: 115
+  segment_text: limit the number of times a user is shown the same advertisement,
+    across all known or inferred devices; and/or
+  sentence_annotations: []
+- segment_id: 116
+  segment_text: provide personalized advertising on each device that is inferred from
+    the browsing patterns on all of the devices.
+  sentence_annotations: []
+- segment_id: 117
+  segment_text: For more information (including how to opt out), please visit supercell.com/en/partner-opt-out.
+    You can disable cookies in your browser settings, but some parts of the Service
+    may then not function properly.
+  sentence_annotations: []
+- segment_id: 118
+  segment_text: HOW DO WE PROTECT YOUR DATA
+  sentence_annotations: []
+- segment_id: 119
+  segment_text: Security Safeguards.
+  sentence_annotations: []
+- segment_id: 120
+  segment_text: In order to help ensure a secure and safe player experience, we are
+    continuously developing and implementing administrative, technical and physical
+    security measures to protect your data from unauthorized access or against loss,
+    misuse or alteration.
+  sentence_annotations: []
+- segment_id: 121
+  segment_text: Data retention.
+  sentence_annotations: []
+- segment_id: 122
+  segment_text: We retain your data for as long as your account is active or as needed
+    to provide you the Service. We may for example periodically de-identify unused
+    game accounts, and we may regularly review and de-identify unnecessary data.
+  sentence_annotations: []
+- segment_id: 123
+  segment_text: Note that if you ask us to remove your personal data, we will retain
+    your data as necessary for our legitimate business interests, such as to comply
+    with our legal obligations, resolve disputes, and enforce our agreements.
+  sentence_annotations: []
+- segment_id: 124
+  segment_text: CHILDREN
+  sentence_annotations: []
+- segment_id: 125
+  segment_text: Protecting childrens privacy online is very important to us. Generally,
+    our Services are not directed to children under 13 (or other age as required by
+    local law), and the Services do not knowingly collect personal data from children,
+    except as described in the following paragraph.
+  sentence_annotations: []
+- segment_id: 126
+  segment_text: For games that are not directed at children but nonetheless may appeal
+    to them, we take additional steps to limit access to these Services based on the
+    players age. For these Services, when a player indicates they are under 13 (or
+    the applicable age in their territory), we will limit their access to certain
+    features, such as social media and chat features, as well as certain types of
+    notification alerts. We also limit the processing of personal data to only what
+    is necessary to support the internal operations of our Services.
+  sentence_annotations: []
+- segment_id: 127
+  segment_text: Please note that for some of our Services we may use a higher age
+    limit (such as 16) than described in the above two paragraphs. We do this to provide
+    a safe game experience for our players and to protect Young Players.
+  sentence_annotations: []
+- segment_id: 128
+  segment_text: If you are a parent or guardian and wish to review personal data collected
+    from your child, or have that information modified or deleted, you may contact
+    us as described above. If we become aware that a child has provided us with personal
+    data contrary to the above, we will delete any personal data we have collected,
+    unless we have a legal obligation to keep it, and terminate the childs account
+    and/or revert them to the underage experience, as applicable.
+  sentence_annotations: []
+- segment_id: 129
+  segment_text: FOR CALIFORNIA RESIDENTS
+  sentence_annotations: []
+- segment_id: 130
+  segment_text: Please visit supercell.com/en/disclosure-california-residents for
+    special disclosures pertaining to California residents.
+  sentence_annotations: []
+- segment_id: 131
+  segment_text: FOR TURKISH RESIDENTS
+  sentence_annotations: []
+- segment_id: 132
+  segment_text: Please visit supercell.com/en/disclosure-turkish-residents for special
+    disclosures pertaining to residents in Turkey.
+  sentence_annotations: []
+- segment_id: 133
+  segment_text: FOR SOUTH KOREAN RESIDENTS
+  sentence_annotations: []
+- segment_id: 134
+  segment_text: Please visit supercell.com/en/disclosure-korea-residents for special
+    disclosures pertaining to residents in South Korea.
+  sentence_annotations: []
+- segment_id: 135
+  segment_text: old versions of the privacy policy
+  sentence_annotations: []
+- segment_id: 136
+  segment_text: November 14, 2021
+  sentence_annotations: []
+- segment_id: 137
+  segment_text: April 14, 2021
+  sentence_annotations: []
+- segment_id: 138
+  segment_text: October 18, 2020
+  sentence_annotations: []
