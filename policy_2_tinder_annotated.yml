@@ -1,3 +1,20 @@
+- compliance_report:
+    CCPA Compliance Rate: 50.0
+    CCPA Rights Instances:
+      Right_Deletion: 5
+      Right_Know: 9
+      Right_Nondiscrimination: 0
+      Sale_OptOut: 0
+    GDPR Compliance Rate: 100.0
+    GDPR Rights Instances:
+      DPO_Mentioned: 4
+      Lawful_Processing: 17
+      Right_Access: 11
+      Right_Deletion: 5
+      Right_Objection: 2
+      Right_Portability: 1
+      Right_Rectification: 2
+      Right_Restriction: 5
 - segment_id: 0
   segment_text: Privacy Policy
   sentence_annotations:

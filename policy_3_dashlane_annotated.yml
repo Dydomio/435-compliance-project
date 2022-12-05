@@ -1,3 +1,20 @@
+- compliance_report:
+    CCPA Compliance Rate: 100.0
+    CCPA Rights Instances:
+      Right_Deletion: 12
+      Right_Know: 22
+      Right_Nondiscrimination: 1
+      Sale_OptOut: 2
+    GDPR Compliance Rate: 87.5
+    GDPR Rights Instances:
+      DPO_Mentioned: 1
+      Lawful_Processing: 6
+      Right_Access: 21
+      Right_Deletion: 12
+      Right_Objection: 0
+      Right_Portability: 1
+      Right_Rectification: 5
+      Right_Restriction: 2
 - segment_id: 0
   segment_text: Dashlane Privacy Policy
   sentence_annotations:
@@ -13,13 +30,17 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Know:
+      - know
 - segment_id: 2
   segment_text: 'LAST UPDATED:'
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Rectification:
+      - update
 - segment_id: 3
   segment_text: 1. INTRODUCTION
   sentence_annotations:
@@ -47,8 +68,14 @@
     CCPA:
       Right_Access: &id001
       - access
+      Right_Deletion: &id002
+      - remove
+      Right_Know: &id003
+      - access
     GDPR:
       Right_Access: *id001
+      Right_Deletion: *id002
+      Right_Know: *id003
     Unspecified: {}
 - segment_id: 6
   segment_text: a. General. This Privacy Policy (the Policy) describes how Dashlane,
@@ -73,10 +100,13 @@
     applies equally to all users of our Services.
   sentence_annotations:
     CCPA:
-      Right_Access: &id002
+      Right_Access: &id004
+      - access
+      Right_Know: &id005
       - access
     GDPR:
-      Right_Access: *id002
+      Right_Access: *id004
+      Right_Know: *id005
     Unspecified: {}
 - segment_id: 8
   segment_text: c. Changes. We may change this Policy at any time. When we do so,
@@ -85,7 +115,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Rectification:
+      - update
 - segment_id: 9
   segment_text: d. Children. The Services are not directed to children. However, children
     who are invited to use the Services as members of a Family Plan may do so. If
@@ -96,7 +128,11 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Lawful_Processing:
+      - consent
+      Right_Deletion:
+      - remove
 - segment_id: 10
   segment_text: e. Personal and Anonymous Data. As used in this Policy, Personal Data
     means information that, either alone or when combined with other information we
@@ -120,7 +156,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Lawful_Processing:
+      - consent
 - segment_id: 12
   segment_text: 2. Particularly Important Information (CertaIn jurisdictions)
   sentence_annotations:
@@ -151,7 +189,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Access:
+      - review
 - segment_id: 16
   segment_text: b. (CALIFORNIA AND NEVADA USERS).
   sentence_annotations:
@@ -171,7 +211,10 @@
     Cookies (as defined in our Cookie Policy) and opting out of the sale of your Personal
     Data will turn these cookies off.
   sentence_annotations:
-    CCPA: {}
+    CCPA:
+      Sale_OptOut:
+      - do not sell my personal information
+      - do not sell
     GDPR: {}
     Unspecified: {}
 - segment_id: 18
@@ -203,6 +246,9 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
+      - know
       - access
 - segment_id: 21
   segment_text: 'We collect information in the following ways:'
@@ -239,6 +285,8 @@
       - access
       Right_Deletion:
       - delete
+      Right_Know:
+      - access
 - segment_id: 24
   segment_text: Billing Data. We use third-party service providers to process payments
     made through the Site. We may store partial payment information (such as the expiration
@@ -257,6 +305,8 @@
       - access
       Right_Deletion:
       - delete
+      Right_Know:
+      - access
 - segment_id: 25
   segment_text: Master Password. Except for members of Dashlane Business Accounts
     that use single sign-on (SSO) to access the Services, each user must create a
@@ -276,6 +326,9 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - know
+      - access
 - segment_id: 26
   segment_text: Secured Data. Our Apps let you manage digital identity data, including
     sensitive information such as credit card numbers and site or application credentials.
@@ -290,6 +343,8 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
       - access
 - segment_id: 27
   segment_text: Support and Correspondence. You may provide Personal Data in connection
@@ -311,7 +366,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Access:
+      - review
 - segment_id: 29
   segment_text: Requests for Product Information. Certain information intended to
     inform potential customers of Dashlanes commercial offerings (Business Prospects)
@@ -326,7 +383,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Know:
+      - disclose
 - segment_id: 31
   segment_text: b. Data You Provide About Others. The Services let you invite others
     to try the Apps. If you do this (or are invited this way), Dashlane will store
@@ -342,6 +401,9 @@
       Right_Deletion:
       - delete
       - deleted
+      - removal
+      Right_Know:
+      - know
 - segment_id: 32
   segment_text: c. Data Collected by Technology.
   sentence_annotations:
@@ -366,6 +428,8 @@
       - access
       Right_Deletion:
       - delete
+      Right_Know:
+      - access
       Right_Rectification:
       - correct
 - segment_id: 34
@@ -394,6 +458,8 @@
       Right_Deletion:
       - delete
       - deleted
+      Right_Know:
+      - know
 - segment_id: 36
   segment_text: o Behavioral Data is information about what users do outside of the
     Services (e.g., sites where autofill is used to sign in; what sites or apps a
@@ -415,6 +481,8 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
       - access
 - segment_id: 38
   segment_text: Aggregated Data. We derive additional information about the use of
@@ -458,7 +526,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Access:
+      - review
 - segment_id: 43
   segment_text: 4. How Does Dashlane Use Your Personal Data?
   sentence_annotations:
@@ -527,6 +597,8 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
       - access
 - segment_id: 53
   segment_text: Provide personalized information by identifying whether you have used
@@ -597,8 +669,13 @@
   sentence_annotations:
     CCPA: {}
     GDPR:
+      Lawful_Processing:
+      - contract
       Right_Access:
       - access
+      Right_Know:
+      - access
+      - disclose
     Unspecified: {}
 - segment_id: 61
   segment_text: 'Dashlane will never sell your Personal Data (as sell is normally
@@ -619,6 +696,8 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - access
 - segment_id: 63
   segment_text: Service Providers. We share Personal Data with service providers solely
     as required to provide the Services, including to create Accounts, provide support,
@@ -635,6 +714,10 @@
     Unspecified:
       Right_Access:
       - access
+      - review
+      Right_Know:
+      - access
+      - disclose
 - segment_id: 64
   segment_text: Marketing. We provide hashed emails and/or device IDs to service providers
     to optimize our advertising efforts (e.g., ensuring that current users are not
@@ -677,6 +760,8 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - access
 - segment_id: 67
   segment_text: Corporate Restructuring. If Dashlane or its business or assets are
     acquired by, or merged into, another company, that company will possess any Personal
@@ -702,7 +787,12 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Lawful_Processing:
+      - consent
+      Right_Know:
+      - know
+      - disclose
 - segment_id: 69
   segment_text: 6. Data Security and International Transfer
   sentence_annotations:
@@ -725,7 +815,9 @@
     to protect Personal Data when processed in the U.S.
   sentence_annotations:
     CCPA: {}
-    GDPR: {}
+    GDPR:
+      Right_Rectification:
+      - update
     Unspecified: {}
 - segment_id: 72
   segment_text: a. We use robust physical, organizational, technical, and administrative
@@ -779,6 +871,7 @@
     Unspecified:
       Right_Deletion:
       - delete
+      - remove
 - segment_id: 77
   segment_text: a. Changing Your Information and Privacy Settings. You can access
     and modify Personal Data associated with your Account, and modify your privacy
@@ -789,6 +882,8 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
       - access
 - segment_id: 78
   segment_text: b. Email Communications. With your consent, we will periodically send
@@ -802,7 +897,11 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Lawful_Processing:
+      - consent
+      Right_Deletion:
+      - removal
 - segment_id: 79
   segment_text: c. Applications. You can stop all collection of information by an
     App by uninstalling that App. You may use the standard uninstall process for the
@@ -841,10 +940,13 @@
     rights even if they do not technically apply to you.
   sentence_annotations:
     CCPA:
-      Right_Access: &id003
+      Right_Access: &id006
+      - access
+      Right_Know: &id007
       - access
     GDPR:
-      Right_Access: *id003
+      Right_Access: *id006
+      Right_Know: *id007
     Unspecified: {}
 - segment_id: 83
   segment_text: 'a. You have the following rights with respect to your Personal Data
@@ -861,7 +963,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Lawful_Processing:
+      - consent
 - segment_id: 85
   segment_text: 'Access / Request Information: You may access the Personal Data we
     hold about you at any time via your Account or by contacting us directly.'
@@ -870,6 +974,8 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
       - access
 - segment_id: 86
   segment_text: 'Modification: You may modify incorrect or outdated Personal Data
@@ -903,6 +1009,7 @@
     Unspecified:
       Right_Portability:
       - request a copy
+      - a copy
 - segment_id: 89
   segment_text: 'No Sale of Personal Data (California and Nevada Users): Go to the
     Do Not Sell My Personal Information page to stop all sale of your Personal Data.
@@ -912,6 +1019,9 @@
     CCPA:
       Right_Restriction:
       - stop
+      Sale_OptOut:
+      - do not sell my personal information
+      - do not sell
     GDPR: {}
     Unspecified: {}
 - segment_id: 90
@@ -929,10 +1039,13 @@
     transactions that you began prior to requesting certain requests.'
   sentence_annotations:
     CCPA:
-      Right_Access: &id004
+      Right_Access: &id008
+      - access
+      Right_Know: &id009
       - access
     GDPR:
-      Right_Access: *id004
+      Right_Access: *id008
+      Right_Know: *id009
     Unspecified: {}
 - segment_id: 91
   segment_text: c. We do not and will not discriminate against any user (such as by
@@ -941,7 +1054,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Nondiscrimination:
+      - discriminate
 - segment_id: 92
   segment_text: 9. Contact Information; Complaints
   sentence_annotations:

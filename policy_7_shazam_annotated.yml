@@ -1,0 +1,211 @@
+- compliance_report:
+    CCPA Compliance Rate: 25.0
+    CCPA Rights Instances:
+      Right_Deletion: 3
+      Right_Know: 0
+      Right_Nondiscrimination: 0
+      Sale_OptOut: 0
+    GDPR Compliance Rate: 12.5
+    GDPR Rights Instances:
+      DPO_Mentioned: 0
+      Lawful_Processing: 0
+      Right_Access: 0
+      Right_Deletion: 3
+      Right_Objection: 0
+      Right_Portability: 0
+      Right_Rectification: 0
+      Right_Restriction: 0
+- segment_id: 0
+  segment_text: Shazam & Privacy
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 1
+  segment_text: Shazam is designed to protect your information and enable you to choose
+    what you share.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 2
+  segment_text: We built this page to answer the questions you may have regarding
+    your Shazam dataand show you how to easily manage your data.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 3
+  segment_text: What data do we collect and how do we use it?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 4
+  segment_text: Shazam collects information about you when you interact with our sites
+    or apps. Whether your Shazam data is associated with you depends on whether you
+    use Shazam with an account. If you use Shazam with an account, your Shazam data
+    will be associated with your account credentials (for example, your email address
+    or Apple ID). If you use Shazam without an account, your Shazam data will only
+    be associated with a Shazam ID which is non-personally identifying.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 5
+  segment_text: 'Shazam collects the following:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 6
+  segment_text: Information you provide us when you register for an account, including
+    your email address.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 7
+  segment_text: If you create a Shazam account using a third-party service, we may
+    receive some information about you from that network (for example, your Google
+    ID).
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 8
+  segment_text: Information about the songs you identify using Shazam, to display
+    the list of your discoveries and to provide you with recommended music in various
+    pages within the Shazam app.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 9
+  segment_text: Information about your activity in Shazam to improve the app, such
+    as the pages you view and buttons you select, device information such as make
+    and model, operating system version, and IP address. We may also use this information
+    to detect fraud or misuse of the service and may approximate your location to
+    offer Shazam charts of trending songs.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 10
+  segment_text: You may choose to provide Shazam with permission to collect your location
+    while you are using the app. We use location data to show you where your songs
+    are Shazamed and improve the quality of the service.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 11
+  segment_text: If you turn on Notifications for Shazam, we may send you push notifications
+    that are personalized based on your Shazam activity.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 12
+  segment_text: For more detailed information on what information we collect and how
+    it is collected, please visit Shazam Terms and Conditions.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 13
+  segment_text: Who do we share your data with?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 14
+  segment_text: We share de-identified, aggregate information with our partners, including
+    the songs identified using Shazam and the city and country of each Shazam.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 15
+  segment_text: 'We may also share your information:'
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 16
+  segment_text: With service providers who perform services and functions on our behalf
+    to help deliver the services and communicate with you.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 17
+  segment_text: In order to comply with laws or valid legal requests for information
+    such as a subpoena or search warrant.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 18
+  segment_text: For more detailed information on when and how we share your information,
+    please visit Shazam Terms and Conditions.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 19
+  segment_text: Managing your data
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 20
+  segment_text: If you have a Shazam account, you can request to download your Shazam
+    data, or request that your account and associated data are deleted.
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - delete
+      - deleted
+- segment_id: 21
+  segment_text: Learn about your data categories
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 22
+  segment_text: DOWNLOAD YOUR DATA CATEGORIES
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 23
+  segment_text: How do you download your data?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 24
+  segment_text: DOWNLOAD YOUR DATA
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified: {}
+- segment_id: 25
+  segment_text: How do you delete your data?
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - delete
+- segment_id: 26
+  segment_text: DELETE YOUR ACCOUNT
+  sentence_annotations:
+    CCPA: {}
+    GDPR: {}
+    Unspecified:
+      Right_Deletion:
+      - delete

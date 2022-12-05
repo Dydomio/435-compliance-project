@@ -105,6 +105,8 @@ def makeAnnotations(text, regulations, features):
 
 # Generate a compliance report based on the annotations made
 # BUG: Instance counter is sometimes short by one (see rectification and right to know in policy 1)
+# This ^ is because it does not count instances that appear in the context of other rights (e.g. rectification in a sentence that mentions CCPA)
+# BUG or FEATURE?
 def reportCompliance(annoList, gdpr_rights, ccpa_rights, unspecified_rights):
 
     CCPArightsCounter = {"Right_Nondiscrimination" : 0, "Right_Deletion" : 0, "Right_Know" : 0, "Sale_OptOut" : 0}

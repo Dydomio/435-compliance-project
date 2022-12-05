@@ -744,6 +744,7 @@
     CCPA:
       Right_Nondiscrimination:
       - discriminate
+      - penalize
       Right_Rectification:
       - update
     GDPR: {}
