@@ -10,14 +10,16 @@ def main():
     ["Right_Portability", ["request a copy", "receive a copy", "request to receive", "right to request", "right to receive", "a copy"]],
     ["Right_Objection", ["object", "objection"]],
     ["Right_Know", ["know", "access", "shine the light", "disclose"]],
-    ["Right_Nondiscrimination", ["discriminate", "discrimination"]],
+    ["Right_Nondiscrimination", ["discriminate", "discrimination", "penalize"]],
     ["Lawful_Processing", ["consent", "contract", "legal obligation", "legitimate interest", "vital interest", "public interest"]],
-    ["DPO_Mentioned", ["data protection officer", "dpo"]]
+    ["DPO_Mentioned", ["data protection officer", "dpo"]],
     ["Sale_OptOut", ["do not sell my personal information", "do not sell", "do not share", "opt out of any sales", "opt out of the sale", "opt out of sales"]]]
 
     GDPR_rights = ["Right_Deletion", "Right_Access", "Right_Rectification", "Right_Restriction", "Right_Portability", "Right_Objection",
     "Lawful_Processing", "DPO_Mentioned"]
     CCPA_rights = ["Right_Nondiscrimination", "Right_Deletion", "Right_Know", "Sale_OptOut"]
+    Unspecified_rights = ["Right_Deletion", "Right_Access", "Right_Rectification", "Right_Restriction", "Right_Portability", "Right_Objection",
+    "Lawful_Processing", "DPO_Mentioned", "Right_Nondiscrimination", "Right_Know", "Sale_OptOut"]
 
     # A list of dictionaries of features
     annotationList = []
@@ -51,7 +53,10 @@ def main():
         for i in range(0, len(segments)):
             #print(annotationList[i])
             segments[i]['sentence_annotations'] = annotationList[i]
-            print(segments[i]['sentence_annotations'])
+            #print(segments[i]['sentence_annotations'])
+
+        # Generate the compliance report
+        segments.insert(0, {'compliance_report' : reportCompliance(annotationList, GDPR_rights, CCPA_rights, Unspecified_rights)})
         documents = yaml.dump(segments, out)
 
 # Make annotations on a single segment
@@ -98,17 +103,48 @@ def makeAnnotations(text, regulations, features):
     #print(annotations)
     return annotations
 
-def reportCompliance(annoList):
-    #GDPR Rights "Right_Deletion", "Right_Access", "Right_Rectification", "Right_Restriction", "Right_Portability", "Right_Objection","Lawful_Processing", "DPO_Mentioned"
-    #CCPA Rights "Right_Nondiscrimination", Right_Deletion", "Right_Know", "Sale_OptOut"
-    #complianceStatLine = [["GDPR",[0,0,0,0,0,0,0,0]], ["CCPA",[0,0,0,0]]]
+# Generate a compliance report based on the annotations made
+# BUG: Instance counter is sometimes short by one (see rectification and right to know in policy 1)
+def reportCompliance(annoList, gdpr_rights, ccpa_rights, unspecified_rights):
 
+    CCPArightsCounter = {"Right_Nondiscrimination" : 0, "Right_Deletion" : 0, "Right_Know" : 0, "Sale_OptOut" : 0}
+    GDPRrightsCounter = {"Right_Deletion" : 0, "Right_Access" : 0, "Right_Rectification" : 0, "Right_Restriction" : 0, "Right_Portability" : 0, "Right_Objection" : 0, "Lawful_Processing" : 0, "DPO_Mentioned" : 0}
+    CCPArightsSum = 0
+    GDPRrightsSum = 0
 
+    # cycle through all the annotation dictionaries (one for each segment)
+    for i in range (0, len(annoList)):
+        # cycle through all the GDPR rights
+        for j in range(0, len(gdpr_rights)):
+            if gdpr_rights[j] in annoList[i]["GDPR"]:
+                GDPRrightsCounter[gdpr_rights[j]] += 1
+        # cycle through all the CCPA rights
+        for k in range(0, len(ccpa_rights)):
+            if ccpa_rights[k] in annoList[i]["CCPA"]:
+                CCPArightsCounter[ccpa_rights[k]] += 1
+        # unspecified rights handling
+        for l in range(0, len(unspecified_rights)):
+            if unspecified_rights[l] in annoList[i]["Unspecified"]:
+                if unspecified_rights[l] in gdpr_rights:
+                    # add it to the gdpr list
+                    GDPRrightsCounter[unspecified_rights[l]] += 1
+                if unspecified_rights[l] in ccpa_rights:
+                    # add it to the ccpa list
+                    CCPArightsCounter[unspecified_rights[l]] += 1
 
-    #divide the amount of found rights by the amount of rights they should have
-    #complianceStat = [("GDPR: ", gdprRightCounter/8), ("CCPA: ", ccpaRightCounter/4)]
+    # Sum up how many of the CCPA rights were found
+    for key in CCPArightsCounter.keys():
+        if CCPArightsCounter[key] > 0:
+            CCPArightsSum += 1
 
-    return complianceStat
+    # Sum up how many of the GDPR rights were found
+    for key in GDPRrightsCounter.keys():
+        if GDPRrightsCounter[key] > 0:
+            GDPRrightsSum += 1
+
+    complianceReport = {'GDPR Rights Instances' : GDPRrightsCounter, 'CCPA Rights Instances' : CCPArightsCounter, 'GDPR Compliance Rate' : (GDPRrightsSum/8) * 100, 'CCPA Compliance Rate' : (CCPArightsSum/4) * 100}
+
+    return complianceReport
 
 # features is a list of lists
 # list_rights = [["Right_Deletion", ["delete", "deletion", "erase", "erasure"]]

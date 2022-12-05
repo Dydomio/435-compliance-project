@@ -1,3 +1,20 @@
+- compliance_report:
+    CCPA Compliance Rate: 100.0
+    CCPA Rights Instances:
+      Right_Deletion: 4
+      Right_Know: 13
+      Right_Nondiscrimination: 2
+      Sale_OptOut: 2
+    GDPR Compliance Rate: 87.5
+    GDPR Rights Instances:
+      DPO_Mentioned: 0
+      Lawful_Processing: 5
+      Right_Access: 8
+      Right_Deletion: 3
+      Right_Objection: 1
+      Right_Portability: 3
+      Right_Rectification: 5
+      Right_Restriction: 2
 - segment_id: 0
   segment_text: SEGA CORPORATION (with certain affiliates under our control We, Our
     or Us) understands that you care about how your information is collected, used
@@ -14,7 +31,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Know:
+      - know
 - segment_id: 2
   segment_text: This Privacy Policy may be revised from time to time and any such
     revisions will be reflected by the Last updated date above.
@@ -79,6 +98,8 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - access
 - segment_id: 10
   segment_text: Third-Party Information. From time to time, information about your
     use of Sega Services may be shared with third-party platforms and services.
@@ -100,6 +121,8 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
       - access
 - segment_id: 13
   segment_text: 'Some examples of personal information that might be supplied by you:
@@ -172,6 +195,8 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - access
 - segment_id: 23
   segment_text: Purchases and Billing. Your personal information will be used to fulfil
     orders, deliver products and services as well as process payments, including communicating
@@ -191,6 +216,8 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - access
 - segment_id: 25
   segment_text: Troubleshooting and Improving Sega Services. Information collected
     will be used to help Us identify and fix errors, improve performance and the overall
@@ -209,6 +236,8 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
       - access
 - segment_id: 27
   segment_text: Compliance. We may also have to comply with certain legal and/or regulatory
@@ -252,7 +281,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
       Right_Restriction:
       - stop
@@ -271,7 +300,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Know:
+      - know
 - segment_id: 34
   segment_text: Affiliates within the wider SEGA group. In order to provide you with
     the best services, We may share collected information with Our affiliates and/or
@@ -306,7 +337,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - legal obligation
 - segment_id: 38
   segment_text: Notwithstanding the above, Legal obligation, you will receive notice
@@ -316,7 +347,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - legal obligation
 - segment_id: 39
   segment_text: Outside of the European Union. When sharing your personal information
@@ -343,7 +374,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Know:
+      - disclose
 - segment_id: 42
   segment_text: Your Choices and Rights
   sentence_annotations:
@@ -360,6 +393,8 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
       - access
       Right_Rectification:
       - update
@@ -382,6 +417,8 @@
       - access
       Right_Deletion:
       - deletion
+      Right_Know:
+      - access
       Right_Objection:
       - object
       Right_Portability:
@@ -485,6 +522,8 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - access
 - segment_id: 55
   segment_text: Third-Party Advertisers
   sentence_annotations:
@@ -585,9 +624,11 @@
   sentence_annotations:
     CCPA: {}
     GDPR:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
       - legitimate interest
+      Right_Know:
+      - know
     Unspecified: {}
 - segment_id: 68
   segment_text: If We learn that we have collected personal information of users under
@@ -603,7 +644,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
       - legitimate interest
       Right_Deletion:
@@ -637,6 +678,9 @@
       - access
       Right_Deletion:
       - delete
+      Right_Know:
+      - know
+      - access
     GDPR: {}
     Unspecified: {}
 - segment_id: 73
@@ -666,6 +710,8 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
+      Right_Know:
+      - disclose
       Right_Portability:
       - right to request
 - segment_id: 75
@@ -673,7 +719,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Sale_OptOut:
+      - opt out of the sale
 - segment_id: 76
   segment_text: The right not to be discriminated against for exercising your privacy
     rights.
@@ -771,4 +819,6 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Sale_OptOut:
+      - do not sell

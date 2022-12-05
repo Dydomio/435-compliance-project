@@ -94,7 +94,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - contract
 - segment_id: 15
   segment_text: Privacy Policy Changes
@@ -287,6 +287,8 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - access
 - segment_id: 44
   segment_text: Information you give us
   sentence_annotations:
@@ -318,6 +320,8 @@
     GDPR: {}
     Unspecified:
       Right_Access:
+      - access
+      Right_Know:
       - access
 - segment_id: 48
   segment_text: When you subscribe to a paid service or make a purchase directly from
@@ -432,6 +436,8 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - access
 - segment_id: 62
   segment_text: Usage Information Using the services generates data about your activity
     on our services, for instance how you use them (e.g., when you logged in, features
@@ -456,6 +462,8 @@
     Unspecified:
       Right_Access:
       - access
+      Right_Know:
+      - access
 - segment_id: 64
   segment_text: Other information with your consent If you give us permission, we
     can collect your precise geolocation (latitude and longitude). The collection
@@ -469,7 +477,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
 - segment_id: 65
   segment_text: 4. Cookies and Other Similar Data Collection Technologies
@@ -627,8 +635,6 @@
     Unspecified:
       Right_Access:
       - review
-      Right_Portability:
-      - review
 - segment_id: 88
   segment_text: Understand how members typically use the services to improve them
     (for instance, we may decide to change the look and feel or even substantially
@@ -659,8 +665,6 @@
     GDPR: {}
     Unspecified:
       Right_Access:
-      - review
-      Right_Portability:
       - review
 - segment_id: 92
   segment_text: Better understand and design countermeasures against violations of
@@ -732,7 +736,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - contract
 - segment_id: 102
   segment_text: 'Legitimate interests: We process your information for purposes D,
@@ -746,7 +750,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - legitimate interest
 - segment_id: 103
   segment_text: 'Comply with applicable laws and regulations: We process your information
@@ -761,9 +765,11 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
       Right_Access:
+      - access
+      Right_Know:
       - access
 - segment_id: 104
   segment_text: 'Consent: If you choose to provide us with information that may be
@@ -781,7 +787,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
 - segment_id: 105
   segment_text: 6. How We Share Information
@@ -814,7 +820,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Know:
+      - disclose
 - segment_id: 109
   segment_text: If you choose to limit the audience for all or part of your profile
     or for certain content or information about you, then it will be visible according
@@ -943,7 +951,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR: {}
-    Unspecified: {}
+    Unspecified:
+      Right_Know:
+      - disclose
 - segment_id: 126
   segment_text: To enforce legal rights
   sentence_annotations:
@@ -966,7 +976,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
 - segment_id: 129
   segment_text: We may ask for your consent to share your information with third parties.
@@ -975,7 +985,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
 - segment_id: 130
   segment_text: We may use and share non-personal information (meaning information
@@ -1014,11 +1024,9 @@
   sentence_annotations:
     CCPA: {}
     GDPR:
-      LawfulProcessing:
+      Lawful_Processing:
       - contract
       Right_Access:
-      - review
-      Right_Portability:
       - review
     Unspecified: {}
 - segment_id: 133
@@ -1047,6 +1055,8 @@
       - access
       Right_Deletion:
       - remove
+      Right_Know:
+      - access
       Right_Rectification:
       - rectify
       - update
@@ -1061,7 +1071,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
 - segment_id: 137
   segment_text: Uninstall. You can stop all information collection by an app by uninstalling
@@ -1100,8 +1110,9 @@
       Right_Access:
       - access
       - review
-      Right_Portability:
-      - review
+      Right_Know:
+      - know
+      - access
 - segment_id: 141
   segment_text: Updating your information. If you believe that the information we
     hold about you is inaccurate or that we are no longer entitled to use it and want
@@ -1143,10 +1154,12 @@
   sentence_annotations:
     CCPA: {}
     GDPR:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
       Right_Objection:
       - object
+      Right_Portability:
+      - a copy
       Right_Restriction:
       - restrict
     Unspecified: {}
@@ -1183,7 +1196,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - legitimate interest
 - segment_id: 146
   segment_text: 'Once the safety retention window elapses, we delete your data and
@@ -1205,7 +1218,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - consent
 - segment_id: 148
   segment_text: 'b) We maintain limited information on the basis of our legitimate
@@ -1222,7 +1235,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - legitimate interest
       - vital interest
       Right_Deletion:
@@ -1238,7 +1251,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - legal obligation
       - legitimate interest
 - segment_id: 150
@@ -1264,7 +1277,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - contract
 - segment_id: 153
   segment_text: We process the personal information of our job candidates, contractors
@@ -1278,7 +1291,7 @@
     us and California-specific information.
   sentence_annotations:
     CCPA:
-      LawfulProcessing:
+      Lawful_Processing:
       - contract
     GDPR: {}
     Unspecified: {}
@@ -1301,7 +1314,7 @@
     CCPA: {}
     GDPR: {}
     Unspecified:
-      LawfulProcessing:
+      Lawful_Processing:
       - contract
 - segment_id: 155
   segment_text: 12. Privacy Policy Changes
@@ -1320,8 +1333,6 @@
     GDPR: {}
     Unspecified:
       Right_Access:
-      - review
-      Right_Portability:
       - review
 - segment_id: 157
   segment_text: 13. How to Contact Us
